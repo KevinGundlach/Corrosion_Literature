@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "paper_reference": "8",
+  "source_chart_manifest": "paper_8_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0005",
+    "image_path": "images/fb055dc4ffe8f9ef05d76e5e4d45d3b86377e34cfabb1ef8baea250ff3eb9754.jpg",
+    "caption": "FIGURE 4. Variations of transpassive and/or pitting potentials for stainless steels with temperature in 0.6 M chloride and bromide solutions.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The mixed-metric chart directly plots separable pitting-potential portions versus temperature; transpassive-only points are excluded from the target series.",
+    "confidence": 0.9,
+    "relevant_panels": [],
+    "target_series": [
+      "UNS N08904 in NaCl pitting-potential points above its critical temperature",
+      "UNS S31254 in NaBr pitting-potential points above its critical temperature",
+      "UNS N08904 in NaBr pitting-potential series"
+    ],
+    "x_axis": {
+      "label": "T",
+      "unit": "°C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Transpassive/Pitting Potential",
+      "unit": "V(SCE)",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "UNS_N08904_in_NaCl_pitting_potential",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "UNS N08904"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.6 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "T",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Transpassive/Pitting Potential",
+        "type": "numeric",
+        "unit": "V(SCE)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 60.0,
+          "y": 0.960
+        },
+        {
+          "x": 60.0,
+          "y": 1.000,
+          "label": "onset of breakdown"
+        },
+        {
+          "x": 70.0,
+          "y": 0.595
+        },
+        {
+          "x": 70.0,
+          "y": 0.625
+        },
+        {
+          "x": 70.0,
+          "y": 0.665
+        }
+      ]
+    },
+    {
+      "series_id": "UNS_S31254_in_NaBr_pitting_potential",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "UNS S31254"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.6 M NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "T",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Transpassive/Pitting Potential",
+        "type": "numeric",
+        "unit": "V(SCE)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 31.0,
+          "y": 0.985
+        },
+        {
+          "x": 50.0,
+          "y": 0.840
+        },
+        {
+          "x": 50.0,
+          "y": 0.870
+        },
+        {
+          "x": 52.0,
+          "y": 0.795
+        },
+        {
+          "x": 70.0,
+          "y": 0.570
+        },
+        {
+          "x": 70.0,
+          "y": 0.630
+        }
+      ]
+    },
+    {
+      "series_id": "UNS_N08904_in_NaBr_pitting_potential",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "UNS N08904"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.6 M NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "T",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Transpassive/Pitting Potential",
+        "type": "numeric",
+        "unit": "V(SCE)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 23.0,
+          "y": 0.690
+        },
+        {
+          "x": 23.0,
+          "y": 0.725
+        },
+        {
+          "x": 50.0,
+          "y": 0.550
+        },
+        {
+          "x": 50.0,
+          "y": 0.575
+        },
+        {
+          "x": 70.0,
+          "y": 0.460
+        },
+        {
+          "x": 70.0,
+          "y": 0.495
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "paper_reference": "56",
+    "source_chart_manifest": "paper_56_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0001",
+        "image_path": "images/42abc75edc398afdf43da5eb4a9e4b7e27fe82944fcf7973b85231a427d86743.jpg",
+        "caption": "",
+        "relevant_panels": [],
+        "target_series": [
+            "Pure Al E_pit, A=10^-1 cm\u00b2",
+            "Pure Al E_pit, A=10^-4 cm\u00b2",
+            "Al87Ni8.7Y4.3 E_pit, A=10^-1 cm\u00b2",
+            "Al87Ni8.7Y4.3 E_pit, A=10^-4 cm\u00b2"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The cumulative probability chart directly plots E_pit values for pure Al and Al87Ni8.7Y4.3 at two electrode areas.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Percent",
+            "unit": "%",
+            "scale": "unknown"
+        }
+    },
+    "plot_data": []
+}

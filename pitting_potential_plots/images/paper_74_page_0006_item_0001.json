@@ -1,0 +1,28 @@
+{
+    "paper_reference": "74",
+    "source_chart_manifest": "paper_74_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0001",
+        "image_path": "images/9ee2cecd46472e9646f6e09a873b4b15f26ad5d43c6999f45b8c607530c1c913.jpg",
+        "caption": "Fig. 3. Dependence of $E _ { \\mathsf { m } \\ell }$ on weight per cent of molybdenum or tungsten for Fe 29Cr ferritie stainless steels in 4 M $\\mathbf { M } \\mathrm { g } \\mathrm { C l } _ { 3 }$ solution at 80 C.",
+        "relevant_panels": [],
+        "target_series": [
+            "Fe-29Cr-xMo E_pit",
+            "Fe-29Cr-yW E_pit"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential E_pit is directly plotted against molybdenum or tungsten content in weight percent.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Content of Mo or W",
+            "unit": "wt.%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_pit",
+            "unit": "mV_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

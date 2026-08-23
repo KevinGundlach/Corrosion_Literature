@@ -1,0 +1,27 @@
+{
+    "paper_reference": "41",
+    "source_chart_manifest": "paper_41_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0001",
+        "image_path": "images/f72276ed947411c078b9d2f046f173f55c4d42630355f7984e19619592291996.jpg",
+        "caption": "FIGURE 3. Pitting potentials for solution-treated CF alloys determined from the cyclic polarization test. Number above each scatter bar identifies the specific CF alloy.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against the alloy composition index with discrete points and scatter bars.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "pitting potential (27\u00b0C, 3 V/hr)"
+        ],
+        "x_axis": {
+            "label": "CR + MO + 20(C + N) in austenite phase",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "POTENTIAL",
+            "unit": "volts vs SHE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

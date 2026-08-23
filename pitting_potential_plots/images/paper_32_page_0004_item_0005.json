@@ -1,0 +1,27 @@
+{
+    "paper_reference": "32",
+    "source_chart_manifest": "paper_32_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0005",
+        "image_path": "images/e3f145cd3244a1803351229cf4aa570473e327a62f4b5e221062355088e48028.jpg",
+        "caption": "Figure 7. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 9 0 } C o _ { 3 } C e _ { 7 } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data. Scan rate 0.1 mV/s.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Epit is directly plotted against nanocrystal size; the Erp series is ancillary and separable.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "Epit"
+        ],
+        "x_axis": {
+            "label": "Nanocrystal Size",
+            "unit": "nm",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "V_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

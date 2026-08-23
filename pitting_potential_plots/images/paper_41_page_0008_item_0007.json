@@ -1,0 +1,28 @@
+{
+    "paper_reference": "41",
+    "source_chart_manifest": "paper_41_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0007",
+        "image_path": "images/0fab70116c5d738dcaea8f789b2dd216ce8f6bc17a4de5c97b4d56d82adbb97b.jpg",
+        "caption": "FIGURE 15. Pitting potentials of solution-treated CF alloys determined by cyclic polarization procedure modified such that no NaCi was present in solution during active dissolution.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potentials from the standard and NaCl-free anodic-loop procedures are directly plotted against the alloy composition index.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "standard-procedure pitting potential",
+            "NaCl-free anodic-loop pitting potential"
+        ],
+        "x_axis": {
+            "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "POTENTIAL",
+            "unit": "mV vs SHE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

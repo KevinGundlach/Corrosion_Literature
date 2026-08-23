@@ -1,0 +1,28 @@
+{
+    "paper_reference": "8",
+    "source_chart_manifest": "paper_8_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0002",
+        "image_path": "images/7a426643d9a9f8cf77d8a1de2f25938f9c9c890192cccba246b868ee37af2335.jpg",
+        "caption": "FIGuRE 3. A comparison of pitting potentials for four types of austenitic stainless steels in 0.6 M chloride and bromide solutions at 70\u00b0C. Indicated on each bar is the range of potentials measured experimentally.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting-potential bars and experimental ranges are directly plotted for four steels in chloride and bromide solutions.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "pitting potential in NaCl",
+            "pitting potential in NaBr"
+        ],
+        "x_axis": {
+            "label": "Steel",
+            "unit": "",
+            "scale": "categorical"
+        },
+        "y_axis": {
+            "label": "Pitting Potential",
+            "unit": "V(SCE)",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

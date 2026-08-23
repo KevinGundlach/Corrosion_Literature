@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "paper_reference": "39",
+  "source_chart_manifest": "paper_39_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0001",
+    "image_path": "images/9c6d18e9a0a169a03695974103256ad8a454bde3b47373e057c03c9444546c1d.jpg",
+    "caption": "FiG. 5. Effect of the chloride concentration on the pitting potential of pure aluminium and various Al-Cu alloys in deaerated NaCl solutions.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Ep is directly plotted against NaCl activity for five alloy or material series.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "Ep for each alloy or material series"
+    ],
+    "x_axis": {
+      "label": "M NaCl activity",
+      "unit": "",
+      "scale": "log"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "V_nhe",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Al_4_percent_Cu_sol",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al-4% Cu (sol.)"
+        },
+        {
+          "name": "environment",
+          "value": "deaerated NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "M NaCl activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V_nhe",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0090,
+          "y": -0.305,
+          "label": "0.01 M"
+        },
+        {
+          "x": 0.078,
+          "y": -0.352,
+          "label": "0.1 M"
+        },
+        {
+          "x": 0.657,
+          "y": -0.405,
+          "label": "1 M"
+        },
+        {
+          "x": 4.37,
+          "y": -0.442,
+          "label": "5 M"
+        }
+      ]
+    },
+    {
+      "series_id": "Al2Cu",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al2Cu"
+        },
+        {
+          "name": "environment",
+          "value": "deaerated NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "M NaCl activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V_nhe",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0090,
+          "y": -0.315,
+          "label": "0.01 M"
+        },
+        {
+          "x": 0.078,
+          "y": -0.362,
+          "label": "0.1 M"
+        },
+        {
+          "x": 0.657,
+          "y": -0.415,
+          "label": "1 M"
+        },
+        {
+          "x": 4.37,
+          "y": -0.465,
+          "label": "5 M"
+        }
+      ]
+    },
+    {
+      "series_id": "Al_0_2_percent_Cu",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al-0.2% Cu"
+        },
+        {
+          "name": "environment",
+          "value": "deaerated NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open inverted triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "M NaCl activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V_nhe",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0090,
+          "y": -0.390,
+          "label": "0.01 M"
+        },
+        {
+          "x": 0.657,
+          "y": -0.520,
+          "label": "1 M"
+        }
+      ]
+    },
+    {
+      "series_id": "Al_99_99_percent",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al 99.99%"
+        },
+        {
+          "name": "environment",
+          "value": "deaerated NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "M NaCl activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V_nhe",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0090,
+          "y": -0.380,
+          "label": "0.01 M"
+        },
+        {
+          "x": 0.078,
+          "y": -0.462,
+          "label": "0.1 M"
+        },
+        {
+          "x": 0.657,
+          "y": -0.525,
+          "label": "1 M"
+        },
+        {
+          "x": 4.37,
+          "y": -0.590,
+          "label": "5 M"
+        }
+      ]
+    },
+    {
+      "series_id": "Al_99_9999_percent",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al 99.9999%"
+        },
+        {
+          "name": "environment",
+          "value": "deaerated NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "M NaCl activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V_nhe",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.024,
+          "y": -0.410,
+          "label": "0.03 M"
+        },
+        {
+          "x": 0.078,
+          "y": -0.448,
+          "label": "0.1 M"
+        }
+      ]
+    }
+  ]
+}

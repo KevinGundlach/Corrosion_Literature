@@ -1,0 +1,27 @@
+{
+    "paper_reference": "47",
+    "source_chart_manifest": "paper_47_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0005",
+        "image_path": "images/e527be05ca46c1b4e1f371121d2505ca9bae3ae6eb69c85348eb164b6ef458fd.jpg",
+        "caption": "Fig. 2\u2014The effect of nitrogen additions upon the offset pitting potential of 18 pct Cr, 18 pct Mn stainless steels.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Offset pitting potential is directly plotted against nitrogen content with discrete markers.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "offset pitting potential"
+        ],
+        "x_axis": {
+            "label": "PERCENT NITROGEN",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "OFFSET PITTING POTENTIAL",
+            "unit": "VOLTS",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,220 @@
+{
+  "schema_version": 2,
+  "paper_reference": "4",
+  "source_chart_manifest": "paper_4_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0007",
+    "image_path": "images/ac49e4ce4ba1deb1b3909162b869d59d32316507ba12c9d08c3dc6cbbf5cfaf2.jpg",
+    "caption": "FIGURE 4 — Passivation breakdown potentials; (+) Alloy 625, 0.1% NaCI, (∆) Alloy 625, 20% NaCI, () Alloy C-276, 20% NaCl, (o) Alloy C-276, 1% NaCl, and (X) Alloy C-276, 0.1% NaCl.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Passivation breakdown potential is directly plotted against temperature for separable alloy and NaCl-concentration series.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Alloy 625 passivation breakdown potential",
+      "Alloy C-276 passivation breakdown potential"
+    ],
+    "x_axis": {
+      "label": "t",
+      "unit": "°C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Eb (SHE(T))",
+      "unit": "V",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Alloy_625_0_1pct_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "Alloy 625"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1% NaCl"
+        },
+        {
+          "name": "marker_symbol",
+          "value": "+"
+        }
+      ],
+      "x_axis": {
+        "label": "t",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Eb (SHE(T))",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 73.0, "y": 0.880 },
+        { "x": 124.0, "y": 0.065 },
+        { "x": 150.0, "y": -0.030 },
+        { "x": 175.0, "y": 0.115 }
+      ]
+    },
+    {
+      "series_id": "Alloy_625_20pct_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "Alloy 625"
+        },
+        {
+          "name": "electrolyte",
+          "value": "20% NaCl"
+        },
+        {
+          "name": "marker_symbol",
+          "value": "triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "t",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Eb (SHE(T))",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 50.0, "y": 0.795 },
+        { "x": 73.0, "y": 0.380 },
+        { "x": 95.0, "y": 0.220 },
+        { "x": 100.0, "y": 0.190 },
+        { "x": 124.0, "y": 0.020 },
+        { "x": 150.0, "y": 0.010 },
+        { "x": 173.0, "y": 0.050 }
+      ]
+    },
+    {
+      "series_id": "Alloy_C276_20pct_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "Alloy C-276"
+        },
+        {
+          "name": "electrolyte",
+          "value": "20% NaCl"
+        },
+        {
+          "name": "marker_symbol",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "t",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Eb (SHE(T))",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 73.0, "y": 0.695 },
+        { "x": 100.0, "y": 0.515 },
+        { "x": 124.0, "y": -0.045 },
+        { "x": 150.0, "y": 0.050 },
+        { "x": 174.0, "y": -0.015 }
+      ]
+    },
+    {
+      "series_id": "Alloy_C276_1pct_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "Alloy C-276"
+        },
+        {
+          "name": "electrolyte",
+          "value": "1% NaCl"
+        },
+        {
+          "name": "marker_symbol",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "t",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Eb (SHE(T))",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 99.0, "y": 0.900 },
+        { "x": 124.0, "y": -0.070 },
+        { "x": 150.0, "y": 0.005 },
+        { "x": 174.0, "y": 0.020 }
+      ]
+    },
+    {
+      "series_id": "Alloy_C276_0_1pct_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "Alloy C-276"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1% NaCl"
+        },
+        {
+          "name": "marker_symbol",
+          "value": "x"
+        }
+      ],
+      "x_axis": {
+        "label": "t",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Eb (SHE(T))",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 100.0, "y": 0.360 },
+        { "x": 173.0, "y": 0.080 },
+        { "x": 192.0, "y": 0.230 }
+      ]
+    }
+  ]
+}

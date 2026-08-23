@@ -1,0 +1,29 @@
+{
+    "paper_reference": "76",
+    "source_chart_manifest": "paper_76_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0010",
+        "image_path": "images/b5f5be906983ed5913dedab5dbdd10f65af9eec509d59cf8d17f0b1210a14077.jpg",
+        "caption": "FIGURE 4 \u2014 Effect of N content in steel on potentiokinetic $\\varepsilon _ { n \\mathbf { p } } ^ { \\prime }$ and $\\theta _ { \\mathsf { n p } }$ values.",
+        "relevant_panels": [],
+        "target_series": [
+            "Potentiokinetic E'_np",
+            "E_np upper boundary",
+            "E_np lower boundary"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pit-nucleation potentials E_np and E'_np are directly plotted against nitrogen content.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "% N",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_np",
+            "unit": "mV_H",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

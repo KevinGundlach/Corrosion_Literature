@@ -1,0 +1,27 @@
+{
+    "paper_reference": "67",
+    "source_chart_manifest": "paper_67_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0001",
+        "image_path": "images/35e16c9cd18b3d09f6d9e0c98c084f1afa6c42b58a2efa400d1b4c44ec8bbddb.jpg",
+        "caption": "FIGURE 7. Effect of Mo on $E _ { b }$ and $E _ { p }.$",
+        "relevant_panels": [],
+        "target_series": [
+            "E_b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Breakdown potential E_b is directly plotted against molybdenum content; the E_p series is separable ancillary data.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Mo Content",
+            "unit": "at%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV_SHE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

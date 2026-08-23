@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "paper_reference": "67",
+  "source_chart_manifest": "paper_67_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0001",
+    "image_path": "images/ec76bc948af080e1aeefe08a4c2bfaab2ebc1742b180295e21830b5f9f79969d.jpg",
+    "caption": "FIGURE 4. Effect of Cr content on $E _ { b }.$",
+    "relevant_panels": [],
+    "target_series": [
+      "E_b"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Breakdown potential E_b is directly plotted against chromium content with discrete markers.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Cr Content",
+      "unit": "at%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_b",
+      "unit": "mV_SHE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "E_b",
+      "tags": [
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Cr Content",
+        "type": "numeric",
+        "unit": "at%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_b",
+        "type": "numeric",
+        "unit": "mV_SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 330.0
+        },
+        {
+          "x": 2.0,
+          "y": 420.0
+        },
+        {
+          "x": 4.0,
+          "y": 520.0
+        },
+        {
+          "x": 6.0,
+          "y": 620.0
+        }
+      ]
+    }
+  ]
+}

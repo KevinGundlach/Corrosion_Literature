@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "paper_reference": "83",
+  "source_chart_manifest": "paper_83_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0006",
+    "image_path": "images/4cae0a944c78b228baba26dde712a373bebdd6ef8a5ad3acc4473ef2d75ba38e.jpg",
+    "caption": "FIGURE 10 Potentiostatic CPT of 904L under different applied potential",
+    "relevant_panels": [],
+    "target_series": [
+      "904L potentiodynamic pitting-potential branch"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The potentiodynamic Z-curve boundary directly plots the 904L pitting-potential branch against temperature; potentiostatic CPT markers are ancillary.",
+    "confidence": 0.9,
+    "x_axis": {
+      "label": "Temperature",
+      "unit": "\u00b0C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "904L_potentiodynamic_pitting_potential_branch",
+      "tags": [
+        {
+          "name": "alloy_grade",
+          "value": "904L"
+        },
+        {
+          "name": "curve_type",
+          "value": "potentiodynamic Z-curve envelope and data"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 54.8,
+          "y": 0.830,
+          "label": "Z-curve upper boundary start"
+        },
+        {
+          "x": 80.0,
+          "y": 0.405,
+          "label": "Z-curve upper boundary end"
+        },
+        {
+          "x": 55.0,
+          "y": 0.470,
+          "label": "Z-curve lower boundary start"
+        },
+        {
+          "x": 80.0,
+          "y": 0.230,
+          "label": "Z-curve lower boundary end"
+        },
+        {
+          "x": 53.5,
+          "y": 0.900,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 54.0,
+          "y": 0.800,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 55.0,
+          "y": 0.900,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 55.0,
+          "y": 0.600,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 56.0,
+          "y": 0.800,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 56.0,
+          "y": 0.700,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 56.5,
+          "y": 0.800,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 57.0,
+          "y": 0.800,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 57.5,
+          "y": 0.600,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 58.0,
+          "y": 0.700,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 59.5,
+          "y": 0.700,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 61.0,
+          "y": 0.500,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 61.5,
+          "y": 0.600,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 62.0,
+          "y": 0.600,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 62.5,
+          "y": 0.500,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 63.0,
+          "y": 0.400,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 63.5,
+          "y": 0.400,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 64.5,
+          "y": 0.500,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 65.0,
+          "y": 0.400,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 70.0,
+          "y": 0.500,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 71.0,
+          "y": 0.500,
+          "label": "Potentiostatic CPT point"
+        },
+        {
+          "x": 73.0,
+          "y": 0.400,
+          "label": "Potentiostatic CPT point"
+        }
+      ]
+    }
+  ]
+}

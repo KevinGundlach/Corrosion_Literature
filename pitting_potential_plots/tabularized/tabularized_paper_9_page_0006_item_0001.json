@@ -1,0 +1,122 @@
+{
+  "schema_version": 2,
+  "paper_reference": "9",
+  "source_chart_manifest": "paper_9_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0001",
+    "image_path": "images/9bab10217fc8057f5f1042439d66c6335f25f18a40bf40263ac87706ae91382f.jpg",
+    "caption": "Fig. 5. The variation of pitting potential with pH for 302 wire in 1.0 M NaCl and 1.0 M NaBr.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against pH for two halide solutions.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "NaCl pitting potential",
+      "NaBr pitting potential"
+    ],
+    "x_axis": {
+      "label": "pH",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "NaCl_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "302 wire"
+        },
+        {
+          "name": "electrolyte",
+          "value": "1.0 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "pH",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.0,
+          "y": 297.0
+        },
+        {
+          "x": 4.0,
+          "y": 352.0
+        },
+        {
+          "x": 5.0,
+          "y": 367.0
+        }
+      ]
+    },
+    {
+      "series_id": "NaBr_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "302 wire"
+        },
+        {
+          "name": "electrolyte",
+          "value": "1.0 M NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "pH",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.0,
+          "y": 381.0
+        },
+        {
+          "x": 4.0,
+          "y": 406.0
+        },
+        {
+          "x": 5.0,
+          "y": 452.0
+        }
+      ]
+    }
+  ]
+}

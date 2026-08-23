@@ -1,0 +1,28 @@
+{
+    "paper_reference": "7",
+    "source_chart_manifest": "paper_7_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0015",
+        "image_path": "images/42e850b08b509bd35128513358b017e37d3bd9a7d40684b0416f9e9d929f70a3.jpg",
+        "caption": "Fig. 6. Critical pitting potentials, determined potentiostatically, of AI in 0.005M NaCI with ${ \\mathsf { N a s S O } } _ { 4 }$ additions, and in 0.1M NaCl with $N a N O _ { 3 }$ additions, $2 5 \\circ _ { \\bf C }$",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against sulfate or nitrate activity.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "critical pitting potential with SO4\u00b2\u2212 additions",
+            "critical pitting potential with NO3\u2212 additions"
+        ],
+        "x_axis": {
+            "label": "Activity of SO4\u00b2\u2212 or NO3\u2212",
+            "unit": "",
+            "scale": "log"
+        },
+        "y_axis": {
+            "label": "Critical Potential Vc",
+            "unit": "Volts, S.H.E.",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

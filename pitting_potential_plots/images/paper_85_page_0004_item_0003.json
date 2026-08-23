@@ -1,0 +1,30 @@
+{
+    "paper_reference": "85",
+    "source_chart_manifest": "paper_85_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0003",
+        "image_path": "images/f1c948f926b043321cbb73d6b72efe9bb3134c99fa86246f233da84d33db062f.jpg",
+        "caption": "Fig. 4. Pitting potentials as a function of temperature Abb. 4. Temperaturabh\u00e4ngigkeit der Lochkorrosionspotentiale",
+        "relevant_panels": [],
+        "target_series": [
+            "18Cr/10Ni/3Mo steel pitting potential",
+            "Cast 20-type steel pitting potential",
+            "Ferralium 255 pitting potential",
+            "Ferralium 288 pitting potential"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against temperature for four stainless-steel alloys.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting potential",
+            "unit": "mV (S.H.E.)",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,30 @@
+{
+    "paper_reference": "16",
+    "source_chart_manifest": "paper_16_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0007_item_0004",
+        "image_path": "images/ac9f08c0f6d29cf358a8e23ab7e369b263e084cc1235f9adf28f9b1e2b25105e.jpg",
+        "caption": "Fig.10 Effect of heating temperature on ferrite content and pitting potential of duplex SSs",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The lower panel directly plots pitting potential against maximum heating temperature for two steels.",
+        "confidence": 0.98,
+        "relevant_panels": [
+            "lower panel"
+        ],
+        "target_series": [
+            "28Cr pitting potential",
+            "329J2L pitting potential"
+        ],
+        "x_axis": {
+            "label": "Maximum heating temperature",
+            "unit": "K",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

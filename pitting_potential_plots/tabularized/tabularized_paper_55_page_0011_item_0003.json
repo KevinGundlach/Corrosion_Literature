@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "paper_reference": "55",
+  "source_chart_manifest": "paper_55_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0011_item_0003",
+    "image_path": "images/592f9786c44c169fb76c44607802b0a776b3c167e1991fdb757a3bc19f96842f.jpg",
+    "caption": "Figure 8. Effect of $1 0 0 ^ { \\circ } \\mathrm { C }$ isothermal heat treatments on ${ \\mathrm { E } } _ { { \\mathrm { p i t } } }, { \\mathrm { E } } _ { { \\mathrm { r p } } },$ and OCP values for $\\mathrm { A l _ { 8 7 } C o _ { 7 } C e _ { 6 } }$ alloy when tested in deaerated 0.6 M NaCl after a one hour exposure to solution. Data is compared to fully crystalline $\\mathrm { A l _ { 8 7 } C o _ { 7 } C e _ { 6 } }$ alloy after $5 5 0 \\mathrm { { } ^ { \\circ } C }$ isothermal heat treatment.",
+    "relevant_panels": [],
+    "target_series": [
+      "Average E_pit following heat treatment",
+      "Crystalline E_pit"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "E_pit is directly plotted against 100 \u00b0C heat-treatment duration; the OCP and E_rp series are separable ancillary data.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Hours at 100\u00b0C",
+      "unit": "h",
+      "scale": "unknown"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Average_E_pit_following_heat_treatment",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al87Co7Ce6"
+        },
+        {
+          "name": "heat_treatment_temp",
+          "value": "100 °C"
+        },
+        {
+          "name": "test_solution",
+          "value": "deaerated 0.6 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "red triangle down"
+        }
+      ],
+      "x_axis": {
+        "label": "Hours at 100\u00b0C",
+        "type": "numeric",
+        "unit": "h",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -0.255,
+          "y_lower": -0.272,
+          "y_upper": -0.230,
+          "y_interval_meaning": "error bar"
+        },
+        {
+          "x": 1.0,
+          "y": -0.250,
+          "y_lower": -0.268,
+          "y_upper": -0.232,
+          "y_interval_meaning": "error bar"
+        },
+        {
+          "x": 10.0,
+          "y": -0.215,
+          "y_lower": -0.255,
+          "y_upper": -0.175,
+          "y_interval_meaning": "error bar"
+        },
+        {
+          "x": 100.0,
+          "y": -0.115,
+          "y_lower": -0.192,
+          "y_upper": -0.025,
+          "y_interval_meaning": "error bar"
+        },
+        {
+          "x": 1000.0,
+          "y": -0.165,
+          "y_lower": -0.288,
+          "y_upper": -0.040,
+          "y_interval_meaning": "error bar"
+        }
+      ]
+    },
+    {
+      "series_id": "Crystalline_E_pit",
+      "tags": [
+        {
+          "name": "material",
+          "value": "fully crystalline Al87Co7Ce6 (550 °C heat treatment)"
+        },
+        {
+          "name": "test_solution",
+          "value": "deaerated 0.6 M NaCl"
+        },
+        {
+          "name": "line_style",
+          "value": "solid red line"
+        }
+      ],
+      "x_axis": {
+        "label": "Hours at 100\u00b0C",
+        "type": "numeric",
+        "unit": "h",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -0.675,
+          "label": "Crystalline Epit baseline"
+        },
+        {
+          "x": 1000.0,
+          "y": -0.675,
+          "label": "Crystalline Epit baseline"
+        }
+      ]
+    }
+  ]
+}

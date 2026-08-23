@@ -1,0 +1,28 @@
+{
+    "paper_reference": "83",
+    "source_chart_manifest": "paper_83_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0005",
+        "image_path": "images/e9ed661de13c80e2a63deea857f2892880028a6e5f14ce268f5ec7429a5f921b.jpg",
+        "caption": "FIGURE 8 Z curves of 254SMO in 1 M and 3 M NaCl",
+        "relevant_panels": [],
+        "target_series": [
+            "254SMO pitting potential in 3 M NaCl",
+            "254SMO pitting potential in 1 M NaCl"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The Z curves directly plot 254SMO pitting-potential branches against temperature for two chloride concentrations.",
+        "confidence": 0.94,
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "V",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

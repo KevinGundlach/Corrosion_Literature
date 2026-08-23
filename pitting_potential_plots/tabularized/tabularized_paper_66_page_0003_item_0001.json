@@ -1,0 +1,401 @@
+{
+  "schema_version": 2,
+  "paper_reference": "66",
+  "source_chart_manifest": "paper_66_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0001",
+    "image_path": "images/ee21b48ae40ff1ace447a8d4dac6c7578e5a3a8d069807c3e757f5a4c41ec24e.jpg",
+    "caption": "FIGURE 5 - Effect of Mn content on potential of pit nucleation.",
+    "relevant_panels": [],
+    "target_series": [
+      "Forged E_np in 0.1 N NaCl",
+      "Forged E_np in 0.05 N NaCl",
+      "Forged E_np in 0.01 N NaCl",
+      "Quenched E_np in 0.1 N NaCl",
+      "Quenched E_np in 0.05 N NaCl",
+      "Quenched E_np in 0.01 N NaCl"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pit-nucleation potential E_np is directly plotted against manganese content for three chloride concentrations and two material conditions.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "% Mn",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_np",
+      "unit": "mV_H",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Forged_E_np_in_0_1_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy_base",
+          "value": "18 Cr - 5 Ni"
+        },
+        {
+          "name": "condition",
+          "value": "forged"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 n H2SO4 + 0.1 n NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "% Mn",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 700.0
+        },
+        {
+          "x": 6.0,
+          "y": 88.0
+        },
+        {
+          "x": 10.5,
+          "y": 85.0
+        },
+        {
+          "x": 11.8,
+          "y": 85.0
+        },
+        {
+          "x": 15.0,
+          "y": 88.0
+        }
+      ]
+    },
+    {
+      "series_id": "Forged_E_np_in_0_05_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy_base",
+          "value": "18 Cr - 5 Ni"
+        },
+        {
+          "name": "condition",
+          "value": "forged"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 n H2SO4 + 0.05 n NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "% Mn",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 1100.0
+        },
+        {
+          "x": 6.0,
+          "y": 600.0
+        },
+        {
+          "x": 9.8,
+          "y": 550.0
+        },
+        {
+          "x": 12.0,
+          "y": 545.0
+        },
+        {
+          "x": 15.0,
+          "y": 600.0
+        }
+      ]
+    },
+    {
+      "series_id": "Forged_E_np_in_0_01_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy_base",
+          "value": "18 Cr - 5 Ni"
+        },
+        {
+          "name": "condition",
+          "value": "forged"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 n H2SO4 + 0.01 n NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "% Mn",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 6.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 9.8,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 11.8,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 15.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        }
+      ]
+    },
+    {
+      "series_id": "Quenched_E_np_in_0_1_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy_base",
+          "value": "18 Cr - 5 Ni"
+        },
+        {
+          "name": "condition",
+          "value": "quenched 1050°C/aq."
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 n H2SO4 + 0.1 n NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "% Mn",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 750.0
+        },
+        {
+          "x": 6.0,
+          "y": 92.0
+        },
+        {
+          "x": 9.8,
+          "y": 60.0
+        },
+        {
+          "x": 10.0,
+          "y": 90.0
+        },
+        {
+          "x": 12.0,
+          "y": 90.0
+        },
+        {
+          "x": 15.0,
+          "y": 70.0
+        }
+      ]
+    },
+    {
+      "series_id": "Quenched_E_np_in_0_05_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy_base",
+          "value": "18 Cr - 5 Ni"
+        },
+        {
+          "name": "condition",
+          "value": "quenched 1050°C/aq."
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 n H2SO4 + 0.05 n NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "% Mn",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 1100.0
+        },
+        {
+          "x": 6.0,
+          "y": 950.0
+        },
+        {
+          "x": 9.8,
+          "y": 500.0
+        },
+        {
+          "x": 10.5,
+          "y": 500.0
+        },
+        {
+          "x": 12.0,
+          "y": 500.0
+        },
+        {
+          "x": 15.0,
+          "y": 500.0
+        }
+      ]
+    },
+    {
+      "series_id": "Quenched_E_np_in_0_01_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy_base",
+          "value": "18 Cr - 5 Ni"
+        },
+        {
+          "name": "condition",
+          "value": "quenched 1050°C/aq."
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 n H2SO4 + 0.01 n NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "% Mn",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 6.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 10.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 10.5,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 12.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 15.0,
+          "y": 1160.0,
+          "label": "no pitting"
+        }
+      ]
+    }
+  ]
+}

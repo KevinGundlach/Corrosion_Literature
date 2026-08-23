@@ -1,0 +1,29 @@
+{
+    "paper_reference": "38",
+    "source_chart_manifest": "paper_38_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0005",
+        "image_path": "images/522c1b87d9a9446afa59d3651de4b5eb0bea04798beaa612a76793e5a1682a8e.jpg",
+        "caption": "FIGURE 14 \u2014 Effect of heating temperature on the pitting potential in NaCl solution and corrosion rate in ${ \\bf H N O _ { 3 } }$ for 22Cr duplex SS (N = 0.137%, heated for 1 h).",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The upper panel directly plots pitting potential against heat-treatment temperature; the lower corrosion-rate panel is ancillary.",
+        "confidence": 0.99,
+        "relevant_panels": [
+            "upper panel"
+        ],
+        "target_series": [
+            "Pitting Potential (60 \u00b0C, 5% NaCl)"
+        ],
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting Potential",
+            "unit": "mV vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

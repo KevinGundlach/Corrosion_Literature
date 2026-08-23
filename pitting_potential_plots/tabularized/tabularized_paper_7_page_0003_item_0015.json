@@ -1,0 +1,159 @@
+{
+  "schema_version": 2,
+  "paper_reference": "7",
+  "source_chart_manifest": "paper_7_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0015",
+    "image_path": "images/42e850b08b509bd35128513358b017e37d3bd9a7d40684b0416f9e9d929f70a3.jpg",
+    "caption": "Fig. 6. Critical pitting potentials, determined potentiostatically, of AI in 0.005M NaCI with ${ \\mathsf { N a s S O } } _ { 4 }$ additions, and in 0.1M NaCl with $N a N O _ { 3 }$ additions, $2 5 \\circ _ { \\bf C }$",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Critical pitting potential is directly plotted against sulfate or nitrate activity.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "critical pitting potential with SO4\u00b2\u2212 additions",
+      "critical pitting potential with NO3\u2212 additions"
+    ],
+    "x_axis": {
+      "label": "Activity of SO4\u00b2\u2212 or NO3\u2212",
+      "unit": "",
+      "scale": "log"
+    },
+    "y_axis": {
+      "label": "Critical Potential Vc",
+      "unit": "Volts, S.H.E.",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "critical_pitting_potential_with_SO4_additions",
+      "tags": [
+        {
+          "name": "addition",
+          "value": "Na2SO4"
+        },
+        {
+          "name": "base_solution",
+          "value": "0.005M NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "25 °C"
+        },
+        {
+          "name": "material",
+          "value": "Al"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Activity of SO4\u00b2\u2212 or NO3\u2212",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Critical Potential Vc",
+        "type": "numeric",
+        "unit": "Volts, S.H.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0024,
+          "y": -0.095,
+          "label": "0.005M"
+        },
+        {
+          "x": 0.029,
+          "y": 0.320,
+          "label": "0.05M"
+        },
+        {
+          "x": 0.048,
+          "y": 0.430,
+          "label": "0.1M"
+        },
+        {
+          "x": 0.075,
+          "y": 0.495,
+          "label": "0.2M"
+        },
+        {
+          "x": 0.145,
+          "y": 0.640,
+          "label": "0.5M"
+        }
+      ]
+    },
+    {
+      "series_id": "critical_pitting_potential_with_NO3_additions",
+      "tags": [
+        {
+          "name": "addition",
+          "value": "NaNO3"
+        },
+        {
+          "name": "base_solution",
+          "value": "0.1M NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "25 °C"
+        },
+        {
+          "name": "material",
+          "value": "Al"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Activity of SO4\u00b2\u2212 or NO3\u2212",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Critical Potential Vc",
+        "type": "numeric",
+        "unit": "Volts, S.H.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.142,
+          "y": 0.000,
+          "label": "0.2M"
+        },
+        {
+          "x": 0.200,
+          "y": 0.255,
+          "label": "0.3M"
+        },
+        {
+          "x": 0.250,
+          "y": 0.580,
+          "label": "0.4M"
+        },
+        {
+          "x": 0.295,
+          "y": 0.760,
+          "label": "0.5M"
+        }
+      ]
+    }
+  ]
+}

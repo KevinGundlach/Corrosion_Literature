@@ -1,0 +1,166 @@
+{
+  "schema_version": 2,
+  "paper_reference": "1",
+  "source_chart_manifest": "paper_1_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0002_item_0012",
+    "image_path": "images/da0a8dce4b9007b8b472b388502ec3596a475bf5ea27828a62dc5618d6aa65f7.jpg",
+    "caption": "Fig. 2. Critical pitting potentials for Cr-Ni alloys in 0.1N NaCl $2 5 \\%$",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Two critical pitting-potential series are directly plotted against chromium content.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Vc' (50 mV/5 min)",
+      "Vc steady state"
+    ],
+    "x_axis": {
+      "label": "Wt. % Chromium",
+      "unit": "wt. %",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "Volts, H2 Scale",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Vc_prime_50mV_per_5min",
+      "tags": [
+        {
+          "name": "measurement_method",
+          "value": "50 mV / 5 min scan"
+        },
+        {
+          "name": "material_system",
+          "value": "Cr-Ni alloys"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.1N NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Wt. % Chromium",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "Volts, H2 Scale",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 0.295
+        },
+        {
+          "x": 1.9,
+          "y": 0.295
+        },
+        {
+          "x": 5.3,
+          "y": 0.295
+        },
+        {
+          "x": 11.8,
+          "y": 0.390
+        },
+        {
+          "x": 14.9,
+          "y": 0.603
+        },
+        {
+          "x": 18.0,
+          "y": 0.755
+        },
+        {
+          "x": 25.1,
+          "y": 0.801
+        },
+        {
+          "x": 29.5,
+          "y": 0.805
+        }
+      ]
+    },
+    {
+      "series_id": "Vc_steady_state",
+      "tags": [
+        {
+          "name": "measurement_method",
+          "value": "Steady State"
+        },
+        {
+          "name": "material_system",
+          "value": "Cr-Ni alloys"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.1N NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Wt. % Chromium",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "Volts, H2 Scale",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 0.278
+        },
+        {
+          "x": 1.9,
+          "y": 0.278
+        },
+        {
+          "x": 11.8,
+          "y": 0.370
+        },
+        {
+          "x": 15.0,
+          "y": 0.555
+        },
+        {
+          "x": 18.0,
+          "y": 0.730
+        },
+        {
+          "x": 25.2,
+          "y": 0.783
+        },
+        {
+          "x": 29.5,
+          "y": 0.788
+        }
+      ]
+    }
+  ]
+}

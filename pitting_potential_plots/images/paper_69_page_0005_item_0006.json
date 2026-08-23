@@ -1,0 +1,27 @@
+{
+    "paper_reference": "69",
+    "source_chart_manifest": "paper_69_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0006",
+        "image_path": "images/7e35bf84134cbf27a3f7add7df996e8bcc9ebaf015bfd1724d0d62cd899e1903.jpg",
+        "caption": "Fig. 6. The effect of the average Mo content in the alloy on the $\\pmb { \\varepsilon _ { \\mathrm { { b } } } }$ determined from a rapid increase in the current density during potentiodynamic polarization.",
+        "relevant_panels": [],
+        "target_series": [
+            "Breakdown potential E_b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Breakdown potential E_b is directly plotted against molybdenum concentration with discrete markers.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Molybdenum Concentration",
+            "unit": "at.%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Breakdown Potential, E_b",
+            "unit": "mV vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

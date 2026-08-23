@@ -1,0 +1,28 @@
+{
+    "paper_reference": "83",
+    "source_chart_manifest": "paper_83_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0007",
+        "image_path": "images/7f3993fc724265469066abf7f5e6344fd362a2c7fc2ae775ebab1eded2809fd2.jpg",
+        "caption": "FIGURE 7 Z curves of 904L with different scanning rate",
+        "relevant_panels": [],
+        "target_series": [
+            "904L pitting potential at 30 mV/min",
+            "904L pitting potential at 10 mV/min"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The Z curves directly plot 904L pitting-potential branches against temperature for two potential scan rates.",
+        "confidence": 0.94,
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "V",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

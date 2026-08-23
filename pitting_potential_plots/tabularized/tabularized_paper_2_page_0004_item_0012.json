@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "paper_reference": "2",
+  "source_chart_manifest": "paper_2_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0012",
+    "image_path": "images/4db8eda3d350f7974cce8bb384436bb7d36a3751aae6aab1ac7824e058c57aa0.jpg",
+    "caption": "Fig. 7. Pitting potentials obtained from potentiodynamic polarization scans in argon-saturated 1.0M sodium chloride.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potentials are directly plotted against molybdenum content for separable alloy series.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "20% Cr-39% Ni pitting potential",
+      "17.6% Cr-13.6% Ni pitting potential",
+      "delta-ferrite pitting potentials"
+    ],
+    "x_axis": {
+      "label": "Molybdenum Content",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting Potential",
+      "unit": "V versus SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "20_Cr_39_Ni_pitting_potential",
+      "tags": [
+        {
+          "name": "alloy_composition",
+          "value": "20% Cr - 39% Ni"
+        },
+        {
+          "name": "test_solution",
+          "value": "argon-saturated 1.0M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Content",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "V versus SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.05,
+          "y": 0.360
+        },
+        {
+          "x": 0.05,
+          "y": 0.585
+        },
+        {
+          "x": 0.94,
+          "y": 0.800,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        },
+        {
+          "x": 1.01,
+          "y": 0.796,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        },
+        {
+          "x": 2.90,
+          "y": 0.796,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        },
+        {
+          "x": 3.00,
+          "y": 0.796,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        },
+        {
+          "x": 4.85,
+          "y": 0.798,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        }
+      ]
+    },
+    {
+      "series_id": "17_6_Cr_13_6_Ni_pitting_potential",
+      "tags": [
+        {
+          "name": "alloy_composition",
+          "value": "17.6% Cr - 13.6% Ni"
+        },
+        {
+          "name": "test_solution",
+          "value": "argon-saturated 1.0M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Content",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "V versus SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.00,
+          "y": 0.485
+        },
+        {
+          "x": 2.00,
+          "y": 0.252
+        },
+        {
+          "x": 1.99,
+          "y": 0.412
+        },
+        {
+          "x": 1.99,
+          "y": 0.435
+        },
+        {
+          "x": 2.48,
+          "y": 0.395
+        },
+        {
+          "x": 2.48,
+          "y": 0.495
+        },
+        {
+          "x": 2.91,
+          "y": 0.525
+        },
+        {
+          "x": 2.94,
+          "y": 0.490
+        },
+        {
+          "x": 3.39,
+          "y": 0.780
+        },
+        {
+          "x": 3.39,
+          "y": 0.800,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        }
+      ]
+    },
+    {
+      "series_id": "delta_ferrite_pitting_potentials",
+      "tags": [
+        {
+          "name": "phase",
+          "value": "Delta Ferrite"
+        },
+        {
+          "name": "test_solution",
+          "value": "argon-saturated 1.0M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Content",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "V versus SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.95,
+          "y": 0.590
+        },
+        {
+          "x": 3.95,
+          "y": 0.610
+        },
+        {
+          "x": 3.95,
+          "y": 0.795,
+          "label": ">0.8 V (no breakdown below transpassive region)"
+        }
+      ]
+    }
+  ]
+}

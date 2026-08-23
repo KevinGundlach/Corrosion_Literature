@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "paper_reference": "41",
+  "source_chart_manifest": "paper_41_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0001",
+    "image_path": "images/f72276ed947411c078b9d2f046f173f55c4d42630355f7984e19619592291996.jpg",
+    "caption": "FIGURE 3. Pitting potentials for solution-treated CF alloys determined from the cyclic polarization test. Number above each scatter bar identifies the specific CF alloy.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against the alloy composition index with discrete points and scatter bars.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "pitting potential (27\u00b0C, 3 V/hr)"
+    ],
+    "x_axis": {
+      "label": "CR + MO + 20(C + N) in austenite phase",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "POTENTIAL",
+      "unit": "volts vs SHE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "pitting_potential_27C_3_V_per_hr",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "solution-treated CF alloys"
+        },
+        {
+          "name": "temperature",
+          "value": "27 °C"
+        },
+        {
+          "name": "scan_rate",
+          "value": "3 V/hr"
+        },
+        {
+          "name": "test_type",
+          "value": "cyclic polarization test"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle with scatter bar"
+        }
+      ],
+      "x_axis": {
+        "label": "CR + MO + 20(C + N) in austenite phase",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "POTENTIAL",
+        "type": "numeric",
+        "unit": "volts vs SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 22.10,
+          "y": 0.790,
+          "y_lower": 0.768,
+          "y_upper": 0.825,
+          "y_interval_meaning": "scatter bar",
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.52,
+          "y": 0.805,
+          "y_lower": 0.778,
+          "y_upper": 0.852,
+          "y_interval_meaning": "scatter bar",
+          "label": "Alloy 12"
+        },
+        {
+          "x": 23.22,
+          "y": 0.870,
+          "y_lower": 0.845,
+          "y_upper": 0.908,
+          "y_interval_meaning": "scatter bar",
+          "label": "Alloy 13"
+        },
+        {
+          "x": 23.90,
+          "y": 0.928,
+          "y_lower": 0.910,
+          "y_upper": 0.942,
+          "y_interval_meaning": "scatter bar",
+          "label": "Alloy 14"
+        },
+        {
+          "x": 24.45,
+          "y": 0.970,
+          "y_lower": 0.955,
+          "y_upper": 0.988,
+          "y_interval_meaning": "scatter bar",
+          "label": "Alloy 3"
+        },
+        {
+          "x": 25.32,
+          "y": 1.010,
+          "y_lower": 0.982,
+          "y_upper": 1.050,
+          "y_interval_meaning": "scatter bar",
+          "label": "Alloy 4"
+        }
+      ]
+    }
+  ]
+}

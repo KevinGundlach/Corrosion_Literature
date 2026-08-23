@@ -1,0 +1,32 @@
+{
+    "paper_reference": "66",
+    "source_chart_manifest": "paper_66_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0001",
+        "image_path": "images/ee21b48ae40ff1ace447a8d4dac6c7578e5a3a8d069807c3e757f5a4c41ec24e.jpg",
+        "caption": "FIGURE 5 - Effect of Mn content on potential of pit nucleation.",
+        "relevant_panels": [],
+        "target_series": [
+            "Forged E_np in 0.1 N NaCl",
+            "Forged E_np in 0.05 N NaCl",
+            "Forged E_np in 0.01 N NaCl",
+            "Quenched E_np in 0.1 N NaCl",
+            "Quenched E_np in 0.05 N NaCl",
+            "Quenched E_np in 0.01 N NaCl"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pit-nucleation potential E_np is directly plotted against manganese content for three chloride concentrations and two material conditions.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "% Mn",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_np",
+            "unit": "mV_H",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

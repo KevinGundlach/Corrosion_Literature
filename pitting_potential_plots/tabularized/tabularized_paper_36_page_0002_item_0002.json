@@ -1,0 +1,398 @@
+{
+  "schema_version": 2,
+  "paper_reference": "36",
+  "source_chart_manifest": "paper_36_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0002_item_0002",
+    "image_path": "images/20b09837d1c7a5761718df3e08a8dea7d3bbb18f2e083bbeb20fa0f958c4e63d.jpg",
+    "caption": "FIGURE 1 \u2014 Variations of the pitting potential in 7.0 x $1 0 ^ { - 4 } \\ M C 1$ solutions at (a) 24 C for Alloy 600 (\u2022); Alloy 800 $(\\bullet - - \\bullet);$ AISI 304 SS (\u2206, \u25b2, + for repassivating pits, stable pitting and potentiostatically initiated pits respectively); (b) 80 C for Alloy 600 (\u2022 \u2013 \u25cf); Alloy 800 (); AISI 304 SS ().",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Ep is directly plotted against thiosulfate concentration with distinct alloy and temperature series.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Ep for each alloy and temperature series"
+    ],
+    "x_axis": {
+      "label": "[S2O3^2-]",
+      "unit": "M",
+      "scale": "log"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "mV Ag/AgCl",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "AISI_304_SS_stable_pitting_24C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "AISI 304 SS"
+        },
+        {
+          "name": "temperature",
+          "value": "24 °C"
+        },
+        {
+          "name": "pit_type",
+          "value": "stable pitting"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 8.0e-5,
+          "y": 378.0
+        },
+        {
+          "x": 1.3e-4,
+          "y": 402.0
+        }
+      ]
+    },
+    {
+      "series_id": "AISI_304_SS_repassivating_pits_24C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "AISI 304 SS"
+        },
+        {
+          "name": "temperature",
+          "value": "24 °C"
+        },
+        {
+          "name": "pit_type",
+          "value": "repassivating pits"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 8.0e-5,
+          "y": 150.0
+        },
+        {
+          "x": 8.0e-5,
+          "y": 302.0
+        },
+        {
+          "x": 1.4e-4,
+          "y": 280.0
+        },
+        {
+          "x": 2.5e-4,
+          "y": 300.0
+        }
+      ]
+    },
+    {
+      "series_id": "AISI_304_SS_potentiostatic_24C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "AISI 304 SS"
+        },
+        {
+          "name": "temperature",
+          "value": "24 °C"
+        },
+        {
+          "name": "pit_type",
+          "value": "potentiostatically initiated pits"
+        },
+        {
+          "name": "marker_style",
+          "value": "plus"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5e-4,
+          "y": 250.0
+        },
+        {
+          "x": 4.0e-4,
+          "y": 500.0
+        }
+      ]
+    },
+    {
+      "series_id": "Alloy_600_24C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Alloy 600"
+        },
+        {
+          "name": "temperature",
+          "value": "24 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "small dot"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 1.8e-5,
+          "y": 150.0
+        },
+        {
+          "x": 2.6e-5,
+          "y": 175.0
+        },
+        {
+          "x": 4.5e-5,
+          "y": 200.0
+        },
+        {
+          "x": 6.0e-5,
+          "y": 250.0
+        },
+        {
+          "x": 1.3e-4,
+          "y": 350.0
+        },
+        {
+          "x": 2.5e-4,
+          "y": 400.0
+        }
+      ]
+    },
+    {
+      "series_id": "Alloy_800_24C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Alloy 800"
+        },
+        {
+          "name": "temperature",
+          "value": "24 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "small dot dashed"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.5e-5,
+          "y": 100.0
+        },
+        {
+          "x": 5.0e-5,
+          "y": 150.0
+        },
+        {
+          "x": 7.0e-5,
+          "y": 250.0
+        },
+        {
+          "x": 1.5e-4,
+          "y": 450.0
+        }
+      ]
+    },
+    {
+      "series_id": "Alloy_600_80C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Alloy 600"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 9.0e-6,
+          "y": 5.0
+        },
+        {
+          "x": 1.8e-5,
+          "y": 28.0
+        },
+        {
+          "x": 6.5e-5,
+          "y": 100.0
+        },
+        {
+          "x": 9.0e-5,
+          "y": 178.0
+        },
+        {
+          "x": 3.0e-4,
+          "y": 355.0
+        },
+        {
+          "x": 6.5e-4,
+          "y": 475.0
+        }
+      ]
+    },
+    {
+      "series_id": "Alloy_800_80C",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Alloy 800"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle dashed"
+        }
+      ],
+      "x_axis": {
+        "label": "[S2O3^2-]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV Ag/AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 9.5e-6,
+          "y": -48.0
+        },
+        {
+          "x": 1.8e-5,
+          "y": -80.0
+        },
+        {
+          "x": 3.5e-5,
+          "y": 0.0
+        },
+        {
+          "x": 9.0e-5,
+          "y": 128.0
+        },
+        {
+          "x": 1.7e-4,
+          "y": 252.0
+        },
+        {
+          "x": 3.2e-4,
+          "y": 405.0
+        },
+        {
+          "x": 6.5e-4,
+          "y": 505.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "paper_reference": "83",
+    "source_chart_manifest": "paper_83_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0003",
+        "image_path": "images/b8d736b09cc2c9b495fdb6ea810216cae6e1f0d6cb7fb2de7e6e02d22da85ae6.jpg",
+        "caption": "FIGURE 6 Z curves of austenitic stainless steels",
+        "relevant_panels": [],
+        "target_series": [
+            "316L pitting potential",
+            "317L pitting potential",
+            "904L pitting potential",
+            "254SMO pitting potential"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The Z curves directly plot the pitting-potential branches against temperature; transpassive and repassivation branches are separable ancillary data.",
+        "confidence": 0.94,
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "V",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

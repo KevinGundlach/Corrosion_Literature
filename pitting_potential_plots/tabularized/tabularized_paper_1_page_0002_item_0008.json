@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "paper_reference": "1",
+  "source_chart_manifest": "paper_1_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0002_item_0008",
+    "image_path": "images/25982a458d30d9e5389ccf415e357060eef1edb458be26bd503b98e7f85523b5.jpg",
+    "caption": "Fig. 1. Critical pitting potentials for Cr-Fe alloys in 0.IN NaCl, $2 5 ^ { \\circ } C.$",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Critical pitting potential is directly plotted against chromium content with visible markers and a trace.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "steady-state critical pitting potential Vc"
+    ],
+    "x_axis": {
+      "label": "Wt. % Chromium",
+      "unit": "wt. %",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Vc",
+      "unit": "Volts, H2 Scale",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "steady_state_critical_pitting_potential_Vc",
+      "tags": [
+        {
+          "name": "material_system",
+          "value": "Cr-Fe alloys"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.1N NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "25 °C"
+        }
+      ],
+      "x_axis": {
+        "label": "Wt. % Chromium",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Vc",
+        "type": "numeric",
+        "unit": "Volts, H2 Scale",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 13.8,
+          "y": 0.203
+        },
+        {
+          "x": 23.0,
+          "y": 0.24
+        },
+        {
+          "x": 29.3,
+          "y": 0.582
+        },
+        {
+          "x": 38.7,
+          "y": 0.89
+        },
+        {
+          "x": 49.0,
+          "y": 0.918
+        },
+        {
+          "x": 58.2,
+          "y": 0.925,
+          "label": "Chromates Only"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "schema_version": 2,
+  "paper_reference": "56",
+  "source_chart_manifest": "paper_56_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0001",
+    "image_path": "images/42abc75edc398afdf43da5eb4a9e4b7e27fe82944fcf7973b85231a427d86743.jpg",
+    "caption": "",
+    "relevant_panels": [],
+    "target_series": [
+      "Pure Al E_pit, A=10^-1 cm\u00b2",
+      "Pure Al E_pit, A=10^-4 cm\u00b2",
+      "Al87Ni8.7Y4.3 E_pit, A=10^-1 cm\u00b2",
+      "Al87Ni8.7Y4.3 E_pit, A=10^-4 cm\u00b2"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The cumulative probability chart directly plots E_pit values for pure Al and Al87Ni8.7Y4.3 at two electrode areas.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Percent",
+      "unit": "%",
+      "scale": "unknown"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Pure_Al_E_pit_A_10_minus_1_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Pure Al"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-1 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.690,
+          "y": 12.0
+        },
+        {
+          "x": -0.665,
+          "y": 30.0
+        },
+        {
+          "x": -0.655,
+          "y": 47.0
+        },
+        {
+          "x": -0.640,
+          "y": 63.0
+        },
+        {
+          "x": -0.625,
+          "y": 80.0
+        },
+        {
+          "x": -0.595,
+          "y": 94.0
+        }
+      ]
+    },
+    {
+      "series_id": "Pure_Al_E_pit_A_10_minus_4_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Pure Al"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-4 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.685,
+          "y": 4.0
+        },
+        {
+          "x": -0.620,
+          "y": 14.0
+        },
+        {
+          "x": -0.605,
+          "y": 20.0
+        },
+        {
+          "x": -0.575,
+          "y": 28.0
+        },
+        {
+          "x": -0.485,
+          "y": 35.0
+        },
+        {
+          "x": -0.465,
+          "y": 40.0
+        },
+        {
+          "x": -0.410,
+          "y": 48.0
+        },
+        {
+          "x": -0.380,
+          "y": 53.0
+        },
+        {
+          "x": -0.355,
+          "y": 60.0
+        },
+        {
+          "x": -0.300,
+          "y": 68.0
+        },
+        {
+          "x": -0.290,
+          "y": 74.0
+        },
+        {
+          "x": -0.285,
+          "y": 80.0
+        },
+        {
+          "x": -0.220,
+          "y": 86.0
+        },
+        {
+          "x": -0.160,
+          "y": 92.0
+        },
+        {
+          "x": -0.115,
+          "y": 97.0
+        }
+      ]
+    },
+    {
+      "series_id": "Al87Ni8_7Y4_3_E_pit_A_10_minus_1_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al87Ni8.7Y4.3"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-1 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "open diamond"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.300,
+          "y": 20.0
+        },
+        {
+          "x": -0.205,
+          "y": 58.0
+        },
+        {
+          "x": -0.190,
+          "y": 85.0
+        }
+      ]
+    },
+    {
+      "series_id": "Al87Ni8_7Y4_3_E_pit_A_10_minus_4_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al87Ni8.7Y4.3"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-4 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.295,
+          "y": 5.0
+        },
+        {
+          "x": -0.290,
+          "y": 14.0
+        },
+        {
+          "x": -0.280,
+          "y": 20.0
+        },
+        {
+          "x": -0.278,
+          "y": 30.0
+        },
+        {
+          "x": -0.270,
+          "y": 38.0
+        },
+        {
+          "x": -0.265,
+          "y": 44.0
+        },
+        {
+          "x": -0.255,
+          "y": 50.0
+        },
+        {
+          "x": -0.245,
+          "y": 58.0
+        },
+        {
+          "x": -0.235,
+          "y": 64.0
+        },
+        {
+          "x": -0.230,
+          "y": 70.0
+        },
+        {
+          "x": -0.225,
+          "y": 76.0
+        },
+        {
+          "x": -0.225,
+          "y": 81.0
+        },
+        {
+          "x": -0.215,
+          "y": 86.0
+        },
+        {
+          "x": -0.205,
+          "y": 92.0
+        },
+        {
+          "x": -0.145,
+          "y": 97.0
+        }
+      ]
+    }
+  ]
+}

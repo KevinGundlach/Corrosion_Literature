@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "paper_reference": "85",
+  "source_chart_manifest": "paper_85_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0003",
+    "image_path": "images/f1c948f926b043321cbb73d6b72efe9bb3134c99fa86246f233da84d33db062f.jpg",
+    "caption": "Fig. 4. Pitting potentials as a function of temperature Abb. 4. Temperaturabh\u00e4ngigkeit der Lochkorrosionspotentiale",
+    "relevant_panels": [],
+    "target_series": [
+      "18Cr/10Ni/3Mo steel pitting potential",
+      "Cast 20-type steel pitting potential",
+      "Ferralium 255 pitting potential",
+      "Ferralium 288 pitting potential"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against temperature for four stainless-steel alloys.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Temperature",
+      "unit": "\u00b0C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "mV (S.H.E.)",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "18Cr_10Ni_3Mo_steel_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "18Cr/10Ni/3Mo steel"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "mV (S.H.E.)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 1150.0,
+          "label": "transpassive limit"
+        },
+        {
+          "x": 20.0,
+          "y": 650.0
+        },
+        {
+          "x": 30.0,
+          "y": 455.0
+        },
+        {
+          "x": 40.0,
+          "y": 350.0
+        }
+      ]
+    },
+    {
+      "series_id": "Cast_20_type_steel_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Cast 20-type steel"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "mV (S.H.E.)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 20.0,
+          "y": 1150.0,
+          "label": "transpassive limit"
+        },
+        {
+          "x": 29.5,
+          "y": 1045.0
+        },
+        {
+          "x": 40.0,
+          "y": 530.0
+        }
+      ]
+    },
+    {
+      "series_id": "Ferralium_255_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Ferralium 255"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "mV (S.H.E.)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 30.0,
+          "y": 1150.0,
+          "label": "transpassive limit"
+        },
+        {
+          "x": 39.5,
+          "y": 650.0
+        }
+      ]
+    },
+    {
+      "series_id": "Ferralium_288_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Ferralium 288"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "mV (S.H.E.)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 40.0,
+          "y": 1150.0,
+          "label": "transpassive limit"
+        },
+        {
+          "x": 50.0,
+          "y": 1048.0
+        },
+        {
+          "x": 60.0,
+          "y": 510.0
+        }
+      ]
+    }
+  ]
+}

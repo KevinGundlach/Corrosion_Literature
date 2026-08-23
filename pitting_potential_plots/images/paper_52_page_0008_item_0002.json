@@ -1,0 +1,27 @@
+{
+    "paper_reference": "52",
+    "source_chart_manifest": "paper_52_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0002",
+        "image_path": "images/1703be86ebe1e6f3665217af8d9f8c8a91cbf7478e00ee6f828f119c9f945f29.jpg",
+        "caption": "FIGURE 8. Effect of increasin<sub>g</sub> inclusion content on $E _ { b }$ in 3% NaCl at 300\u00b0 C (deaerated).",
+        "relevant_panels": [],
+        "target_series": [
+            "E_b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Breakdown potential E_b is directly plotted against inclusion density with discrete markers and error bars.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "No. of Inclusions",
+            "unit": "/mm\u00b2",
+            "scale": "log"
+        },
+        "y_axis": {
+            "label": "E_b",
+            "unit": "V_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

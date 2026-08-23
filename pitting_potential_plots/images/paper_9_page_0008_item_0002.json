@@ -1,0 +1,30 @@
+{
+    "paper_reference": "9",
+    "source_chart_manifest": "paper_9_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0002",
+        "image_path": "images/f0de11380f21210cc9fbf29945a8c01f99177b72d639b5d7bd60bd13bc274296.jpg",
+        "caption": "Fig. 9. The variation of $E _ { \\mathfrak { p } }$ with pH for wire samples of Fe, Ni, Mo and Ni80Cr20, in 1.0 M NaCl and 1.0 M NaBr solutions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against pH for four materials in NaCl and NaBr.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Fe pitting potential",
+            "Ni pitting potential",
+            "Mo pitting potential",
+            "Ni80Cr20 pitting potential"
+        ],
+        "x_axis": {
+            "label": "pH",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

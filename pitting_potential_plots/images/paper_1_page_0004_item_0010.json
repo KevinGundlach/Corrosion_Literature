@@ -1,0 +1,28 @@
+{
+    "paper_reference": "1",
+    "source_chart_manifest": "paper_1_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0010",
+        "image_path": "images/b302b2ca7a29895ba140d571b4909cf25aa297fc0353bb7fab61cfd83e26c38f.jpg",
+        "caption": "Fig. 8. Critical pitting potentials for 15% $\\mathsf { c r },$ 13% Ni stainless steel with increasing Mo content in O.1N NaBr, $2 5 ^ { \\circ } C$ and ${ \\mathfrak { O } } ^ { \\circ } { \\mathsf { C } }.$",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against molybdenum content at two temperatures.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "critical pitting potential Vc at 0\u00b0C",
+            "critical pitting potential Vc at 25\u00b0C"
+        ],
+        "x_axis": {
+            "label": "Wt. % Molybdenum",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Vc",
+            "unit": "Volts, H2 Scale",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

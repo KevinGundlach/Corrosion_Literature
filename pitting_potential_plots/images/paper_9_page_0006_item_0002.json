@@ -1,0 +1,29 @@
+{
+    "paper_reference": "9",
+    "source_chart_manifest": "paper_9_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0002",
+        "image_path": "images/08ed3f6aa5b1dbab0a160258fdbdb12649da4b2478cecb4bfca67bbe13e0849b.jpg",
+        "caption": "Fig. 6. The variation of $E _ { \\mathfrak { p } }$ with anion concentration for 316 wire in solutions of () NaCl, () NaBr and (\u2206) mixtures of NaCl and NaBr, pH 5.5.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against halide concentration for three separable solution series.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "NaCl pitting potential",
+            "NaBr pitting potential",
+            "NaCl-NaBr mixture pitting potential"
+        ],
+        "x_axis": {
+            "label": "[Halide]",
+            "unit": "M",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

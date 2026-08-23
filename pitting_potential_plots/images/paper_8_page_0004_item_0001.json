@@ -1,0 +1,27 @@
+{
+    "paper_reference": "8",
+    "source_chart_manifest": "paper_8_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0001",
+        "image_path": "images/c5f6ca38fe4c1660b41bc51da07ab2cd861364cb68b93abd8f9d92a6a06db3c4.jpg",
+        "caption": "FIGuRE 5. Dependence of transpassive and/or pitting potential on [Br\u2212]/([Br\u2212] + [CI-]) ratio for UNS S31254 steel at 70\u00b0C with a fixed total halide concentration of 0.6 M.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential in mixed chloride-bromide solutions is directly plotted against the bromide fraction; the pure-chloride endpoint may be transpassive.",
+        "confidence": 0.92,
+        "relevant_panels": [],
+        "target_series": [
+            "UNS S31254 Heat 1 pitting potential in chloride-bromide mixtures"
+        ],
+        "x_axis": {
+            "label": "Br\u2212/(Cl\u2212+Br\u2212)",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Transpassive/Pitting Potential",
+            "unit": "V(SCE)",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

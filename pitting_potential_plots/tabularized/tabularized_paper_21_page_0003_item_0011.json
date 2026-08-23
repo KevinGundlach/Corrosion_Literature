@@ -1,0 +1,92 @@
+{
+  "schema_version": 2,
+  "paper_reference": "21",
+  "source_chart_manifest": "paper_21_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0011",
+    "image_path": "images/afd5b9130f8c9fb65655f3a041e09fe802e7362a5dbb7f7e06c8cc4c9e2bb704.jpg",
+    "caption": "FIGURE 4 - Pitting potential of 20Cr-25Ni steel as a function of the $M _ { 0 } { \\ o \\mathsf { O } _ { 4 } } ^ { \\bar { 2 } - }$ concentration in 0.1M-NaCl at 50 C.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against molybdate concentration with discrete markers and a trace.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "20Cr-25Ni steel pitting potential"
+    ],
+    "x_axis": {
+      "label": "MoO4\u00b2\u2212",
+      "unit": "mol/l",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting Potential V",
+      "unit": "V vs. N.H.E.",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "20Cr_25Ni_steel_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "20Cr-25Ni steel"
+        },
+        {
+          "name": "base_solution",
+          "value": "0.1M NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "50 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "MoO4\u00b2\u2212",
+        "type": "numeric",
+        "unit": "mol/l",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential V",
+        "type": "numeric",
+        "unit": "V vs. N.H.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.020,
+          "y": 0.482
+        },
+        {
+          "x": 0.040,
+          "y": 0.552
+        },
+        {
+          "x": 0.060,
+          "y": 0.608
+        },
+        {
+          "x": 0.080,
+          "y": 0.702
+        },
+        {
+          "x": 0.100,
+          "y": 0.788
+        },
+        {
+          "x": 0.111,
+          "y": 0.835
+        }
+      ]
+    }
+  ]
+}

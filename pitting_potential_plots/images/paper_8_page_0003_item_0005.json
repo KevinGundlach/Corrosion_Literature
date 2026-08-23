@@ -1,0 +1,29 @@
+{
+    "paper_reference": "8",
+    "source_chart_manifest": "paper_8_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0005",
+        "image_path": "images/fb055dc4ffe8f9ef05d76e5e4d45d3b86377e34cfabb1ef8baea250ff3eb9754.jpg",
+        "caption": "FIGURE 4. Variations of transpassive and/or pitting potentials for stainless steels with temperature in 0.6 M chloride and bromide solutions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The mixed-metric chart directly plots separable pitting-potential portions versus temperature; transpassive-only points are excluded from the target series.",
+        "confidence": 0.9,
+        "relevant_panels": [],
+        "target_series": [
+            "UNS N08904 in NaCl pitting-potential points above its critical temperature",
+            "UNS S31254 in NaBr pitting-potential points above its critical temperature",
+            "UNS N08904 in NaBr pitting-potential series"
+        ],
+        "x_axis": {
+            "label": "T",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Transpassive/Pitting Potential",
+            "unit": "V(SCE)",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

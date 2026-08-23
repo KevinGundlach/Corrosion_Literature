@@ -1,0 +1,28 @@
+{
+    "paper_reference": "75",
+    "source_chart_manifest": "paper_75_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0010_item_0001",
+        "image_path": "images/6b19ba1702f33c9b4d5ccb7bf0e9a35fbe799e244e2455a1fecb30a4411b2296.jpg",
+        "caption": "Fig. 3. Pitting potentials for aluminum as a function of pH in 0.1 and 1 M chloride solutions.",
+        "relevant_panels": [],
+        "target_series": [
+            "E_pit in 0.1 M Cl\u207b",
+            "E_pit in 1 M Cl\u207b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Aluminum pitting potential E_pit is directly plotted against pH for two chloride concentrations.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "pH",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_pit",
+            "unit": "V vs. S.C.E.",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,28 @@
+{
+    "paper_reference": "52",
+    "source_chart_manifest": "paper_52_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0012_item_0001",
+        "image_path": "images/1b0468d697236dfd33965c90db2cb6533a34851a4b9411d5c2ff360412df800d.jpg",
+        "caption": "FIGURE 18. Com<sub>p</sub>arisonofex<sub>p</sub>erimentalresultswiththosecalculated from the expression determined by Yazawa, et $a /. ^ { 2 5 }$",
+        "relevant_panels": [],
+        "target_series": [
+            "Experimental data E_b",
+            "Average calculated E_b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Experimental and calculated breakdown potentials E_b are directly plotted against PREN.",
+        "confidence": 0.98,
+        "x_axis": {
+            "label": "PREN (%Cr + 2.5% Mo)",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_b",
+            "unit": "V_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

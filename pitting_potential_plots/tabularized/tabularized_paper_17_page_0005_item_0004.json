@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "paper_reference": "17",
+  "source_chart_manifest": "paper_17_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0004",
+    "image_path": "images/121502afe6316c290bf95f6d1b8420845a4c3abd5d70667095c56b23487a31da.jpg",
+    "caption": "1 Summary of HEA corrosion potential $(E _ { \\mathsf { c o r r } }$ in $\\mathfrak { m v } _ { \\mathtt { s c E } })$ and pitting potential $(E _ { \\mathsf { p i t } }$ in $\\mathfrak { m v } _ { \\mathtt { s c E } })$ in quiescent 0?6 M NaCl at 258C; CoCrFeNi (SPS*) was held at 10008C for 5 min, while CoCrFeNi (SPS^) was firstly held at 5008C for 5 min and then sintered at 10008C for another 5 min; $E _ { \\mathsf { c o r r } }$ and $\\pmb { E } _ { \\mathsf { p i t } }$ data of steels and aluminium alloys are obtained from previous studies<sup>24,38\u201339</sup>",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Open-circle pitting potentials are directly plotted by alloy/material category and are separable from corrosion potentials.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Epit"
+    ],
+    "x_axis": {
+      "label": "Alloy/material category",
+      "unit": "",
+      "scale": "categorical"
+    },
+    "y_axis": {
+      "label": "E",
+      "unit": "mV SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Epit",
+      "tags": [
+        {
+          "name": "solution",
+          "value": "quiescent 0.6 M NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "25 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "open red circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy/material category",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "CoCrFeNiAl0.6 (AM)",
+          "y": 190.0
+        },
+        {
+          "x": "CoFeMnNi (SPS)",
+          "y": 0.0
+        },
+        {
+          "x": "Austenitic stainless steels",
+          "y": 290.0
+        },
+        {
+          "x": "CoCrFeNiAl0.9 (AM)",
+          "y": 165.0
+        },
+        {
+          "x": "CoCuFeNi (SPS)",
+          "y": -95.0
+        },
+        {
+          "x": "CoCrFeNi (LM)",
+          "y": 388.0
+        },
+        {
+          "x": "CoCrFeNi (AM)",
+          "y": 440.0
+        },
+        {
+          "x": "CoCrFeNiAl0.3 (AM)",
+          "y": 290.0,
+          "y_lower": 240.0,
+          "y_upper": 340.0,
+          "y_interval_meaning": "error bar / range"
+        },
+        {
+          "x": "AlCoCrCuFe (SPS)",
+          "y": -130.0
+        },
+        {
+          "x": "CoCrFeNi (SPS*)",
+          "y": -30.0
+        },
+        {
+          "x": "Ti0.3(CoCrFeNi)0.7 (AM)",
+          "y": 1040.0
+        },
+        {
+          "x": "CoCrFeNiMo (SPS)",
+          "y": -112.0
+        },
+        {
+          "x": "CoCrFeNi (SPS^)",
+          "y": -8.0,
+          "y_lower": -65.0,
+          "y_upper": 50.0,
+          "y_interval_meaning": "error bar / range"
+        },
+        {
+          "x": "Ferritic stainless steels",
+          "y": -80.0
+        },
+        {
+          "x": "CoCrFeNiAl0.9Ti0.5 (AM)",
+          "y": 185.0
+        },
+        {
+          "x": "CoFeNi (SPS)",
+          "y": -130.0
+        },
+        {
+          "x": "TiAl)0.7V0.15Fe0.1Ni0.05",
+          "y": 265.0
+        },
+        {
+          "x": "CoFeMnNi (AM)",
+          "y": -240.0
+        },
+        {
+          "x": "TiAlCuFeSn (AM)",
+          "y": -245.0
+        },
+        {
+          "x": "AlTiVCrSi (AM)",
+          "y": 10.0
+        }
+      ]
+    }
+  ]
+}

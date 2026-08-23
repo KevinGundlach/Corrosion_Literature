@@ -1,0 +1,30 @@
+{
+    "paper_reference": "80",
+    "source_chart_manifest": "paper_80_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0001",
+        "image_path": "images/a6974eea2e725c9597bb0b0eabfb5ebec6d2e83630a086edcf44eda047d82824.jpg",
+        "caption": "Fig. 3. Pitting potentials for freshly deposited samples, $E _ { \\mathbf { p } },$ and aged samples, $E _ { \\mathbf { \\mathfrak { p } } } ^ { \\mathbf { a } }$ along with repassivation potentials, $E _ { \\mathrm { { R } } },$ for pure Al, AlV alloys, AlMn alloys, and AlW alloys.",
+        "relevant_panels": [],
+        "target_series": [
+            "Pure Al E_p and E_p^a",
+            "Al-V E_p and E_p^a",
+            "Al-Mn E_p and E_p^a",
+            "Al-W E_p and E_p^a"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Fresh and aged pitting potentials are directly plotted against solute concentration for Al-V, Al-Mn, and Al-W alloys.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Solute Concentration",
+            "unit": "at. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "paper_reference": "38",
+  "source_chart_manifest": "paper_38_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0002",
+    "image_path": "images/d8817b494ee0199a504e16a366293783e941a2b017e7435ed799df02dc9c754f.jpg",
+    "caption": "FIGURE 6 \u2014 Effect of N content on pitting potential of 22Cr duplex SS.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against nitrogen content for two solution series.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "5% NaCl solution",
+      "5% NaCl solution + 0.01 atm H2S"
+    ],
+    "x_axis": {
+      "label": "N",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting Potential",
+      "unit": "mV vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "5_percent_NaCl_solution",
+      "tags": [
+        {
+          "name": "material",
+          "value": "22Cr duplex SS"
+        },
+        {
+          "name": "test_solution",
+          "value": "5% NaCl Solution"
+        },
+        {
+          "name": "temperature",
+          "value": "60 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.050,
+          "y": 190.0
+        },
+        {
+          "x": 0.080,
+          "y": 228.0
+        },
+        {
+          "x": 0.125,
+          "y": 228.0
+        },
+        {
+          "x": 0.140,
+          "y": 280.0
+        },
+        {
+          "x": 0.165,
+          "y": 355.0
+        },
+        {
+          "x": 0.240,
+          "y": 725.0
+        }
+      ]
+    },
+    {
+      "series_id": "5_percent_NaCl_solution_plus_0_01atm_H2S",
+      "tags": [
+        {
+          "name": "material",
+          "value": "22Cr duplex SS"
+        },
+        {
+          "name": "test_solution",
+          "value": "5% NaCl Solution + 0.01 atm H2S"
+        },
+        {
+          "name": "temperature",
+          "value": "60 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.050,
+          "y": 158.0
+        },
+        {
+          "x": 0.080,
+          "y": 170.0
+        },
+        {
+          "x": 0.125,
+          "y": 165.0
+        },
+        {
+          "x": 0.140,
+          "y": 188.0
+        },
+        {
+          "x": 0.165,
+          "y": 245.0
+        },
+        {
+          "x": 0.240,
+          "y": 462.0
+        }
+      ]
+    }
+  ]
+}

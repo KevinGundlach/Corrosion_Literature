@@ -1,0 +1,28 @@
+{
+    "paper_reference": "28",
+    "source_chart_manifest": "paper_28_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0011_item_0001",
+        "image_path": "images/84e351e7ab85fcc57697713cc93733110afbe359ef122d235c49a23534a00e95.jpg",
+        "caption": "Fig. 11. Comparison of corrosion properties between HEAs and conventional alloys [60\u201366] in the 3.5 wt.% NaCl solution. The higher pitting potential $(E _ { \\mathrm { p } })$ and lower corrosion-current density $(I _ { \\mathrm { c o r r } })$ of Al CoCrFeNi HEAs indicate that the localized and general corrosion-resistant properties of the Al CoCrFeNi HEAs are comparable or even superior to that of conventional corrosion-resistant alloys.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is explicitly plotted on the horizontal axis with identifiable alloy-class markers against corrosion-current density.",
+        "confidence": 0.92,
+        "relevant_panels": [],
+        "target_series": [
+            "AlxCoCrFeNi HEA pitting potentials",
+            "conventional-alloy pitting potentials"
+        ],
+        "x_axis": {
+            "label": "Ep",
+            "unit": "V vs. SCE",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Icorr",
+            "unit": "\u03bcA/cm\u00b2",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

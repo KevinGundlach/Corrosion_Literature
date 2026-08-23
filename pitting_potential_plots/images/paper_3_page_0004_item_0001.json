@@ -1,0 +1,29 @@
+{
+    "paper_reference": "3",
+    "source_chart_manifest": "paper_3_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0001",
+        "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+        "caption": "FIGURE 2 \u2014 Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 \u00b1 0.2.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting-potential measurements are directly plotted for categorical alloy compositions.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Ec^scan",
+            "Ec^scr",
+            "interpolated Ec^scan of Fe-Cr-Mo base"
+        ],
+        "x_axis": {
+            "label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+            "unit": "wt. %",
+            "scale": "categorical"
+        },
+        "y_axis": {
+            "label": "Pitting Potential",
+            "unit": "mV vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

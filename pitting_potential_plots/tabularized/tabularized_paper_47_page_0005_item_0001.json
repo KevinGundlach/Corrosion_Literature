@@ -1,0 +1,84 @@
+{
+  "schema_version": 2,
+  "paper_reference": "47",
+  "source_chart_manifest": "paper_47_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0001",
+    "image_path": "images/50a12a6e4e69d0c14cfbbd1d716da554a64ea25149c2bde517848e89dd9f4ebb.jpg",
+    "caption": "Fig. 5\u2014The effect of the austenite content on the offset pitting potential of 18 pct Cr, 18 pct Mn stainless steel.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Offset pitting potential is directly plotted against austenite content with discrete markers.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "offset pitting potential"
+    ],
+    "x_axis": {
+      "label": "PERCENT AUSTENITE",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "OFFSET PITTING POTENTIAL",
+      "unit": "VOLTS",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "offset_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "18 pct Cr, 18 pct Mn stainless steel"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PERCENT AUSTENITE",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "OFFSET PITTING POTENTIAL",
+        "type": "numeric",
+        "unit": "VOLTS",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -0.152
+        },
+        {
+          "x": 35.0,
+          "y": 0.028
+        },
+        {
+          "x": 39.5,
+          "y": 0.048
+        },
+        {
+          "x": 57.5,
+          "y": 0.108
+        },
+        {
+          "x": 89.0,
+          "y": 0.265
+        },
+        {
+          "x": 100.0,
+          "y": 0.308
+        }
+      ]
+    }
+  ]
+}

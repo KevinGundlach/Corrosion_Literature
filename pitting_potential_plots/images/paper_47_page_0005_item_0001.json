@@ -1,0 +1,27 @@
+{
+    "paper_reference": "47",
+    "source_chart_manifest": "paper_47_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0001",
+        "image_path": "images/50a12a6e4e69d0c14cfbbd1d716da554a64ea25149c2bde517848e89dd9f4ebb.jpg",
+        "caption": "Fig. 5\u2014The effect of the austenite content on the offset pitting potential of 18 pct Cr, 18 pct Mn stainless steel.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Offset pitting potential is directly plotted against austenite content with discrete markers.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "offset pitting potential"
+        ],
+        "x_axis": {
+            "label": "PERCENT AUSTENITE",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "OFFSET PITTING POTENTIAL",
+            "unit": "VOLTS",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "paper_reference": "8",
+  "source_chart_manifest": "paper_8_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0002",
+    "image_path": "images/7a426643d9a9f8cf77d8a1de2f25938f9c9c890192cccba246b868ee37af2335.jpg",
+    "caption": "FIGuRE 3. A comparison of pitting potentials for four types of austenitic stainless steels in 0.6 M chloride and bromide solutions at 70°C. Indicated on each bar is the range of potentials measured experimentally.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting-potential bars and experimental ranges are directly plotted for four steels in chloride and bromide solutions.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "pitting potential in NaCl",
+      "pitting potential in NaBr"
+    ],
+    "x_axis": {
+      "label": "Steel",
+      "unit": "",
+      "scale": "categorical"
+    },
+    "y_axis": {
+      "label": "Pitting Potential",
+      "unit": "V(SCE)",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "pitting_potential_in_NaCl",
+      "tags": [
+        {
+          "name": "test_solution",
+          "value": "0.6 M NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "70 °C"
+        },
+        {
+          "name": "bar_pattern",
+          "value": "hatched"
+        }
+      ],
+      "x_axis": {
+        "label": "Steel",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "V(SCE)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "UNS S30100",
+          "y": 0.064,
+          "y_lower": 0.040,
+          "y_upper": 0.088,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        },
+        {
+          "x": "UNS S31600",
+          "y": 0.170,
+          "y_lower": 0.140,
+          "y_upper": 0.200,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        },
+        {
+          "x": "UNS N08904",
+          "y": 0.622,
+          "y_lower": 0.590,
+          "y_upper": 0.655,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        },
+        {
+          "x": "UNS S31254",
+          "y": 1.028,
+          "y_lower": 1.000,
+          "y_upper": 1.055,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        }
+      ]
+    },
+    {
+      "series_id": "pitting_potential_in_NaBr",
+      "tags": [
+        {
+          "name": "test_solution",
+          "value": "0.6 M NaBr"
+        },
+        {
+          "name": "temperature",
+          "value": "70 °C"
+        },
+        {
+          "name": "bar_pattern",
+          "value": "open"
+        }
+      ],
+      "x_axis": {
+        "label": "Steel",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "V(SCE)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "UNS S30100",
+          "y": 0.275,
+          "y_lower": 0.250,
+          "y_upper": 0.300,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        },
+        {
+          "x": "UNS S31600",
+          "y": 0.332,
+          "y_lower": 0.310,
+          "y_upper": 0.355,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        },
+        {
+          "x": "UNS N08904",
+          "y": 0.488,
+          "y_lower": 0.465,
+          "y_upper": 0.510,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        },
+        {
+          "x": "UNS S31254",
+          "y": 0.628,
+          "y_lower": 0.585,
+          "y_upper": 0.670,
+          "y_interval_meaning": "range of potentials measured experimentally"
+        }
+      ]
+    }
+  ]
+}

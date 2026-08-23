@@ -1,0 +1,152 @@
+{
+  "schema_version": 2,
+  "paper_reference": "44",
+  "source_chart_manifest": "paper_44_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0101_item_0001",
+    "image_path": "images/0eb58b892e638bd1836913fee76c95704ec62d6d02dcc2ea3ccfc604968dfc99.jpg",
+    "caption": "(a) (b)",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Experimental pitting potential is directly plotted against PREN with discrete markers.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "experimental pitting potential, E_p-exp"
+    ],
+    "x_axis": {
+      "label": "PREN",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_p-exp vs SCE",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "experimental_pitting_potential_Ep_exp",
+      "tags": [
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_p-exp vs SCE",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 30.5,
+          "y": 265.0
+        },
+        {
+          "x": 36.8,
+          "y": 578.0
+        },
+        {
+          "x": 44.8,
+          "y": 600.0
+        },
+        {
+          "x": 46.5,
+          "y": 600.0
+        },
+        {
+          "x": 48.8,
+          "y": 578.0
+        },
+        {
+          "x": 49.2,
+          "y": 600.0
+        },
+        {
+          "x": 49.5,
+          "y": 570.0
+        },
+        {
+          "x": 52.5,
+          "y": 532.0
+        },
+        {
+          "x": 60.0,
+          "y": 538.0
+        },
+        {
+          "x": 62.0,
+          "y": 590.0
+        },
+        {
+          "x": 63.2,
+          "y": 600.0
+        },
+        {
+          "x": 65.5,
+          "y": 600.0
+        },
+        {
+          "x": 67.8,
+          "y": 600.0
+        },
+        {
+          "x": 68.5,
+          "y": 600.0
+        },
+        {
+          "x": 68.8,
+          "y": -268.0
+        },
+        {
+          "x": 72.5,
+          "y": 600.0
+        },
+        {
+          "x": 77.8,
+          "y": 600.0
+        },
+        {
+          "x": 79.0,
+          "y": 600.0
+        },
+        {
+          "x": 87.5,
+          "y": 600.0
+        },
+        {
+          "x": 89.0,
+          "y": 600.0
+        },
+        {
+          "x": 90.2,
+          "y": 528.0
+        },
+        {
+          "x": 93.2,
+          "y": 600.0
+        },
+        {
+          "x": 94.8,
+          "y": 600.0
+        },
+        {
+          "x": 103.8,
+          "y": 600.0
+        }
+      ]
+    }
+  ]
+}

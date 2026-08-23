@@ -1,0 +1,28 @@
+{
+    "paper_reference": "80",
+    "source_chart_manifest": "paper_80_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0002",
+        "image_path": "images/6e600bf7432cada511935b9ffe954bfbedee6909b202cb9169b4a67ec8c97a5e.jpg",
+        "caption": "Fig. 4. Pitting potentials for freshly deposited samples, $E _ { \\mathrm { p } },$ and aged samples, $E _ { \\mathfrak { p } } ^ { \\mathrm { a } }$ along with repassivation potentials, $E _ { \\mathrm { { R } } },$ for pure Al and AlCr alloys.",
+        "relevant_panels": [],
+        "target_series": [
+            "Fresh E_p",
+            "Aged E_p^a"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Fresh and aged pitting potentials are directly plotted against chromium concentration; repassivation potential is separable ancillary data.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Cr Concentration",
+            "unit": "at. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

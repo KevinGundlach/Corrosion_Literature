@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "paper_reference": "49",
+  "source_chart_manifest": "paper_49_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0012_item_0003",
+    "image_path": "images/169523ce5b17b6dbb7e914187d059db900ff7a1df4560f0cad7af063ccfa51e6.jpg",
+    "caption": "Fig. 6. Plots of PREN of different steels vs pitting potential in seawater.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential in seawater is directly plotted against PREN for multiple steels.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "Epit in seawater"
+    ],
+    "x_axis": {
+      "label": "PREN",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Epit",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Epit_in_seawater",
+      "tags": [
+        {
+          "name": "environment",
+          "value": "seawater"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 18.0,
+          "y": 90.0,
+          "label": "304L"
+        },
+        {
+          "x": 25.2,
+          "y": 160.0,
+          "label": "316L"
+        },
+        {
+          "x": 30.5,
+          "y": 162.0,
+          "label": "17-4PH"
+        },
+        {
+          "x": 30.5,
+          "y": 208.0,
+          "label": "317L"
+        },
+        {
+          "x": 24.8,
+          "y": 538.0,
+          "label": "20Cb3"
+        },
+        {
+          "x": 35.0,
+          "y": 438.0,
+          "label": "904L"
+        },
+        {
+          "x": 34.5,
+          "y": 635.0,
+          "label": "2205"
+        },
+        {
+          "x": 38.0,
+          "y": 725.0,
+          "label": "254"
+        },
+        {
+          "x": 35.0,
+          "y": 835.0,
+          "label": "4575"
+        },
+        {
+          "x": 43.5,
+          "y": 820.0,
+          "label": "44653"
+        },
+        {
+          "x": 48.5,
+          "y": 890.0,
+          "label": "3127"
+        },
+        {
+          "x": 40.2,
+          "y": 980.0,
+          "label": "4565"
+        },
+        {
+          "x": 41.2,
+          "y": 1070.0,
+          "label": "1925"
+        },
+        {
+          "x": 56.8,
+          "y": 890.0,
+          "label": "654"
+        }
+      ]
+    }
+  ]
+}

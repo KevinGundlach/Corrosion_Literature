@@ -1,0 +1,90 @@
+{
+  "schema_version": 2,
+  "paper_reference": "32",
+  "source_chart_manifest": "paper_32_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0004",
+    "image_path": "images/b35caa1d84e79ffeeca29824d1dc231fd291f75f4661ca15838b85c0da107ab2.jpg",
+    "caption": "Figure 6. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 8 7 } N i _ { 7 } G d _ { 6 } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data. Scan rate 0.1 mV/s.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Epit is directly plotted against nanocrystal size; the Erp series is ancillary and separable.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "Epit"
+    ],
+    "x_axis": {
+      "label": "Nanocrystal Size",
+      "unit": "nm",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Epit",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al87Ni7Gd6"
+        },
+        {
+          "name": "test_solution",
+          "value": "deaerated 0.6 M NaCl"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.1 mV/s"
+        },
+        {
+          "name": "marker_style",
+          "value": "red circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Nanocrystal Size",
+        "type": "numeric",
+        "unit": "nm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -0.280,
+          "y_lower": -0.305,
+          "y_upper": -0.190,
+          "y_interval_meaning": "25th to 75th percentile",
+          "label": "Amorphous"
+        },
+        {
+          "x": 20.0,
+          "y": -0.230,
+          "y_lower": -0.275,
+          "y_upper": -0.005,
+          "y_interval_meaning": "25th to 75th percentile"
+        },
+        {
+          "x": 40.0,
+          "y": -0.170,
+          "y_lower": -0.310,
+          "y_upper": 0.075,
+          "y_interval_meaning": "25th to 75th percentile"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "paper_reference": "9",
+  "source_chart_manifest": "paper_9_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0001",
+    "image_path": "images/70361d95ece4303bd4590e652b7302869223ca411b1cbc755de298b8153f575a.jpg",
+    "caption": "",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Panel (a) directly plots pitting potential against logarithmic halide concentration.",
+    "confidence": 0.98,
+    "relevant_panels": [
+      "panel (a)"
+    ],
+    "target_series": [
+      "NaCl pitting potential",
+      "NaBr pitting potential"
+    ],
+    "x_axis": {
+      "label": "[Halide]",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "NaCl_pitting_potential",
+      "panel": "panel (a)",
+      "tags": [
+        {
+          "name": "electrolyte",
+          "value": "NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": -1.30,
+          "y": 797.0
+        },
+        {
+          "x": -0.96,
+          "y": 775.0
+        },
+        {
+          "x": -0.65,
+          "y": 712.0
+        },
+        {
+          "x": -0.30,
+          "y": 628.0
+        },
+        {
+          "x": -0.10,
+          "y": 568.0
+        },
+        {
+          "x": -0.04,
+          "y": 548.0
+        },
+        {
+          "x": 0.02,
+          "y": 546.0
+        }
+      ]
+    },
+    {
+      "series_id": "NaBr_pitting_potential",
+      "panel": "panel (a)",
+      "tags": [
+        {
+          "name": "electrolyte",
+          "value": "NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": -1.30,
+          "y": 508.0
+        },
+        {
+          "x": -0.96,
+          "y": 462.0
+        },
+        {
+          "x": -0.65,
+          "y": 455.0
+        },
+        {
+          "x": -0.30,
+          "y": 382.0
+        },
+        {
+          "x": -0.10,
+          "y": 376.0
+        },
+        {
+          "x": 0.00,
+          "y": 366.0
+        }
+      ]
+    }
+  ]
+}

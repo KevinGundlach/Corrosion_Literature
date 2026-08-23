@@ -1,0 +1,178 @@
+{
+  "schema_version": 2,
+  "paper_reference": "41",
+  "source_chart_manifest": "paper_41_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0007",
+    "image_path": "images/0fab70116c5d738dcaea8f789b2dd216ce8f6bc17a4de5c97b4d56d82adbb97b.jpg",
+    "caption": "FIGURE 15. Pitting potentials of solution-treated CF alloys determined by cyclic polarization procedure modified such that no NaCi was present in solution during active dissolution.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potentials from the standard and NaCl-free anodic-loop procedures are directly plotted against the alloy composition index.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "standard-procedure pitting potential",
+      "NaCl-free anodic-loop pitting potential"
+    ],
+    "x_axis": {
+      "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "POTENTIAL",
+      "unit": "mV vs SHE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "standard_procedure_pitting_potential",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "solution-treated CF alloys"
+        },
+        {
+          "name": "test_procedure",
+          "value": "standard procedure"
+        },
+        {
+          "name": "marker_style",
+          "value": "dotted bar"
+        }
+      ],
+      "x_axis": {
+        "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "POTENTIAL",
+        "type": "numeric",
+        "unit": "mV vs SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 22.10,
+          "y": 796.5,
+          "y_lower": 768.0,
+          "y_upper": 825.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.52,
+          "y": 816.5,
+          "y_lower": 778.0,
+          "y_upper": 855.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 12"
+        },
+        {
+          "x": 23.22,
+          "y": 868.0,
+          "y_lower": 828.0,
+          "y_upper": 908.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 13"
+        },
+        {
+          "x": 23.90,
+          "y": 931.5,
+          "y_lower": 918.0,
+          "y_upper": 945.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 14"
+        },
+        {
+          "x": 25.32,
+          "y": 1022.5,
+          "y_lower": 990.0,
+          "y_upper": 1055.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 4"
+        }
+      ]
+    },
+    {
+      "series_id": "NaCl_free_anodic_loop_pitting_potential",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "solution-treated CF alloys"
+        },
+        {
+          "name": "test_procedure",
+          "value": "NaCl free anodic loop"
+        },
+        {
+          "name": "marker_style",
+          "value": "solid bar with filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "POTENTIAL",
+        "type": "numeric",
+        "unit": "mV vs SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 22.10,
+          "y": 892.0,
+          "y_lower": 762.0,
+          "y_upper": 975.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.52,
+          "y": 875.0,
+          "y_lower": 728.0,
+          "y_upper": 1000.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 12"
+        },
+        {
+          "x": 23.22,
+          "y": 885.0,
+          "y_lower": 808.0,
+          "y_upper": 962.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 13"
+        },
+        {
+          "x": 23.90,
+          "y": 975.0,
+          "y_lower": 960.0,
+          "y_upper": 992.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 14"
+        },
+        {
+          "x": 25.32,
+          "y": 1028.0,
+          "y_lower": 1012.0,
+          "y_upper": 1042.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 4"
+        }
+      ]
+    }
+  ]
+}

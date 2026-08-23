@@ -1,0 +1,28 @@
+{
+    "paper_reference": "1",
+    "source_chart_manifest": "paper_1_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0002_item_0012",
+        "image_path": "images/da0a8dce4b9007b8b472b388502ec3596a475bf5ea27828a62dc5618d6aa65f7.jpg",
+        "caption": "Fig. 2. Critical pitting potentials for Cr-Ni alloys in 0.1N NaCl $2 5 \\%$",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Two critical pitting-potential series are directly plotted against chromium content.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Vc' (50 mV/5 min)",
+            "Vc steady state"
+        ],
+        "x_axis": {
+            "label": "Wt. % Chromium",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "Volts, H2 Scale",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,194 @@
+{
+  "schema_version": 2,
+  "paper_reference": "74",
+  "source_chart_manifest": "paper_74_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0001",
+    "image_path": "images/9ee2cecd46472e9646f6e09a873b4b15f26ad5d43c6999f45b8c607530c1c913.jpg",
+    "caption": "Fig. 3. Dependence of $E _ { \\mathsf { m } \\ell }$ on weight per cent of molybdenum or tungsten for Fe 29Cr ferritie stainless steels in 4 M $\\mathbf { M } \\mathrm { g } \\mathrm { C l } _ { 3 }$ solution at 80 C.",
+    "relevant_panels": [],
+    "target_series": [
+      "Fe-29Cr-xMo E_pit",
+      "Fe-29Cr-yW E_pit"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential E_pit is directly plotted against molybdenum or tungsten content in weight percent.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Content of Mo or W",
+      "unit": "wt.%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_pit",
+      "unit": "mV_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Fe_29Cr_xMo_E_pit",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Fe-29Cr-xMo"
+        },
+        {
+          "name": "solution",
+          "value": "4 M MgCl2"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.5 mV/sec"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Content of Mo or W",
+        "type": "numeric",
+        "unit": "wt.%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_pit",
+        "type": "numeric",
+        "unit": "mV_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -565.0
+        },
+        {
+          "x": 1.05,
+          "y": -425.0
+        },
+        {
+          "x": 1.05,
+          "y": -160.0
+        },
+        {
+          "x": 1.05,
+          "y": 10.0
+        },
+        {
+          "x": 2.10,
+          "y": -370.0
+        },
+        {
+          "x": 2.10,
+          "y": 0.0
+        },
+        {
+          "x": 4.20,
+          "y": 20.0
+        },
+        {
+          "x": 4.20,
+          "y": 265.0
+        },
+        {
+          "x": 4.20,
+          "y": 355.0
+        },
+        {
+          "x": 4.20,
+          "y": 420.0
+        }
+      ]
+    },
+    {
+      "series_id": "Fe_29Cr_yW_E_pit",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Fe-29Cr-yW"
+        },
+        {
+          "name": "solution",
+          "value": "4 M MgCl2"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.5 mV/sec"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Content of Mo or W",
+        "type": "numeric",
+        "unit": "wt.%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_pit",
+        "type": "numeric",
+        "unit": "mV_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -565.0
+        },
+        {
+          "x": 1.08,
+          "y": -505.0
+        },
+        {
+          "x": 2.10,
+          "y": -490.0
+        },
+        {
+          "x": 2.10,
+          "y": 35.0
+        },
+        {
+          "x": 4.10,
+          "y": -465.0
+        },
+        {
+          "x": 4.10,
+          "y": -100.0
+        },
+        {
+          "x": 4.10,
+          "y": 0.0
+        },
+        {
+          "x": 8.20,
+          "y": -300.0
+        },
+        {
+          "x": 8.20,
+          "y": 205.0
+        },
+        {
+          "x": 8.20,
+          "y": 720.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "paper_reference": "9",
+    "source_chart_manifest": "paper_9_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0002",
+        "image_path": "images/a19f291c50e10c45b5de6954cfa14a983a94fd1c0439db0a37b3d7ac50c002e3.jpg",
+        "caption": "Fig. 2. (a) The variation of $E _ { \\mathbf { p } }$ with logarithmic halide concentration for steel 316L, pH 4. (b) The variation of $E _ { \\mathfrak { p } }$ with pH for steel 316L in 0.5 M Cl and 0.5 M Br\u2212 solutions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Panel (b) directly plots pitting potential against pH.",
+        "confidence": 0.98,
+        "relevant_panels": [
+            "panel (b)"
+        ],
+        "target_series": [
+            "NaCl pitting potential",
+            "NaBr pitting potential"
+        ],
+        "x_axis": {
+            "label": "pH",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

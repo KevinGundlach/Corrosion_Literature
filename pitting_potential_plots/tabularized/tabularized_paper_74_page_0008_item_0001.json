@@ -1,0 +1,97 @@
+{
+  "schema_version": 2,
+  "paper_reference": "74",
+  "source_chart_manifest": "paper_74_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0001",
+    "image_path": "images/609e0fdbfbd38e15850587b7b7a060d825f0bba79fb8f000c2dd69117bea91be.jpg",
+    "caption": "Fig. 5. Dependence of Ep, on (Mo + W) at% for Fe 29Cr ferritic stainless steels in 4 M MgCl2 $t _ { \\mathfrak { p } _ { i \\parallel } }$ solution at 80 C.",
+    "relevant_panels": [],
+    "target_series": [
+      "Fe-29Cr-xMo-yW E_pit"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential E_pit is directly plotted against combined molybdenum-plus-tungsten content.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Content of (Mo+W)",
+      "unit": "at.%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_pit",
+      "unit": "mV_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Fe_29Cr_xMo_yW_E_pit",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Fe-29Cr-xMo-yW (x+y=4 wt.%)"
+        },
+        {
+          "name": "solution",
+          "value": "4 M MgCl2"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.5 mV/sec"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Content of (Mo+W)",
+        "type": "numeric",
+        "unit": "at.%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_pit",
+        "type": "numeric",
+        "unit": "mV_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 1.25,
+          "y": -138.0,
+          "label": "4W"
+        },
+        {
+          "x": 1.58,
+          "y": -68.0,
+          "label": "1Mo-3W"
+        },
+        {
+          "x": 1.86,
+          "y": -36.0,
+          "label": "2Mo-2W"
+        },
+        {
+          "x": 2.15,
+          "y": 30.0,
+          "label": "3Mo-1W"
+        },
+        {
+          "x": 2.43,
+          "y": 235.0,
+          "label": "4Mo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "paper_reference": "16",
+    "source_chart_manifest": "paper_16_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0007_item_0005",
+        "image_path": "images/89aeeab0bae26a67545c5651de526361738896f5e1d8d24846a60494a649c560.jpg",
+        "caption": "Fig.11 Effect of welding condition on pitting potential of girth weldment",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against weld heat input.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "girth-weldment pitting potential"
+        ],
+        "x_axis": {
+            "label": "Weld heat input",
+            "unit": "kJ/cm",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

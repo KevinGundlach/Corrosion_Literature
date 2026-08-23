@@ -1,0 +1,90 @@
+{
+  "schema_version": 2,
+  "paper_reference": "75",
+  "source_chart_manifest": "paper_75_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0001",
+    "image_path": "images/02f682f588ac3f962860bed5d915a847ca66a949b98dedde47daeff10c24e8cf.jpg",
+    "caption": "Fig. 1. Pitting potentials for aluminum as a function of chloride ion activity.",
+    "relevant_panels": [],
+    "target_series": [
+      "Aluminum E_pit"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Aluminum pitting potential E_pit is directly plotted against chloride-ion activity.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Cl\u207b Activity",
+      "unit": "",
+      "scale": "log"
+    },
+    "y_axis": {
+      "label": "E_pit",
+      "unit": "V vs. S.C.E.",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Aluminum_E_pit",
+      "tags": [
+        {
+          "name": "material",
+          "value": "aluminum"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Cl⁻ Activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_pit",
+        "type": "numeric",
+        "unit": "V vs. S.C.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0089,
+          "y": -0.605,
+          "label": "0.01 M"
+        },
+        {
+          "x": 0.078,
+          "y": -0.685,
+          "label": "0.1 M"
+        },
+        {
+          "x": 0.325,
+          "y": -0.725,
+          "label": "0.5 M"
+        },
+        {
+          "x": 0.325,
+          "y": -0.730,
+          "label": "0.5 M"
+        },
+        {
+          "x": 0.65,
+          "y": -0.745,
+          "label": "1.0 M"
+        },
+        {
+          "x": 0.65,
+          "y": -0.760,
+          "label": "1.0 M"
+        }
+      ]
+    }
+  ]
+}

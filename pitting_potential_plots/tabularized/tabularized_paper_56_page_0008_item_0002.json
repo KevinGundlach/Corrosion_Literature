@@ -1,0 +1,322 @@
+{
+  "schema_version": 2,
+  "paper_reference": "56",
+  "source_chart_manifest": "paper_56_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0002",
+    "image_path": "images/b36dd2f76639fb31b2fbeed5fc65f7deaf27d66f5ca68d82987cf28d40e52d20.jpg",
+    "caption": "Fig. 8. Cumulative probability plots of $E _ { \\mathrm { p i t } }$ values for amorphous $\\mathrm { A l _ { 8 7 } N i _ { 8. 7 } Y _ { 4. 3 } }$ (a) and $\\mathbf { A l } _ { 9 0 } \\mathrm { F e } _ { 5 } \\mathbf { G } \\mathbf { d } _ { 5 }$ (b) in comparison to polycrystalline Al for large and small surface area electrodes (deaerated 0.6 M NaCl). (m) Free standing polycrystalline Al, (j) mb polycrystalline Al, (2) free standing amorphous alloy, (^) mb amorphous alloy. Free standing test surface $\\mathrm { a r e a } = \\mathrm { l } 0 ^ { - 1 } \\mathrm { \\dot { c } m } ^ { \\mathrm { 2 } }$, mb area $\\sim 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 }$",
+    "relevant_panels": [],
+    "target_series": [
+      "Pure Al E_pit, A=10^-1 cm\u00b2",
+      "Pure Al E_pit, A=10^-4 cm\u00b2",
+      "Al90Fe5Gd5 E_pit, A=10^-1 cm\u00b2",
+      "Al90Fe5Gd5 E_pit, A=10^-4 cm\u00b2"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The cumulative probability chart directly plots E_pit values for pure Al and Al90Fe5Gd5 at two electrode areas.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Percent",
+      "unit": "%",
+      "scale": "unknown"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Pure_Al_E_pit_A_10_minus_1_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Pure Al"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-1 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.690,
+          "y": 7.0
+        },
+        {
+          "x": -0.665,
+          "y": 25.0
+        },
+        {
+          "x": -0.660,
+          "y": 42.0
+        },
+        {
+          "x": -0.650,
+          "y": 60.0
+        },
+        {
+          "x": -0.635,
+          "y": 76.0
+        },
+        {
+          "x": -0.595,
+          "y": 92.0
+        }
+      ]
+    },
+    {
+      "series_id": "Pure_Al_E_pit_A_10_minus_4_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Pure Al"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-4 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.660,
+          "y": 3.5
+        },
+        {
+          "x": -0.590,
+          "y": 10.0
+        },
+        {
+          "x": -0.585,
+          "y": 18.0
+        },
+        {
+          "x": -0.550,
+          "y": 25.0
+        },
+        {
+          "x": -0.455,
+          "y": 30.0
+        },
+        {
+          "x": -0.435,
+          "y": 36.0
+        },
+        {
+          "x": -0.370,
+          "y": 43.0
+        },
+        {
+          "x": -0.335,
+          "y": 52.0
+        },
+        {
+          "x": -0.325,
+          "y": 59.0
+        },
+        {
+          "x": -0.280,
+          "y": 66.0
+        },
+        {
+          "x": -0.275,
+          "y": 72.0
+        },
+        {
+          "x": -0.270,
+          "y": 78.0
+        },
+        {
+          "x": -0.210,
+          "y": 83.0
+        },
+        {
+          "x": -0.150,
+          "y": 90.0
+        },
+        {
+          "x": -0.105,
+          "y": 96.5
+        }
+      ]
+    },
+    {
+      "series_id": "Al90Fe5Gd5_E_pit_A_10_minus_1_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al90Fe5Gd5"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-1 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "open diamond"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.290,
+          "y": 13.0
+        },
+        {
+          "x": -0.275,
+          "y": 38.0
+        },
+        {
+          "x": -0.260,
+          "y": 87.0
+        }
+      ]
+    },
+    {
+      "series_id": "Al90Fe5Gd5_E_pit_A_10_minus_4_cm2",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al90Fe5Gd5"
+        },
+        {
+          "name": "electrode_area",
+          "value": "10^-4 cm²"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Percent",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "unknown",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.280,
+          "y": 3.5
+        },
+        {
+          "x": -0.255,
+          "y": 10.0
+        },
+        {
+          "x": -0.200,
+          "y": 17.0
+        },
+        {
+          "x": -0.175,
+          "y": 25.0
+        },
+        {
+          "x": -0.170,
+          "y": 30.0
+        },
+        {
+          "x": -0.165,
+          "y": 36.0
+        },
+        {
+          "x": -0.150,
+          "y": 42.0
+        },
+        {
+          "x": -0.120,
+          "y": 50.0
+        },
+        {
+          "x": -0.120,
+          "y": 58.0
+        },
+        {
+          "x": -0.118,
+          "y": 65.0
+        },
+        {
+          "x": -0.070,
+          "y": 71.0
+        },
+        {
+          "x": -0.040,
+          "y": 76.0
+        },
+        {
+          "x": 0.015,
+          "y": 82.0
+        },
+        {
+          "x": 0.075,
+          "y": 90.0
+        },
+        {
+          "x": 0.280,
+          "y": 96.5
+        }
+      ]
+    }
+  ]
+}

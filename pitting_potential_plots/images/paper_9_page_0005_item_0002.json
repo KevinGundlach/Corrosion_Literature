@@ -1,0 +1,30 @@
+{
+    "paper_reference": "9",
+    "source_chart_manifest": "paper_9_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0002",
+        "image_path": "images/032fe8841fd4fe59fc0abeaff6c686d7bafd465fc72c0bbf50168b77b7bdcf94.jpg",
+        "caption": "Fig. 4. (a) The variation of $E _ { \\mathfrak { p } }$ with logarithmic halide concentration for 316 wire, pH 5.5. (b) The variation of $E _ { \\mathfrak { p } }$ with pH for 316 wire in 0.5 M Cl\u207b and 0.5 M Br\u2212 solutions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Panel (b) directly plots pitting potential against pH.",
+        "confidence": 0.98,
+        "relevant_panels": [
+            "panel (b)"
+        ],
+        "target_series": [
+            "NaCl pitting potential",
+            "NaBr pitting potential"
+        ],
+        "x_axis": {
+            "label": "pH",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,27 @@
+{
+    "paper_reference": "1",
+    "source_chart_manifest": "paper_1_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0002_item_0008",
+        "image_path": "images/25982a458d30d9e5389ccf415e357060eef1edb458be26bd503b98e7f85523b5.jpg",
+        "caption": "Fig. 1. Critical pitting potentials for Cr-Fe alloys in 0.IN NaCl, $2 5 ^ { \\circ } C.$",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against chromium content with visible markers and a trace.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "steady-state critical pitting potential Vc"
+        ],
+        "x_axis": {
+            "label": "Wt. % Chromium",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Vc",
+            "unit": "Volts, H2 Scale",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

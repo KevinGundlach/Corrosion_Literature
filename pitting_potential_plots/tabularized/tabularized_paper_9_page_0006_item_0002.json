@@ -1,0 +1,218 @@
+{
+  "schema_version": 2,
+  "paper_reference": "9",
+  "source_chart_manifest": "paper_9_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0002",
+    "image_path": "images/08ed3f6aa5b1dbab0a160258fdbdb12649da4b2478cecb4bfca67bbe13e0849b.jpg",
+    "caption": "Fig. 6. The variation of $E _ { \\mathfrak { p } }$ with anion concentration for 316 wire in solutions of () NaCl, () NaBr and (\u2206) mixtures of NaCl and NaBr, pH 5.5.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against halide concentration for three separable solution series.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "NaCl pitting potential",
+      "NaBr pitting potential",
+      "NaCl-NaBr mixture pitting potential"
+    ],
+    "x_axis": {
+      "label": "[Halide]",
+      "unit": "M",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "NaCl_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "316 wire"
+        },
+        {
+          "name": "pH",
+          "value": "5.5"
+        },
+        {
+          "name": "electrolyte",
+          "value": "NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.05,
+          "y": 778.0
+        },
+        {
+          "x": 0.18,
+          "y": 712.0
+        },
+        {
+          "x": 0.48,
+          "y": 632.0
+        },
+        {
+          "x": 0.80,
+          "y": 573.0
+        },
+        {
+          "x": 0.90,
+          "y": 552.0
+        },
+        {
+          "x": 1.00,
+          "y": 552.0
+        }
+      ]
+    },
+    {
+      "series_id": "NaBr_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "316 wire"
+        },
+        {
+          "name": "pH",
+          "value": "5.5"
+        },
+        {
+          "name": "electrolyte",
+          "value": "NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.09,
+          "y": 468.0
+        },
+        {
+          "x": 0.19,
+          "y": 455.0
+        },
+        {
+          "x": 0.48,
+          "y": 388.0
+        },
+        {
+          "x": 0.80,
+          "y": 378.0
+        },
+        {
+          "x": 1.00,
+          "y": 378.0
+        }
+      ]
+    },
+    {
+      "series_id": "NaCl_NaBr_mixture_pitting_potential",
+      "tags": [
+        {
+          "name": "material",
+          "value": "316 wire"
+        },
+        {
+          "name": "pH",
+          "value": "5.5"
+        },
+        {
+          "name": "electrolyte",
+          "value": "NaCl + NaBr mixture (total 1.0 M)"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "M",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.00,
+          "y": 552.0,
+          "label": "1.0M Cl-, 0M Br-"
+        },
+        {
+          "x": 0.09,
+          "y": 446.0,
+          "label": "0.9M Cl-, 0.1M Br-"
+        },
+        {
+          "x": 0.19,
+          "y": 378.0,
+          "label": "0.8M Cl-, 0.2M Br-"
+        },
+        {
+          "x": 0.48,
+          "y": 378.0,
+          "label": "0.5M Cl-, 0.5M Br-"
+        },
+        {
+          "x": 0.80,
+          "y": 378.0,
+          "label": "0.2M Cl-, 0.8M Br-"
+        },
+        {
+          "x": 1.00,
+          "y": 378.0,
+          "label": "0M Cl-, 1.0M Br-"
+        }
+      ]
+    }
+  ]
+}

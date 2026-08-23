@@ -1,0 +1,318 @@
+{
+  "schema_version": 2,
+  "paper_reference": "28",
+  "source_chart_manifest": "paper_28_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0011_item_0001",
+    "image_path": "images/84e351e7ab85fcc57697713cc93733110afbe359ef122d235c49a23534a00e95.jpg",
+    "caption": "Fig. 11. Comparison of corrosion properties between HEAs and conventional alloys [60\u201366] in the 3.5 wt.% NaCl solution. The higher pitting potential $(E _ { \\mathrm { p } })$ and lower corrosion-current density $(I _ { \\mathrm { c o r r } })$ of Al CoCrFeNi HEAs indicate that the localized and general corrosion-resistant properties of the Al CoCrFeNi HEAs are comparable or even superior to that of conventional corrosion-resistant alloys.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is explicitly plotted on the horizontal axis with identifiable alloy-class markers against corrosion-current density.",
+    "confidence": 0.92,
+    "relevant_panels": [],
+    "target_series": [
+      "AlxCoCrFeNi HEA pitting potentials",
+      "conventional-alloy pitting potentials"
+    ],
+    "x_axis": {
+      "label": "Ep",
+      "unit": "V vs. SCE",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Icorr",
+      "unit": "μA/cm²",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "AlxCoCrFeNi_HEAs_pitting_potentials",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "AlxCoCrFeNi HEAs"
+        },
+        {
+          "name": "environment",
+          "value": "3.5 wt.% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "black square"
+        }
+      ],
+      "x_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V vs. SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Icorr",
+        "type": "numeric",
+        "unit": "μA/cm²",
+        "scale": "linear",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": 0.05,
+          "y": 0.42
+        },
+        {
+          "x": 0.22,
+          "y": 0.24
+        },
+        {
+          "x": 0.48,
+          "y": 0.05
+        },
+        {
+          "x": 0.81,
+          "y": 0.02
+        }
+      ]
+    },
+    {
+      "series_id": "stainless_steels_pitting_potentials",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "Stainless steels"
+        },
+        {
+          "name": "environment",
+          "value": "3.5 wt.% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "red circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V vs. SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Icorr",
+        "type": "numeric",
+        "unit": "μA/cm²",
+        "scale": "linear",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": 0.20,
+          "y": 0.16
+        },
+        {
+          "x": 0.29,
+          "y": 0.08
+        },
+        {
+          "x": 0.35,
+          "y": 0.08
+        }
+      ]
+    },
+    {
+      "series_id": "Al_alloys_pitting_potentials",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "Al-alloys"
+        },
+        {
+          "name": "environment",
+          "value": "3.5 wt.% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "green triangle up"
+        }
+      ],
+      "x_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V vs. SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Icorr",
+        "type": "numeric",
+        "unit": "μA/cm²",
+        "scale": "linear",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.68,
+          "y": 0.50
+        },
+        {
+          "x": -0.65,
+          "y": 0.48
+        },
+        {
+          "x": -0.57,
+          "y": 0.30
+        }
+      ]
+    },
+    {
+      "series_id": "Ti_alloys_pitting_potentials",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "Ti-alloys"
+        },
+        {
+          "name": "environment",
+          "value": "3.5 wt.% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "blue triangle down"
+        }
+      ],
+      "x_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V vs. SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Icorr",
+        "type": "numeric",
+        "unit": "μA/cm²",
+        "scale": "linear",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.18,
+          "y": 2.22
+        },
+        {
+          "x": -0.18,
+          "y": 0.08
+        },
+        {
+          "x": -0.09,
+          "y": 1.20
+        },
+        {
+          "x": -0.06,
+          "y": 0.08
+        },
+        {
+          "x": 0.38,
+          "y": 1.95
+        }
+      ]
+    },
+    {
+      "series_id": "Cu_alloys_pitting_potentials",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "Cu-alloys"
+        },
+        {
+          "name": "environment",
+          "value": "3.5 wt.% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "magenta diamond"
+        }
+      ],
+      "x_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V vs. SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Icorr",
+        "type": "numeric",
+        "unit": "μA/cm²",
+        "scale": "linear",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": -0.15,
+          "y": 1.98
+        },
+        {
+          "x": -0.15,
+          "y": 1.18
+        },
+        {
+          "x": -0.12,
+          "y": 1.00
+        }
+      ]
+    },
+    {
+      "series_id": "Ni_alloys_pitting_potentials",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "Ni-alloys"
+        },
+        {
+          "name": "environment",
+          "value": "3.5 wt.% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "cyan triangle left"
+        }
+      ],
+      "x_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "V vs. SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "y_axis": {
+        "label": "Icorr",
+        "type": "numeric",
+        "unit": "μA/cm²",
+        "scale": "linear",
+        "is_target": false
+      },
+      "data_points": [
+        {
+          "x": 0.05,
+          "y": 0.12
+        },
+        {
+          "x": 0.08,
+          "y": 0.08
+        },
+        {
+          "x": 0.42,
+          "y": 0.10
+        },
+        {
+          "x": 0.90,
+          "y": 0.08
+        }
+      ]
+    }
+  ]
+}

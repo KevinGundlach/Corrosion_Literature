@@ -1,0 +1,30 @@
+{
+    "paper_reference": "56",
+    "source_chart_manifest": "paper_56_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0002",
+        "image_path": "images/b36dd2f76639fb31b2fbeed5fc65f7deaf27d66f5ca68d82987cf28d40e52d20.jpg",
+        "caption": "Fig. 8. Cumulative probability plots of $E _ { \\mathrm { p i t } }$ values for amorphous $\\mathrm { A l _ { 8 7 } N i _ { 8. 7 } Y _ { 4. 3 } }$ (a) and $\\mathbf { A l } _ { 9 0 } \\mathrm { F e } _ { 5 } \\mathbf { G } \\mathbf { d } _ { 5 }$ (b) in comparison to polycrystalline Al for large and small surface area electrodes (deaerated 0.6 M NaCl). (m) Free standing polycrystalline Al, (j) mb polycrystalline Al, (2) free standing amorphous alloy, (^) mb amorphous alloy. Free standing test surface $\\mathrm { a r e a } = \\mathrm { l } 0 ^ { - 1 } \\mathrm { \\dot { c } m } ^ { \\mathrm { 2 } }$, mb area $\\sim 1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 }$",
+        "relevant_panels": [],
+        "target_series": [
+            "Pure Al E_pit, A=10^-1 cm\u00b2",
+            "Pure Al E_pit, A=10^-4 cm\u00b2",
+            "Al90Fe5Gd5 E_pit, A=10^-1 cm\u00b2",
+            "Al90Fe5Gd5 E_pit, A=10^-4 cm\u00b2"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The cumulative probability chart directly plots E_pit values for pure Al and Al90Fe5Gd5 at two electrode areas.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Percent",
+            "unit": "%",
+            "scale": "unknown"
+        }
+    },
+    "plot_data": []
+}

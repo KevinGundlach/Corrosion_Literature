@@ -1,0 +1,28 @@
+{
+    "paper_reference": "80",
+    "source_chart_manifest": "paper_80_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0001",
+        "image_path": "images/711a155508031744ff92f66bc334684f8ba65be75313f8d4785d6e1e16d7aa01.jpg",
+        "caption": "Fig. 2. Pitting potentials for freshly deposited samples, $E _ { \\mathrm { p } },$ and aged samples, $E _ { \\mathbf { p } } ^ { \\mathbf { a } }$ along with repassivation potentials, $E _ { \\mathrm { { R } } },$ for pure Al and AlMo alloys.",
+        "relevant_panels": [],
+        "target_series": [
+            "Fresh E_p",
+            "Aged E_p^a"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Fresh and aged pitting potentials are directly plotted against molybdenum concentration; repassivation potential is separable ancillary data.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Mo Concentration",
+            "unit": "at. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

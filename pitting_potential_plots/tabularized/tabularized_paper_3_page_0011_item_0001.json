@@ -1,0 +1,237 @@
+{
+  "schema_version": 2,
+  "paper_reference": "3",
+  "source_chart_manifest": "paper_3_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0011_item_0001",
+    "image_path": "images/d93bdea5f1932ac4aeaa71f9eb64b870881cdb8b5d916f8d7f93f9711aaf24ab.jpg",
+    "caption": "FIGURE $2 1 \\mathrm { ~ \\: ~ } -$ Relationship between the critical pitting potentials $(E _ { \\mathbf { c } } ^ { \\mathsf { s c r } }$ measured in deaerated synthetic seawater at 90 $\\mathsf { C }, \\mathsf { p H } = 7. 2 \\pm 0. 2 1$ of $\\mathsf { F e - C r - M o }$ based alloys and their resistance to crevice attack after a 6 day exposure in oxygenated, 10% ferric chloride at 21 ± 1 C.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Critical pitting potential is directly plotted against chromium-plus-molybdenum content, with crevice-attack regions as supporting annotations.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Fe-Cr-Mo and commercial-alloy critical pitting potentials"
+    ],
+    "x_axis": {
+      "label": "(Cr + Mo) in Fe (Wt. %)",
+      "unit": "wt. %",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting Potential, Ec^scr",
+      "unit": "mV vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Cr_Only_series",
+      "tags": [
+        {
+          "name": "alloy_family",
+          "value": "Cr Only binary alloys"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 12.0, "y": -140.0 },
+        { "x": 15.0, "y": -142.0 },
+        { "x": 20.0, "y": -115.0 },
+        { "x": 25.0, "y": -88.0 },
+        { "x": 30.0, "y": -53.0 },
+        { "x": 35.0, "y": -35.0 },
+        { "x": 40.0, "y": -10.0 }
+      ]
+    },
+    {
+      "series_id": "14_Cr_plus_Mo_series",
+      "tags": [
+        {
+          "name": "alloy_family",
+          "value": "14 Cr + Mo"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 15.0, "y": 43.0 },
+        { "x": 17.0, "y": 92.0 },
+        { "x": 19.1, "y": 173.0 }
+      ]
+    },
+    {
+      "series_id": "17_Cr_plus_Mo_series",
+      "tags": [
+        {
+          "name": "alloy_family",
+          "value": "17 Cr + Mo"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 17.9, "y": 60.0 },
+        { "x": 20.0, "y": 127.0 },
+        { "x": 22.0, "y": 202.0 }
+      ]
+    },
+    {
+      "series_id": "20_Cr_plus_Mo_series",
+      "tags": [
+        {
+          "name": "alloy_family",
+          "value": "20 Cr + Mo"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 21.0, "y": 78.0 },
+        { "x": 23.0, "y": 138.0 },
+        { "x": 25.0, "y": 285.0 }
+      ]
+    },
+    {
+      "series_id": "25_Cr_plus_Mo_series",
+      "tags": [
+        {
+          "name": "alloy_family",
+          "value": "25 Cr + Mo"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 27.0, "y": 260.0 },
+        { "x": 30.2, "y": 440.0 }
+      ]
+    },
+    {
+      "series_id": "30_Cr_plus_Mo_series",
+      "tags": [
+        {
+          "name": "alloy_family",
+          "value": "30 Cr + Mo"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 33.2, "y": 500.0 }
+      ]
+    },
+    {
+      "series_id": "commercial_and_discrete_alloys",
+      "tags": [
+        {
+          "name": "category",
+          "value": "Commercial and test alloys"
+        }
+      ],
+      "x_axis": {
+        "label": "(Cr + Mo) in Fe (Wt. %)",
+        "type": "numeric",
+        "unit": "wt. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": 15.0, "y": 25.0, "label": "Inconel 600" },
+        { "x": 19.5, "y": 58.0, "label": "316 SS" },
+        { "x": 26.0, "y": 122.0, "label": "E-Brite 26-1" },
+        { "x": 24.3, "y": 300.0 },
+        { "x": 25.6, "y": 325.0, "label": "B" },
+        { "x": 25.6, "y": 370.0, "label": "A" },
+        { "x": 26.7, "y": 510.0 },
+        { "x": 26.9, "y": 235.0 },
+        { "x": 27.1, "y": 332.0 },
+        { "x": 27.1, "y": 500.0 },
+        { "x": 28.2, "y": 410.0 },
+        { "x": 28.2, "y": 565.0 }
+      ]
+    }
+  ]
+}

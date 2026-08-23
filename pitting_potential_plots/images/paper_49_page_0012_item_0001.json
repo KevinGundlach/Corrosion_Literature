@@ -1,0 +1,27 @@
+{
+    "paper_reference": "49",
+    "source_chart_manifest": "paper_49_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0012_item_0001",
+        "image_path": "images/fa8cb789afaca01441218f38838da6bd7c3c2b9b5b8e57f19b96de18ae57bf20.jpg",
+        "caption": "Fig. 5. Plots of pitting potential $E _ { \\mathrm { p i t } }$ vs log $[C 1 ^ { - }]$ for different steels in chloride containing aqueous solutions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against log chloride concentration for multiple steel series.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "Epit for each steel series"
+        ],
+        "x_axis": {
+            "label": "Log Cl",
+            "unit": "ppm",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Epit",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

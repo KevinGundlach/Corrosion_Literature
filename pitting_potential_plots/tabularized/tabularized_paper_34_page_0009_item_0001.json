@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "paper_reference": "34",
+  "source_chart_manifest": "paper_34_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0009_item_0001",
+    "image_path": "images/95fbfa04f77b0bef4a5720226612c9a30aace2a6d756e7fbbabea4784ad2753d.jpg",
+    "caption": "Fig. 4. Pitting potentials of type 316LN SS as a function of nitrogen content in 1 M KCl and 0.5 M HCl solutions at a scan rate of 0.2 mV/s.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against nitrogen content for two solution series.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "pitting potential in 1.0 M KCl",
+      "pitting potential in 0.5 M HCl"
+    ],
+    "x_axis": {
+      "label": "Nitrogen Content",
+      "unit": "wt%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E",
+      "unit": "mV_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "pitting_potential_in_1_0_M_KCl",
+      "tags": [
+        {
+          "name": "material",
+          "value": "type 316LN SS"
+        },
+        {
+          "name": "test_solution",
+          "value": "1.0 M KCl"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.2 mV/s"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Nitrogen Content",
+        "type": "numeric",
+        "unit": "wt%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E",
+        "type": "numeric",
+        "unit": "mV_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.003,
+          "y": 485.0
+        },
+        {
+          "x": 0.058,
+          "y": 675.0
+        },
+        {
+          "x": 0.116,
+          "y": 945.0
+        },
+        {
+          "x": 0.171,
+          "y": 1170.0
+        }
+      ]
+    },
+    {
+      "series_id": "pitting_potential_in_0_5_M_HCl",
+      "tags": [
+        {
+          "name": "material",
+          "value": "type 316LN SS"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.5 M HCl"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.2 mV/s"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Nitrogen Content",
+        "type": "numeric",
+        "unit": "wt%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E",
+        "type": "numeric",
+        "unit": "mV_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.003,
+          "y": 220.0
+        },
+        {
+          "x": 0.058,
+          "y": 262.0
+        },
+        {
+          "x": 0.116,
+          "y": 310.0
+        },
+        {
+          "x": 0.171,
+          "y": 348.0
+        }
+      ]
+    }
+  ]
+}

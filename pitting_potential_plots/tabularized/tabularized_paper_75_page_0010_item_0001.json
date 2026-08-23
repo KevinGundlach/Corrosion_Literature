@@ -1,0 +1,138 @@
+{
+  "schema_version": 2,
+  "paper_reference": "75",
+  "source_chart_manifest": "paper_75_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0010_item_0001",
+    "image_path": "images/6b19ba1702f33c9b4d5ccb7bf0e9a35fbe799e244e2455a1fecb30a4411b2296.jpg",
+    "caption": "Fig. 3. Pitting potentials for aluminum as a function of pH in 0.1 and 1 M chloride solutions.",
+    "relevant_panels": [],
+    "target_series": [
+      "E_pit in 0.1 M Cl\u207b",
+      "E_pit in 1 M Cl\u207b"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Aluminum pitting potential E_pit is directly plotted against pH for two chloride concentrations.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "pH",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_pit",
+      "unit": "V vs. S.C.E.",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "E_pit_in_0_1_M_Cl_minus",
+      "tags": [
+        {
+          "name": "material",
+          "value": "aluminum"
+        },
+        {
+          "name": "chloride_concentration",
+          "value": "0.1 M Cl⁻"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "pH",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_pit",
+        "type": "numeric",
+        "unit": "V vs. S.C.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 4.0,
+          "y": -0.680
+        },
+        {
+          "x": 5.8,
+          "y": -0.685
+        },
+        {
+          "x": 8.1,
+          "y": -0.675
+        },
+        {
+          "x": 9.0,
+          "y": -0.650
+        },
+        {
+          "x": 9.45,
+          "y": -0.600
+        }
+      ]
+    },
+    {
+      "series_id": "E_pit_in_1_M_Cl_minus",
+      "tags": [
+        {
+          "name": "material",
+          "value": "aluminum"
+        },
+        {
+          "name": "chloride_concentration",
+          "value": "1 M Cl⁻"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "pH",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_pit",
+        "type": "numeric",
+        "unit": "V vs. S.C.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 4.0,
+          "y": -0.770
+        },
+        {
+          "x": 5.8,
+          "y": -0.760
+        },
+        {
+          "x": 5.8,
+          "y": -0.745
+        },
+        {
+          "x": 8.1,
+          "y": -0.760
+        },
+        {
+          "x": 10.2,
+          "y": -0.720
+        }
+      ]
+    }
+  ]
+}

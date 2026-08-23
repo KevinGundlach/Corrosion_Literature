@@ -1,0 +1,27 @@
+{
+    "paper_reference": "44",
+    "source_chart_manifest": "paper_44_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0101_item_0004",
+        "image_path": "images/1f44f83bf8dcab5e71a28e0beb42d30665e6cd2f740841854e9333a8a9bc5b7d.jpg",
+        "caption": "Figure 3.9: Plots of the experimental pitting potentials $\\mathrm { (E _ { p - e x p }) }$ of the Ni\u00adCr\u00adMo alloys in 0.5 M NaCl as a function of PREN at various temperatures: (a) $4 5 ^ { \\circ } \\mathrm { C },$ (b) $6 0 ^ { \\circ } \\mathrm { C },$ (c) $7 5 ^ { \\circ } \\mathrm { C }$ (d) $9 0 \\mathrm { { } ^ { \\circ } C }$. The solid line represents the calculated PREN value of Alloy C\u00ad22, which is 65.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Experimental pitting potential is directly plotted against PREN with discrete markers.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "experimental pitting potential, E_p-exp"
+        ],
+        "x_axis": {
+            "label": "PREN",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_p-exp vs SCE",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

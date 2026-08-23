@@ -1,0 +1,28 @@
+{
+    "paper_reference": "81",
+    "source_chart_manifest": "paper_81_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0001",
+        "image_path": "images/b5f34e958cbf10c126b9a54c01144b80455a81f6b60a6fd0880471eb82179078.jpg",
+        "caption": "FiG. 2. Critical pitting potentials of $1 8 \\% \\mathrm { { C r }, 1 0 \\% N i }$ Re stainless steels in0\u00b71N NaBr.",
+        "relevant_panels": [],
+        "target_series": [
+            "Critical pitting potential at 0\u00b0C",
+            "Critical pitting potential at 25\u00b0C"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against rhenium content at 0 and 25 \u00b0C.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Wt. Percent Rhenium",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "Volts, Std. H\u2082 Scale",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

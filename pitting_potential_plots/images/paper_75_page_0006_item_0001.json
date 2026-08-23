@@ -1,0 +1,27 @@
+{
+    "paper_reference": "75",
+    "source_chart_manifest": "paper_75_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0001",
+        "image_path": "images/02f682f588ac3f962860bed5d915a847ca66a949b98dedde47daeff10c24e8cf.jpg",
+        "caption": "Fig. 1. Pitting potentials for aluminum as a function of chloride ion activity.",
+        "relevant_panels": [],
+        "target_series": [
+            "Aluminum E_pit"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Aluminum pitting potential E_pit is directly plotted against chloride-ion activity.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Cl\u207b Activity",
+            "unit": "",
+            "scale": "log"
+        },
+        "y_axis": {
+            "label": "E_pit",
+            "unit": "V vs. S.C.E.",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

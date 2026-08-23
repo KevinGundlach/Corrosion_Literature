@@ -1,0 +1,91 @@
+{
+  "schema_version": 2,
+  "paper_reference": "38",
+  "source_chart_manifest": "paper_38_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0001",
+    "image_path": "images/a4c0becb20db3c4d5dab35c2feca3d8419b3738a746295264e184c93d09014c4.jpg",
+    "caption": "FIGURE 18 \u2014 Effect of N content on the pitting corrosion resistance of simulated HAZ of 22Cr duplex SSs.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The lower panel directly plots pitting potential against nitrogen content; the upper CPT panel is excluded.",
+    "confidence": 0.99,
+    "relevant_panels": [
+      "lower panel"
+    ],
+    "target_series": [
+      "Pitting Potential (60 \u00b0C, 5% NaCl)"
+    ],
+    "x_axis": {
+      "label": "N",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting Potential",
+      "unit": "mV vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Pitting_Potential_60C_5_percent_NaCl",
+      "panel": "lower panel",
+      "tags": [
+        {
+          "name": "material",
+          "value": "simulated HAZ of 22Cr duplex SSs"
+        },
+        {
+          "name": "test_condition",
+          "value": "60 °C, 5% NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.048,
+          "y": 110.0
+        },
+        {
+          "x": 0.080,
+          "y": 162.0
+        },
+        {
+          "x": 0.125,
+          "y": 210.0
+        },
+        {
+          "x": 0.138,
+          "y": 335.0
+        },
+        {
+          "x": 0.165,
+          "y": 345.0
+        },
+        {
+          "x": 0.240,
+          "y": 398.0
+        }
+      ]
+    }
+  ]
+}

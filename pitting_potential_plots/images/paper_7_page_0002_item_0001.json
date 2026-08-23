@@ -1,0 +1,27 @@
+{
+    "paper_reference": "7",
+    "source_chart_manifest": "paper_7_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0002_item_0001",
+        "image_path": "images/99ec75e247fdc5360d77639f2ec646a5ab99f127442ca5d13a69cbf22bfbf7e1.jpg",
+        "caption": "Metal analysis Fig. 1. Critical pitting potentials of 99.99% Al in 0.1M NaCl as a function of temperature.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against temperature.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "critical pitting potential Vc"
+        ],
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Vc",
+            "unit": "Volts, S.H.E.",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

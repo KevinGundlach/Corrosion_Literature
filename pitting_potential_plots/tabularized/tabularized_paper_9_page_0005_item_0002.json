@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "paper_reference": "9",
+  "source_chart_manifest": "paper_9_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0002",
+    "image_path": "images/032fe8841fd4fe59fc0abeaff6c686d7bafd465fc72c0bbf50168b77b7bdcf94.jpg",
+    "caption": "Fig. 4. (a) The variation of $E _ { \\mathfrak { p } }$ with logarithmic halide concentration for 316 wire, pH 5.5. (b) The variation of $E _ { \\mathfrak { p } }$ with pH for 316 wire in 0.5 M Cl\u207b and 0.5 M Br\u2212 solutions.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Panel (b) directly plots pitting potential against pH.",
+    "confidence": 0.98,
+    "relevant_panels": [
+      "panel (b)"
+    ],
+    "target_series": [
+      "NaCl pitting potential",
+      "NaBr pitting potential"
+    ],
+    "x_axis": {
+      "label": "pH",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "NaCl_pitting_potential",
+      "panel": "panel (b)",
+      "tags": [
+        {
+          "name": "material",
+          "value": "316 wire"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.5 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "pH",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.0,
+          "y": 550.0
+        },
+        {
+          "x": 4.1,
+          "y": 580.0
+        },
+        {
+          "x": 5.5,
+          "y": 630.0
+        },
+        {
+          "x": 9.0,
+          "y": 634.0
+        }
+      ]
+    },
+    {
+      "series_id": "NaBr_pitting_potential",
+      "panel": "panel (b)",
+      "tags": [
+        {
+          "name": "material",
+          "value": "316 wire"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.5 M NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "pH",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.0,
+          "y": 366.0
+        },
+        {
+          "x": 4.1,
+          "y": 370.0
+        },
+        {
+          "x": 5.5,
+          "y": 387.0
+        },
+        {
+          "x": 9.0,
+          "y": 405.0
+        }
+      ]
+    }
+  ]
+}

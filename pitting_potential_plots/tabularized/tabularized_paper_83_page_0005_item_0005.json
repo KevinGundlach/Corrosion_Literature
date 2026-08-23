@@ -1,0 +1,238 @@
+{
+  "schema_version": 2,
+  "paper_reference": "83",
+  "source_chart_manifest": "paper_83_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0005",
+    "image_path": "images/e9ed661de13c80e2a63deea857f2892880028a6e5f14ce268f5ec7429a5f921b.jpg",
+    "caption": "FIGURE 8 Z curves of 254SMO in 1 M and 3 M NaCl",
+    "relevant_panels": [],
+    "target_series": [
+      "254SMO pitting potential in 3 M NaCl",
+      "254SMO pitting potential in 1 M NaCl"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The Z curves directly plot 254SMO pitting-potential branches against temperature for two chloride concentrations.",
+    "confidence": 0.94,
+    "x_axis": {
+      "label": "Temperature",
+      "unit": "\u00b0C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "254SMO_pitting_potential_in_3_M_NaCl",
+      "tags": [
+        {
+          "name": "alloy_grade",
+          "value": "254SMO"
+        },
+        {
+          "name": "solution",
+          "value": "3 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 70.0,
+          "y": 1.018
+        },
+        {
+          "x": 80.0,
+          "y": 1.010
+        },
+        {
+          "x": 81.0,
+          "y": 1.012
+        },
+        {
+          "x": 81.0,
+          "y": 0.938
+        },
+        {
+          "x": 82.0,
+          "y": 0.855
+        },
+        {
+          "x": 82.0,
+          "y": 0.785
+        },
+        {
+          "x": 82.0,
+          "y": 0.620
+        },
+        {
+          "x": 82.0,
+          "y": 0.560
+        },
+        {
+          "x": 83.0,
+          "y": 0.852
+        },
+        {
+          "x": 85.0,
+          "y": 0.760
+        },
+        {
+          "x": 85.0,
+          "y": 0.710
+        },
+        {
+          "x": 85.0,
+          "y": 0.545
+        },
+        {
+          "x": 87.5,
+          "y": 0.742
+        },
+        {
+          "x": 87.5,
+          "y": 0.515
+        },
+        {
+          "x": 87.5,
+          "y": 0.475
+        },
+        {
+          "x": 90.0,
+          "y": 0.600
+        },
+        {
+          "x": 90.0,
+          "y": 0.488
+        },
+        {
+          "x": 95.0,
+          "y": 0.375
+        },
+        {
+          "x": 95.0,
+          "y": 0.332
+        },
+        {
+          "x": 95.0,
+          "y": 0.325
+        }
+      ]
+    },
+    {
+      "series_id": "254SMO_pitting_potential_in_1_M_NaCl",
+      "tags": [
+        {
+          "name": "alloy_grade",
+          "value": "254SMO"
+        },
+        {
+          "name": "solution",
+          "value": "1 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 79.0,
+          "y": 1.060
+        },
+        {
+          "x": 83.0,
+          "y": 1.020
+        },
+        {
+          "x": 85.0,
+          "y": 1.032
+        },
+        {
+          "x": 86.0,
+          "y": 1.040
+        },
+        {
+          "x": 86.0,
+          "y": 0.860
+        },
+        {
+          "x": 87.0,
+          "y": 0.690
+        },
+        {
+          "x": 87.0,
+          "y": 0.590
+        },
+        {
+          "x": 88.0,
+          "y": 0.580
+        },
+        {
+          "x": 89.0,
+          "y": 0.770
+        },
+        {
+          "x": 90.0,
+          "y": 0.670
+        },
+        {
+          "x": 92.0,
+          "y": 0.580
+        },
+        {
+          "x": 93.0,
+          "y": 0.620
+        },
+        {
+          "x": 94.0,
+          "y": 0.640
+        },
+        {
+          "x": 95.0,
+          "y": 0.590
+        },
+        {
+          "x": 95.0,
+          "y": 0.750
+        }
+      ]
+    }
+  ]
+}

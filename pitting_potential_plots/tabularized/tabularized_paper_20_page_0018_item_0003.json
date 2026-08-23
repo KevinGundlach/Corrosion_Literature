@@ -1,0 +1,98 @@
+{
+  "schema_version": 2,
+  "paper_reference": "20",
+  "source_chart_manifest": "paper_20_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0018_item_0003",
+    "image_path": "images/3f995ee1fc5cbc177674da2ccd4fab44686d62a583b7f86bc8d4d837d6258725.jpg",
+    "caption": "Fig. 13. Comparisons of the corrosion potential, the pitting potential, and the corrosion rate of HEA versus the concentration of NaCl added to 1 N $\\mathrm { H } _ { 2 } \\mathrm { S O } _ { 4 }$ at room temperature $(\\sim 2 5 ^ { \\circ } \\mathrm { C })$",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The red-triangle pitting-potential series is directly plotted against added NaCl concentration and is separable from corrosion potential and corrosion rate.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Pitting potential, Epit"
+    ],
+    "x_axis": {
+      "label": "1N H2SO4 + X M NaCl",
+      "unit": "M NaCl",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Pitting_potential_Epit",
+      "tags": [
+        {
+          "name": "material",
+          "value": "HEA"
+        },
+        {
+          "name": "base_solution",
+          "value": "1N H2SO4"
+        },
+        {
+          "name": "temperature",
+          "value": "25 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled red triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "1N H2SO4 + X M NaCl",
+        "type": "numeric",
+        "unit": "M NaCl",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.01,
+          "y": -0.220,
+          "label": "0.01M"
+        },
+        {
+          "x": 0.1,
+          "y": -0.240,
+          "label": "0.1M"
+        },
+        {
+          "x": 0.4,
+          "y": -0.215,
+          "label": "0.4M"
+        },
+        {
+          "x": 0.5,
+          "y": -0.208,
+          "label": "0.5M"
+        },
+        {
+          "x": 0.6,
+          "y": -0.230,
+          "label": "0.6M"
+        },
+        {
+          "x": 1.0,
+          "y": -0.280,
+          "label": "1M"
+        }
+      ]
+    }
+  ]
+}

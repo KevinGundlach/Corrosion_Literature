@@ -1,0 +1,162 @@
+{
+  "schema_version": 2,
+  "paper_reference": "80",
+  "source_chart_manifest": "paper_80_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0001",
+    "image_path": "images/711a155508031744ff92f66bc334684f8ba65be75313f8d4785d6e1e16d7aa01.jpg",
+    "caption": "Fig. 2. Pitting potentials for freshly deposited samples, $E _ { \\mathrm { p } },$ and aged samples, $E _ { \\mathbf { p } } ^ { \\mathbf { a } }$ along with repassivation potentials, $E _ { \\mathrm { { R } } },$ for pure Al and AlMo alloys.",
+    "relevant_panels": [],
+    "target_series": [
+      "Fresh E_p",
+      "Aged E_p^a"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Fresh and aged pitting potentials are directly plotted against molybdenum concentration; repassivation potential is separable ancillary data.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Mo Concentration",
+      "unit": "at. %",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "mV SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Fresh_E_p",
+      "tags": [
+        {
+          "name": "sample_state",
+          "value": "freshly deposited"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Mo Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -695.0
+        },
+        {
+          "x": 6.0,
+          "y": 5.0
+        },
+        {
+          "x": 10.0,
+          "y": 265.0
+        },
+        {
+          "x": 15.5,
+          "y": 450.0
+        },
+        {
+          "x": 17.0,
+          "y": 530.0
+        },
+        {
+          "x": 28.5,
+          "y": 900.0
+        },
+        {
+          "x": 28.5,
+          "y": 915.0
+        },
+        {
+          "x": 41.8,
+          "y": 895.0
+        }
+      ]
+    },
+    {
+      "series_id": "Aged_E_p_a",
+      "tags": [
+        {
+          "name": "sample_state",
+          "value": "aged"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Mo Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -465.0
+        },
+        {
+          "x": 0.0,
+          "y": -525.0
+        },
+        {
+          "x": 6.0,
+          "y": 15.0
+        },
+        {
+          "x": 10.0,
+          "y": 90.0
+        },
+        {
+          "x": 15.5,
+          "y": 450.0
+        },
+        {
+          "x": 17.0,
+          "y": 540.0
+        },
+        {
+          "x": 18.5,
+          "y": 600.0
+        },
+        {
+          "x": 26.5,
+          "y": 815.0
+        },
+        {
+          "x": 28.5,
+          "y": 850.0
+        },
+        {
+          "x": 32.0,
+          "y": 965.0
+        }
+      ]
+    }
+  ]
+}

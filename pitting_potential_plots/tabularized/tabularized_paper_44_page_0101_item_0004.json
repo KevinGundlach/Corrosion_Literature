@@ -1,0 +1,160 @@
+{
+  "schema_version": 2,
+  "paper_reference": "44",
+  "source_chart_manifest": "paper_44_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0101_item_0004",
+    "image_path": "images/1f44f83bf8dcab5e71a28e0beb42d30665e6cd2f740841854e9333a8a9bc5b7d.jpg",
+    "caption": "Figure 3.9: Plots of the experimental pitting potentials $\\mathrm { (E _ { p - e x p }) }$ of the Ni\u00adCr\u00adMo alloys in 0.5 M NaCl as a function of PREN at various temperatures: (a) $4 5 ^ { \\circ } \\mathrm { C },$ (b) $6 0 ^ { \\circ } \\mathrm { C },$ (c) $7 5 ^ { \\circ } \\mathrm { C }$ (d) $9 0 \\mathrm { { } ^ { \\circ } C }$. The solid line represents the calculated PREN value of Alloy C\u00ad22, which is 65.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Experimental pitting potential is directly plotted against PREN with discrete markers.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "experimental pitting potential, E_p-exp"
+    ],
+    "x_axis": {
+      "label": "PREN",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_p-exp vs SCE",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "experimental_pitting_potential_Ep_exp",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "Ni-Cr-Mo alloys"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.5 M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_p-exp vs SCE",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 30.8,
+          "y": 202.0
+        },
+        {
+          "x": 36.8,
+          "y": 498.0
+        },
+        {
+          "x": 44.8,
+          "y": 260.0
+        },
+        {
+          "x": 46.5,
+          "y": 538.0
+        },
+        {
+          "x": 48.8,
+          "y": 478.0
+        },
+        {
+          "x": 49.2,
+          "y": 560.0
+        },
+        {
+          "x": 49.5,
+          "y": 570.0
+        },
+        {
+          "x": 52.5,
+          "y": 395.0
+        },
+        {
+          "x": 60.2,
+          "y": 260.0
+        },
+        {
+          "x": 62.2,
+          "y": 288.0
+        },
+        {
+          "x": 63.2,
+          "y": 535.0
+        },
+        {
+          "x": 65.5,
+          "y": 342.0
+        },
+        {
+          "x": 67.8,
+          "y": 505.0
+        },
+        {
+          "x": 68.2,
+          "y": 600.0
+        },
+        {
+          "x": 68.8,
+          "y": -350.0
+        },
+        {
+          "x": 72.5,
+          "y": 600.0
+        },
+        {
+          "x": 77.8,
+          "y": 560.0
+        },
+        {
+          "x": 79.0,
+          "y": 475.0
+        },
+        {
+          "x": 87.5,
+          "y": 600.0
+        },
+        {
+          "x": 89.0,
+          "y": 600.0
+        },
+        {
+          "x": 90.2,
+          "y": 70.0
+        },
+        {
+          "x": 93.2,
+          "y": 600.0
+        },
+        {
+          "x": 94.8,
+          "y": 472.0
+        },
+        {
+          "x": 103.8,
+          "y": 600.0
+        }
+      ]
+    }
+  ]
+}

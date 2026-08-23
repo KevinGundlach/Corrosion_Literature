@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "paper_reference": "6",
+  "source_chart_manifest": "paper_6_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0001",
+    "image_path": "images/db78da07a46206ac67926920635da368037c2e07de4ae1f1879b0e67c15fc842.jpg",
+    "caption": "Fig. 4. Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NoBr.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against molybdenum content at three temperatures.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "pitting potential at 1°C",
+      "pitting potential at 25°C",
+      "pitting potential at 45°C"
+    ],
+    "x_axis": {
+      "label": "Molybdenum Content",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting Potential",
+      "unit": "Volt versus SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "pitting_potential_at_1C",
+      "tags": [
+        {
+          "name": "temperature",
+          "value": "1 °C"
+        },
+        {
+          "name": "test_solution",
+          "value": "nitrogen-saturated 1.0M NaBr"
+        },
+        {
+          "name": "scan_rate",
+          "value": "200 mV/hr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Content",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "Volt versus SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 0.325
+        },
+        {
+          "x": 0.0,
+          "y": 0.334
+        },
+        {
+          "x": 0.95,
+          "y": 0.327
+        },
+        {
+          "x": 0.95,
+          "y": 0.340
+        },
+        {
+          "x": 2.05,
+          "y": 0.380
+        },
+        {
+          "x": 2.05,
+          "y": 0.395
+        },
+        {
+          "x": 3.48,
+          "y": 0.406
+        },
+        {
+          "x": 3.48,
+          "y": 0.426
+        },
+        {
+          "x": 4.67,
+          "y": 0.395
+        },
+        {
+          "x": 4.67,
+          "y": 0.405
+        }
+      ]
+    },
+    {
+      "series_id": "pitting_potential_at_25C",
+      "tags": [
+        {
+          "name": "temperature",
+          "value": "25 °C"
+        },
+        {
+          "name": "test_solution",
+          "value": "nitrogen-saturated 1.0M NaBr"
+        },
+        {
+          "name": "scan_rate",
+          "value": "200 mV/hr"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Content",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "Volt versus SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 0.235
+        },
+        {
+          "x": 0.0,
+          "y": 0.248
+        },
+        {
+          "x": 0.95,
+          "y": 0.278
+        },
+        {
+          "x": 0.95,
+          "y": 0.313
+        },
+        {
+          "x": 2.05,
+          "y": 0.324
+        },
+        {
+          "x": 3.48,
+          "y": 0.322
+        },
+        {
+          "x": 3.48,
+          "y": 0.348
+        },
+        {
+          "x": 4.67,
+          "y": 0.328
+        },
+        {
+          "x": 4.67,
+          "y": 0.336
+        }
+      ]
+    },
+    {
+      "series_id": "pitting_potential_at_45C",
+      "tags": [
+        {
+          "name": "temperature",
+          "value": "45 °C"
+        },
+        {
+          "name": "test_solution",
+          "value": "nitrogen-saturated 1.0M NaBr"
+        },
+        {
+          "name": "scan_rate",
+          "value": "200 mV/hr"
+        },
+        {
+          "name": "marker_style",
+          "value": "plus"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Content",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "Volt versus SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 0.096
+        },
+        {
+          "x": 0.0,
+          "y": 0.170
+        },
+        {
+          "x": 0.95,
+          "y": 0.198
+        },
+        {
+          "x": 0.95,
+          "y": 0.211
+        },
+        {
+          "x": 2.05,
+          "y": 0.224
+        },
+        {
+          "x": 2.05,
+          "y": 0.274
+        },
+        {
+          "x": 3.48,
+          "y": 0.288
+        },
+        {
+          "x": 3.48,
+          "y": 0.304
+        },
+        {
+          "x": 4.67,
+          "y": 0.248
+        },
+        {
+          "x": 4.67,
+          "y": 0.266
+        }
+      ]
+    }
+  ]
+}

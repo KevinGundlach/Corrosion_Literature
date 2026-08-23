@@ -1,0 +1,214 @@
+{
+  "schema_version": 2,
+  "paper_reference": "80",
+  "source_chart_manifest": "paper_80_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0001",
+    "image_path": "images/a6974eea2e725c9597bb0b0eabfb5ebec6d2e83630a086edcf44eda047d82824.jpg",
+    "caption": "Fig. 3. Pitting potentials for freshly deposited samples, $E _ { \\mathbf { p } },$ and aged samples, $E _ { \\mathbf { \\mathfrak { p } } } ^ { \\mathbf { a } }$ along with repassivation potentials, $E _ { \\mathrm { { R } } },$ for pure Al, AlV alloys, AlMn alloys, and AlW alloys.",
+    "relevant_panels": [],
+    "target_series": [
+      "Pure Al E_p and E_p^a",
+      "Al-V E_p and E_p^a",
+      "Al-Mn E_p and E_p^a",
+      "Al-W E_p and E_p^a"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Fresh and aged pitting potentials are directly plotted against solute concentration for Al-V, Al-Mn, and Al-W alloys.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Solute Concentration",
+      "unit": "at. %",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "mV SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Pure_Al_E_p_and_E_p_a",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Pure Al"
+        }
+      ],
+      "x_axis": {
+        "label": "Solute Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -695.0,
+          "label": "fresh Ep"
+        },
+        {
+          "x": 0.0,
+          "y": -465.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 0.0,
+          "y": -525.0,
+          "label": "aged Epa"
+        }
+      ]
+    },
+    {
+      "series_id": "Al_V_E_p_and_E_p_a",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Al-V"
+        }
+      ],
+      "x_axis": {
+        "label": "Solute Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 9.8,
+          "y": 60.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 9.8,
+          "y": 95.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 21.8,
+          "y": 605.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 21.8,
+          "y": 825.0,
+          "label": "aged Epa"
+        }
+      ]
+    },
+    {
+      "series_id": "Al_Mn_E_p_and_E_p_a",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Al-Mn"
+        }
+      ],
+      "x_axis": {
+        "label": "Solute Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 6.0,
+          "y": -305.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 6.0,
+          "y": -345.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 11.2,
+          "y": -195.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 15.8,
+          "y": -165.0,
+          "label": "aged Epa"
+        },
+        {
+          "x": 15.8,
+          "y": -205.0,
+          "label": "aged Epa"
+        }
+      ]
+    },
+    {
+      "series_id": "Al_W_E_p_and_E_p_a",
+      "tags": [
+        {
+          "name": "alloy_system",
+          "value": "Al-W"
+        }
+      ],
+      "x_axis": {
+        "label": "Solute Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 715.0,
+          "label": "fresh Ep"
+        },
+        {
+          "x": 2.8,
+          "y": -150.0,
+          "label": "fresh Ep"
+        },
+        {
+          "x": 5.5,
+          "y": -75.0,
+          "label": "fresh Ep"
+        },
+        {
+          "x": 2.8,
+          "y": -270.0,
+          "label": "aged Epa"
+        }
+      ]
+    }
+  ]
+}

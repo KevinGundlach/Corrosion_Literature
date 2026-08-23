@@ -1,0 +1,28 @@
+{
+    "paper_reference": "41",
+    "source_chart_manifest": "paper_41_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0005",
+        "image_path": "images/df9de5fb3a88eabf595c411f3a9131baf4791d5746f3a2f90552922e1a6d7e1d.jpg",
+        "caption": "FIGuRE 12. Comparison of pitting potentials determined from the standard cyclic polarization test with pitting potentials determined from testing which limits the influence of the low potential loop in the scan procedure.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potentials from the standard and modified cyclic-polarization procedures are directly plotted against the alloy composition index.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "standard-procedure pitting potential",
+            "modified-test pitting potential omitting the Ec to -080 mV range"
+        ],
+        "x_axis": {
+            "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "POTENTIAL",
+            "unit": "mV vs SHE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "paper_reference": "48",
+  "source_chart_manifest": "paper_48_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0007",
+    "image_path": "images/e02126317b7676822a5695ed00b4173cc375ee7f0ee722eb73fe6ba0c2d239dd.jpg",
+    "caption": "FIGURE 2. $E _ { p }$ vsthe Cr+ 3xMo indexforferriticand austenitic SS in deaerated 3.5% NaCl solutions at ${ } ^ { 8 0 ^ { \\circ } C. }$",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Ep is directly plotted against the Cr + 3xMo index for separable ferritic and austenitic stainless-steel series.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "ferritic stainless-steel Ep",
+      "austenitic stainless-steel Ep"
+    ],
+    "x_axis": {
+      "label": "Cr + 3xMo",
+      "unit": "mass%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_p",
+      "unit": "V_Ag-AgCl",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "ferritic_stainless_steel_Ep",
+      "tags": [
+        {
+          "name": "alloy_type",
+          "value": "ferritic stainless steel"
+        },
+        {
+          "name": "solution",
+          "value": "3.5% NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "gas_condition",
+          "value": "Argon (Ar) deaerated"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Cr + 3xMo",
+        "type": "numeric",
+        "unit": "mass%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_p",
+        "type": "numeric",
+        "unit": "V_Ag-AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 18.0,
+          "y": -0.245,
+          "y_lower": -0.260,
+          "y_upper": -0.230,
+          "y_interval_meaning": "error bar",
+          "label": "F1"
+        },
+        {
+          "x": 22.2,
+          "y": -0.220,
+          "y_lower": -0.230,
+          "y_upper": -0.210,
+          "y_interval_meaning": "error bar",
+          "label": "F3"
+        },
+        {
+          "x": 24.2,
+          "y": -0.080,
+          "y_lower": -0.125,
+          "y_upper": -0.035,
+          "y_interval_meaning": "error bar",
+          "label": "F2"
+        },
+        {
+          "x": 26.6,
+          "y": -0.170,
+          "y_lower": -0.185,
+          "y_upper": -0.155,
+          "y_interval_meaning": "error bar",
+          "label": "F5"
+        },
+        {
+          "x": 28.2,
+          "y": 0.088,
+          "y_lower": 0.040,
+          "y_upper": 0.135,
+          "y_interval_meaning": "error bar",
+          "label": "F4"
+        },
+        {
+          "x": 32.5,
+          "y": 0.180,
+          "y_lower": 0.165,
+          "y_upper": 0.195,
+          "y_interval_meaning": "error bar",
+          "label": "F6"
+        },
+        {
+          "x": 38.6,
+          "y": 0.778,
+          "y_lower": 0.745,
+          "y_upper": 0.810,
+          "y_interval_meaning": "error bar",
+          "label": "F7"
+        }
+      ]
+    },
+    {
+      "series_id": "austenitic_stainless_steel_Ep",
+      "tags": [
+        {
+          "name": "alloy_type",
+          "value": "austenitic stainless steel"
+        },
+        {
+          "name": "solution",
+          "value": "3.5% NaCl"
+        },
+        {
+          "name": "temperature",
+          "value": "80 °C"
+        },
+        {
+          "name": "gas_condition",
+          "value": "Argon (Ar) deaerated"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Cr + 3xMo",
+        "type": "numeric",
+        "unit": "mass%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_p",
+        "type": "numeric",
+        "unit": "V_Ag-AgCl",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 18.2,
+          "y": 0.078,
+          "y_lower": 0.040,
+          "y_upper": 0.115,
+          "y_interval_meaning": "error bar",
+          "label": "A1"
+        },
+        {
+          "x": 22.8,
+          "y": 0.130,
+          "y_lower": 0.095,
+          "y_upper": 0.165,
+          "y_interval_meaning": "error bar",
+          "label": "A3"
+        },
+        {
+          "x": 24.2,
+          "y": 0.185,
+          "y_lower": 0.160,
+          "y_upper": 0.210,
+          "y_interval_meaning": "error bar",
+          "label": "A2"
+        },
+        {
+          "x": 26.5,
+          "y": 0.215,
+          "y_lower": 0.190,
+          "y_upper": 0.240,
+          "y_interval_meaning": "error bar",
+          "label": "A5"
+        },
+        {
+          "x": 28.1,
+          "y": 0.295,
+          "y_lower": 0.235,
+          "y_upper": 0.355,
+          "y_interval_meaning": "error bar",
+          "label": "A4"
+        },
+        {
+          "x": 32.1,
+          "y": 0.360,
+          "y_lower": 0.350,
+          "y_upper": 0.370,
+          "y_interval_meaning": "error bar",
+          "label": "A6"
+        },
+        {
+          "x": 37.8,
+          "y": 0.478,
+          "y_lower": 0.435,
+          "y_upper": 0.520,
+          "y_interval_meaning": "error bar",
+          "label": "A7"
+        }
+      ]
+    }
+  ]
+}

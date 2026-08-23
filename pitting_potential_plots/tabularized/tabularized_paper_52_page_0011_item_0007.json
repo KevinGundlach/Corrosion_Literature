@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "paper_reference": "52",
+  "source_chart_manifest": "paper_52_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0011_item_0007",
+    "image_path": "images/baeb90e17a3ea2706e057930166e5f7d554dcece6b2f28f14863ffa5bcaa3115.jpg",
+    "caption": "FIGURE 17. Summar<sub>y</sub> of $E _ { b }$ of <sub>p</sub>arent metal and welded <sub>p</sub>olished specimens as a function of variable PREN (PREN =%Cr + 2.5% Mo).",
+    "relevant_panels": [],
+    "target_series": [
+      "Base metal specimens E_b",
+      "Welded specimens E_b"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Breakdown potential E_b is directly plotted against PREN for base-metal and welded specimens.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "PREN (%Cr + 2.5% Mo)",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_b",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Base_metal_specimens_E_b",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "base metal"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN (%CR + 2.5% Mo)",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_b",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 19.2,
+          "y": 0.310
+        },
+        {
+          "x": 21.35,
+          "y": 0.366
+        },
+        {
+          "x": 23.12,
+          "y": 0.438
+        },
+        {
+          "x": 24.10,
+          "y": 0.450
+        },
+        {
+          "x": 24.42,
+          "y": 0.465
+        },
+        {
+          "x": 26.60,
+          "y": 0.544
+        }
+      ]
+    },
+    {
+      "series_id": "Welded_specimens_E_b",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "welded polished"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN (%CR + 2.5% Mo)",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_b",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 19.2,
+          "y": 0.282
+        },
+        {
+          "x": 21.35,
+          "y": 0.246
+        },
+        {
+          "x": 23.12,
+          "y": 0.358
+        },
+        {
+          "x": 24.0,
+          "y": 0.240
+        },
+        {
+          "x": 24.0,
+          "y": 0.332
+        },
+        {
+          "x": 24.0,
+          "y": 0.405
+        },
+        {
+          "x": 24.1,
+          "y": 0.435
+        },
+        {
+          "x": 26.6,
+          "y": 0.412
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 2,
+  "paper_reference": "41",
+  "source_chart_manifest": "paper_41_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0005",
+    "image_path": "images/df9de5fb3a88eabf595c411f3a9131baf4791d5746f3a2f90552922e1a6d7e1d.jpg",
+    "caption": "FIGuRE 12. Comparison of pitting potentials determined from the standard cyclic polarization test with pitting potentials determined from testing which limits the influence of the low potential loop in the scan procedure.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potentials from the standard and modified cyclic-polarization procedures are directly plotted against the alloy composition index.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "standard-procedure pitting potential",
+      "modified-test pitting potential omitting the Ec to -080 mV range"
+    ],
+    "x_axis": {
+      "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "POTENTIAL",
+      "unit": "mV vs SHE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "standard_procedure_pitting_potential",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "CF alloys"
+        },
+        {
+          "name": "test_procedure",
+          "value": "standard procedure"
+        },
+        {
+          "name": "marker_style",
+          "value": "range bar I"
+        }
+      ],
+      "x_axis": {
+        "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "POTENTIAL",
+        "type": "numeric",
+        "unit": "mV vs SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 22.10,
+          "y": 796.5,
+          "y_lower": 768.0,
+          "y_upper": 825.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.52,
+          "y": 815.0,
+          "y_lower": 778.0,
+          "y_upper": 852.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 12"
+        },
+        {
+          "x": 23.22,
+          "y": 866.5,
+          "y_lower": 825.0,
+          "y_upper": 908.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 13"
+        },
+        {
+          "x": 23.90,
+          "y": 927.0,
+          "y_lower": 912.0,
+          "y_upper": 942.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 14"
+        },
+        {
+          "x": 24.45,
+          "y": 977.0,
+          "y_lower": 962.0,
+          "y_upper": 992.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 3"
+        },
+        {
+          "x": 25.32,
+          "y": 1022.5,
+          "y_lower": 990.0,
+          "y_upper": 1055.0,
+          "y_interval_meaning": "range bar",
+          "label": "Alloy 4"
+        }
+      ]
+    },
+    {
+      "series_id": "modified_test_pitting_potential_omitting_Ec_to_minus_080mV",
+      "tags": [
+        {
+          "name": "material_class",
+          "value": "CF alloys"
+        },
+        {
+          "name": "test_procedure",
+          "value": "omitting potential range Ec to -080 mV"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "%CR + %MO + 20(%N + %C) in austenite phase",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "POTENTIAL",
+        "type": "numeric",
+        "unit": "mV vs SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 22.10,
+          "y": 775.0,
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.10,
+          "y": 795.0,
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.10,
+          "y": 802.0,
+          "label": "Alloy 11"
+        },
+        {
+          "x": 22.10,
+          "y": 818.0,
+          "label": "Alloy 11"
+        },
+        {
+          "x": 24.45,
+          "y": 785.0,
+          "label": "Alloy 3"
+        },
+        {
+          "x": 24.45,
+          "y": 918.0,
+          "label": "Alloy 3"
+        },
+        {
+          "x": 25.32,
+          "y": 915.0,
+          "label": "Alloy 4"
+        },
+        {
+          "x": 25.32,
+          "y": 955.0,
+          "label": "Alloy 4"
+        }
+      ]
+    }
+  ]
+}

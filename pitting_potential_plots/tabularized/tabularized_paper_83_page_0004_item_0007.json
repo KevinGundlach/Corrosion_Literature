@@ -1,0 +1,270 @@
+{
+  "schema_version": 2,
+  "paper_reference": "83",
+  "source_chart_manifest": "paper_83_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0007",
+    "image_path": "images/7f3993fc724265469066abf7f5e6344fd362a2c7fc2ae775ebab1eded2809fd2.jpg",
+    "caption": "FIGURE 7 Z curves of 904L with different scanning rate",
+    "relevant_panels": [],
+    "target_series": [
+      "904L pitting potential at 30 mV/min",
+      "904L pitting potential at 10 mV/min"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The Z curves directly plot 904L pitting-potential branches against temperature for two potential scan rates.",
+    "confidence": 0.94,
+    "x_axis": {
+      "label": "Temperature",
+      "unit": "\u00b0C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "904L_pitting_potential_at_30_mV_min",
+      "tags": [
+        {
+          "name": "alloy_grade",
+          "value": "904L"
+        },
+        {
+          "name": "scan_rate",
+          "value": "30 mV/min"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 40.0,
+          "y": 1.035
+        },
+        {
+          "x": 48.0,
+          "y": 1.020
+        },
+        {
+          "x": 52.2,
+          "y": 1.015
+        },
+        {
+          "x": 55.5,
+          "y": 0.990
+        },
+        {
+          "x": 55.5,
+          "y": 0.950
+        },
+        {
+          "x": 55.5,
+          "y": 0.930
+        },
+        {
+          "x": 55.5,
+          "y": 0.870
+        },
+        {
+          "x": 56.5,
+          "y": 0.950
+        },
+        {
+          "x": 56.5,
+          "y": 0.915
+        },
+        {
+          "x": 56.5,
+          "y": 0.845
+        },
+        {
+          "x": 55.0,
+          "y": 0.495
+        },
+        {
+          "x": 57.0,
+          "y": 0.685
+        },
+        {
+          "x": 60.0,
+          "y": 0.765
+        },
+        {
+          "x": 60.0,
+          "y": 0.600
+        },
+        {
+          "x": 60.0,
+          "y": 0.550
+        },
+        {
+          "x": 65.0,
+          "y": 0.605
+        },
+        {
+          "x": 65.0,
+          "y": 0.530
+        },
+        {
+          "x": 65.0,
+          "y": 0.470
+        },
+        {
+          "x": 70.0,
+          "y": 0.345
+        },
+        {
+          "x": 70.0,
+          "y": 0.320
+        },
+        {
+          "x": 75.0,
+          "y": 0.380
+        },
+        {
+          "x": 75.0,
+          "y": 0.355
+        },
+        {
+          "x": 80.0,
+          "y": 0.405
+        },
+        {
+          "x": 80.0,
+          "y": 0.240
+        }
+      ]
+    },
+    {
+      "series_id": "904L_pitting_potential_at_10_mV_min",
+      "tags": [
+        {
+          "name": "alloy_grade",
+          "value": "904L"
+        },
+        {
+          "name": "scan_rate",
+          "value": "10 mV/min"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 38.0,
+          "y": 1.015
+        },
+        {
+          "x": 44.0,
+          "y": 1.015
+        },
+        {
+          "x": 48.5,
+          "y": 1.010
+        },
+        {
+          "x": 49.5,
+          "y": 1.005
+        },
+        {
+          "x": 52.5,
+          "y": 0.790
+        },
+        {
+          "x": 52.5,
+          "y": 0.760
+        },
+        {
+          "x": 53.5,
+          "y": 0.780
+        },
+        {
+          "x": 53.5,
+          "y": 0.480
+        },
+        {
+          "x": 57.5,
+          "y": 0.795
+        },
+        {
+          "x": 57.5,
+          "y": 0.610
+        },
+        {
+          "x": 57.5,
+          "y": 0.425
+        },
+        {
+          "x": 62.0,
+          "y": 0.605
+        },
+        {
+          "x": 62.0,
+          "y": 0.570
+        },
+        {
+          "x": 62.0,
+          "y": 0.405
+        },
+        {
+          "x": 62.0,
+          "y": 0.370
+        },
+        {
+          "x": 66.0,
+          "y": 0.600
+        },
+        {
+          "x": 66.0,
+          "y": 0.490
+        },
+        {
+          "x": 66.0,
+          "y": 0.440
+        },
+        {
+          "x": 66.0,
+          "y": 0.380
+        }
+      ]
+    }
+  ]
+}

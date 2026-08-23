@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "paper_reference": "32",
+  "source_chart_manifest": "paper_32_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0008",
+    "image_path": "images/63bc519566b0dfed9d7d5455e02942ed5ad596496057e2bbe02b1f52c86e521d.jpg",
+    "caption": "Figure 8. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 8 5 } F e _ { 7 } G d _ { 8 } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data. Scan rate 0.1 mV/s.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Epit is directly plotted for three categorical material conditions; the Erp series is ancillary and separable.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "Epit"
+    ],
+    "x_axis": {
+      "label": "Material Condition",
+      "unit": "",
+      "scale": "categorical"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Epit",
+      "tags": [
+        {
+          "name": "base_alloy",
+          "value": "Al85Fe7Gd8"
+        },
+        {
+          "name": "test_solution",
+          "value": "deaerated 0.6 M NaCl"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.1 mV/s"
+        },
+        {
+          "name": "marker_style",
+          "value": "red circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Material Condition",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "Amorphous",
+          "y": -0.200,
+          "y_lower": -0.275,
+          "y_upper": -0.138,
+          "y_interval_meaning": "25th to 75th percentile"
+        },
+        {
+          "x": "Nanocrystalline",
+          "y": 0.260,
+          "y_lower": 0.195,
+          "y_upper": 0.290,
+          "y_interval_meaning": "25th to 75th percentile"
+        },
+        {
+          "x": "Pure Al",
+          "y": -0.670,
+          "y_lower": -0.710,
+          "y_upper": -0.540,
+          "y_interval_meaning": "25th to 75th percentile"
+        }
+      ]
+    }
+  ]
+}

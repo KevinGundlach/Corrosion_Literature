@@ -1,0 +1,27 @@
+{
+    "paper_reference": "3",
+    "source_chart_manifest": "paper_3_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0011_item_0006",
+        "image_path": "images/f4be46d7d18ab4a4adcf7a53e6352d320e1a53f21f3e4af0ed119c8f6aa357ae.jpg",
+        "caption": "FIGURE $\\quad 2 2 \\quad -$ Relationship between the critical pitting potentials $(E _ { c } ^ { ^ { \\texttt { s c r } } }$ measured in deaerated synthetic seawater at 90 $\\mathsf { C }, \\mathsf { p H } = 7. 2 \\pm 0. 2 1$ of Fe-Cr-Mo based alloys and their resistance to crevice attack after a 14 day 'exposure to synthetic seawater at 121 C and $\\sim { \\mathfrak { 6 0 } }$ ppm oxygen. The numbers associated with individual points indicate the weight losses expressed as gms x ${ \\displaystyle 1 0 ^ { - 4 } }$ after the 121 C exposure for samples with initial weights of~1 gm.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against chromium-plus-molybdenum content, with exposure outcomes as annotations.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Fe-Cr-Mo and commercial-alloy critical pitting potentials"
+        ],
+        "x_axis": {
+            "label": "(Cr + Mo) in Fe (Wt. %)",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting Potential, Ec^scr",
+            "unit": "mV vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

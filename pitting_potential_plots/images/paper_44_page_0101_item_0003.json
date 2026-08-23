@@ -1,0 +1,27 @@
+{
+    "paper_reference": "44",
+    "source_chart_manifest": "paper_44_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0101_item_0003",
+        "image_path": "images/48139d16c62a3bade5e410903e80de556b3b40e56892a36e2f607275bf49b2d2.jpg",
+        "caption": "(c)",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Experimental pitting potential is directly plotted against PREN with discrete markers.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "experimental pitting potential, E_p-exp"
+        ],
+        "x_axis": {
+            "label": "PREN",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_p-exp vs SCE",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

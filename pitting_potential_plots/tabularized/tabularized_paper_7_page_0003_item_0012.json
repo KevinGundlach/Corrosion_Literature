@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "paper_reference": "7",
+  "source_chart_manifest": "paper_7_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0012",
+    "image_path": "images/89d66c77ffce47cdf9ce1160ce00434a012b2e5bcc3bce7a4397275168672172.jpg",
+    "caption": "Fig. 5. Corrosion potentials of 99.99% Al in various activities of NaCI containing 5 ppm $\\mathbb { c } _ { \\pm } + \\mathrm { \\Delta } ^ { + }$ in comparison with critical pitting potentials determined by Kaesche.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The critical pitting-potential comparison series is directly plotted against chloride activity and is separable from the corrosion-potential series.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Kaesche's critical pitting potential results"
+    ],
+    "x_axis": {
+      "label": "Cl− Activity",
+      "unit": "",
+      "scale": "log"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "Volts, S.H.E.",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Kaesches_critical_pitting_potential_results",
+      "tags": [
+        {
+          "name": "source",
+          "value": "Kaesche"
+        },
+        {
+          "name": "material",
+          "value": "99.99% Al"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Cl− Activity",
+        "type": "numeric",
+        "unit": "",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "Volts, S.H.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.08,
+          "y": -0.352
+        },
+        {
+          "x": 0.08,
+          "y": -0.393
+        },
+        {
+          "x": 0.15,
+          "y": -0.398
+        },
+        {
+          "x": 0.15,
+          "y": -0.408
+        },
+        {
+          "x": 0.40,
+          "y": -0.428
+        },
+        {
+          "x": 0.55,
+          "y": -0.468
+        },
+        {
+          "x": 0.70,
+          "y": -0.472
+        },
+        {
+          "x": 0.70,
+          "y": -0.482
+        }
+      ]
+    }
+  ]
+}

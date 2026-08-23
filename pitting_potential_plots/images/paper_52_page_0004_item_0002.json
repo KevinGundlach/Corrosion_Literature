@@ -1,0 +1,27 @@
+{
+    "paper_reference": "52",
+    "source_chart_manifest": "paper_52_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0002",
+        "image_path": "images/e243e4d37b9ea953c1a2a6e10dd643c58a7684ea8fe4e04267ee50a9a035c5e8.jpg",
+        "caption": "FIGURE 3. E as a function of mol<sub>y</sub>bdenum concentration in ferritic SS (18% Cr to 19% Cr).",
+        "relevant_panels": [],
+        "target_series": [
+            "E_b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Breakdown potential E_b is directly plotted against molybdenum concentration with discrete markers.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Molybdenum Concentration",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_b",
+            "unit": "V_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

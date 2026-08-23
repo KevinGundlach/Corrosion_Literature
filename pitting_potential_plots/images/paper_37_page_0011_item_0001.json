@@ -1,0 +1,28 @@
+{
+    "paper_reference": "37",
+    "source_chart_manifest": "paper_37_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0011_item_0001",
+        "image_path": "images/e1ed6f4316b171eb9a9ba388c0cdc148e67b4995a3ca98280bdac6bea35cbacf.jpg",
+        "caption": "",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Final breakdown potential and pit-initiation potential are directly plotted against nitrogen content for alloy K at 40 \u00b0C.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "final breakdown potential, Eb (open symbols)",
+            "pit-initiation potential, Einit (solid symbols)"
+        ],
+        "x_axis": {
+            "label": "Nitrogen content",
+            "unit": "wt%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

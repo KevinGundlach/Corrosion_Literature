@@ -1,0 +1,150 @@
+{
+  "schema_version": 2,
+  "paper_reference": "52",
+  "source_chart_manifest": "paper_52_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0012_item_0001",
+    "image_path": "images/1b0468d697236dfd33965c90db2cb6533a34851a4b9411d5c2ff360412df800d.jpg",
+    "caption": "FIGURE 18. Com<sub>p</sub>arisonofex<sub>p</sub>erimentalresultswiththosecalculated from the expression determined by Yazawa, et $a /. ^ { 2 5 }$",
+    "relevant_panels": [],
+    "target_series": [
+      "Experimental data E_b",
+      "Average calculated E_b"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Experimental and calculated breakdown potentials E_b are directly plotted against PREN.",
+    "confidence": 0.98,
+    "x_axis": {
+      "label": "PREN (%Cr + 2.5% Mo)",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_b",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Experimental_data_E_b",
+      "tags": [
+        {
+          "name": "data_type",
+          "value": "experimental"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN (%Cr + 2.5% Mo)",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_b",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 19.2,
+          "y": 0.095
+        },
+        {
+          "x": 21.35,
+          "y": 0.290
+        },
+        {
+          "x": 23.12,
+          "y": 0.525
+        },
+        {
+          "x": 24.08,
+          "y": 0.210
+        },
+        {
+          "x": 24.15,
+          "y": 0.528
+        },
+        {
+          "x": 24.45,
+          "y": 0.388
+        },
+        {
+          "x": 26.60,
+          "y": 0.768
+        },
+        {
+          "x": 28.20,
+          "y": 0.665
+        }
+      ]
+    },
+    {
+      "series_id": "Average_calculated_E_b",
+      "tags": [
+        {
+          "name": "data_type",
+          "value": "average calculated value"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "PREN (%Cr + 2.5% Mo)",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_b",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 19.2,
+          "y": 0.310
+        },
+        {
+          "x": 21.35,
+          "y": 0.366
+        },
+        {
+          "x": 23.12,
+          "y": 0.438
+        },
+        {
+          "x": 24.10,
+          "y": 0.438
+        },
+        {
+          "x": 24.55,
+          "y": 0.465
+        },
+        {
+          "x": 26.60,
+          "y": 0.544
+        },
+        {
+          "x": 28.30,
+          "y": 0.620
+        }
+      ]
+    }
+  ]
+}

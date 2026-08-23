@@ -1,0 +1,128 @@
+{
+  "schema_version": 2,
+  "paper_reference": "16",
+  "source_chart_manifest": "paper_16_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0007_item_0004",
+    "image_path": "images/ac9f08c0f6d29cf358a8e23ab7e369b263e084cc1235f9adf28f9b1e2b25105e.jpg",
+    "caption": "Fig.10 Effect of heating temperature on ferrite content and pitting potential of duplex SSs",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "The lower panel directly plots pitting potential against maximum heating temperature for two steels.",
+    "confidence": 0.98,
+    "relevant_panels": [
+      "lower panel"
+    ],
+    "target_series": [
+      "28Cr pitting potential",
+      "329J2L pitting potential"
+    ],
+    "x_axis": {
+      "label": "Maximum heating temperature",
+      "unit": "K",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "28Cr_pitting_potential",
+      "panel": "lower panel",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "28Cr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Maximum heating temperature",
+        "type": "numeric",
+        "unit": "K",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 1373.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit)"
+        },
+        {
+          "x": 1473.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit)"
+        },
+        {
+          "x": 1573.0,
+          "y": 0.755
+        },
+        {
+          "x": 1623.0,
+          "y": 0.605
+        }
+      ]
+    },
+    {
+      "series_id": "329J2L_pitting_potential",
+      "panel": "lower panel",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "329J2L"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Maximum heating temperature",
+        "type": "numeric",
+        "unit": "K",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 1318.0,
+          "y": 0.450
+        },
+        {
+          "x": 1473.0,
+          "y": 0.450
+        },
+        {
+          "x": 1573.0,
+          "y": 0.390
+        },
+        {
+          "x": 1623.0,
+          "y": 0.330
+        }
+      ]
+    }
+  ]
+}

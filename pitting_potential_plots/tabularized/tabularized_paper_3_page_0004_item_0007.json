@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "paper_reference": "3",
+  "source_chart_manifest": "paper_3_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0007",
+    "image_path": "images/b1c13c5c350d998045a321574196a41701aaf6c3e9003e425d96bf3726beb82d.jpg",
+    "caption": "FIGURE 3 - Critical pitting potentials of specimens prepared identically to those used in the desalination plant tests. Measurements made in deaerated synthetic seawater at ${ \\mathfrak { s o c } } _ { \\mathfrak { o } _ { \\mathfrak { o } } }$ $\\mathsf { p H } = 7. 2 \\pm 0. 2.$",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Critical pitting potential is directly plotted against alloy identity for separable specimen conditions.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "critical pitting potential by specimen condition"
+    ],
+    "x_axis": {
+      "label": "Alloy Identity",
+      "unit": "",
+      "scale": "categorical"
+    },
+    "y_axis": {
+      "label": "Pitting Potential, Ec^scr",
+      "unit": "mV vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "As_Rolled",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "As Rolled"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy Identity",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "E-Brite 26-1", "y": 155.0 },
+        { "x": "W6", "y": 208.0 },
+        { "x": "W5", "y": 352.0 },
+        { "x": "W7", "y": 408.0 },
+        { "x": "W8", "y": 568.0 }
+      ]
+    },
+    {
+      "series_id": "800F_1Hr_Chamber_Cool",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "800°F x 1 Hr., Chamber Cool"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy Identity",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "W6", "y": 220.0 },
+        { "x": "W5", "y": 302.0 },
+        { "x": "W7", "y": 350.0 },
+        { "x": "W8", "y": 532.0 }
+      ]
+    },
+    {
+      "series_id": "1450F_1Hr_Chamber_Cool",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "1450°F x 1 Hr., Chamber Cool"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy Identity",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "E-Brite 26-1", "y": 142.0 },
+        { "x": "W6", "y": 215.0 },
+        { "x": "W5", "y": 310.0 },
+        { "x": "W7", "y": 428.0 },
+        { "x": "W8", "y": 598.0 }
+      ]
+    },
+    {
+      "series_id": "2000F_1Hr_Water_Quench",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "2000°F x 1 Hr., Water Quench"
+        },
+        {
+          "name": "marker_style",
+          "value": "inverted triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy Identity",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential, Ec^scr",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "W6", "y": 215.0 },
+        { "x": "W5", "y": 312.0 },
+        { "x": "W7", "y": 428.0 },
+        { "x": "W8", "y": 598.0 }
+      ]
+    }
+  ]
+}

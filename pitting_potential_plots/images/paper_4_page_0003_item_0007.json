@@ -1,0 +1,28 @@
+{
+    "paper_reference": "4",
+    "source_chart_manifest": "paper_4_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0007",
+        "image_path": "images/ac49e4ce4ba1deb1b3909162b869d59d32316507ba12c9d08c3dc6cbbf5cfaf2.jpg",
+        "caption": "FIGURE 4 \u2014 Passivation breakdown potentials; (+) Alloy 625, 0.1% NaCI, (\u2206) Alloy 625, 20% NaCI, () Alloy C-276, 20% NaCl, (o) Alloy C-276, 1% NaCl, and (X) Alloy C-276, 0.1% NaCl.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Passivation breakdown potential is directly plotted against temperature for separable alloy and NaCl-concentration series.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Alloy 625 passivation breakdown potential",
+            "Alloy C-276 passivation breakdown potential"
+        ],
+        "x_axis": {
+            "label": "t",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Eb (SHE(T))",
+            "unit": "V",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

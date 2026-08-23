@@ -1,0 +1,27 @@
+{
+    "paper_reference": "74",
+    "source_chart_manifest": "paper_74_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0001",
+        "image_path": "images/609e0fdbfbd38e15850587b7b7a060d825f0bba79fb8f000c2dd69117bea91be.jpg",
+        "caption": "Fig. 5. Dependence of Ep, on (Mo + W) at% for Fe 29Cr ferritic stainless steels in 4 M MgCl2 $t _ { \\mathfrak { p } _ { i \\parallel } }$ solution at 80 C.",
+        "relevant_panels": [],
+        "target_series": [
+            "Fe-29Cr-xMo-yW E_pit"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential E_pit is directly plotted against combined molybdenum-plus-tungsten content.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Content of (Mo+W)",
+            "unit": "at.%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_pit",
+            "unit": "mV_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

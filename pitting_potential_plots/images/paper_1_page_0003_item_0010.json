@@ -1,0 +1,27 @@
+{
+    "paper_reference": "1",
+    "source_chart_manifest": "paper_1_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0010",
+        "image_path": "images/9eb85b15fcfcaf9b8f1c06e805eb2ee2398023857f3450bf77874a4ef42749c7.jpg",
+        "caption": "Fig. 5. Critical pitting potentials for 15% $\\mathsf { c r } { \\mathsf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { r } } } } } } { \\mathsf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\theta } } } } } } } }$ alloys with increasing Ni content, in 0.1N NaCl, 25\u00b0C.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against nickel content.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "critical pitting potential Vc"
+        ],
+        "x_axis": {
+            "label": "Wt. % Nickel",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Vc",
+            "unit": "Volts, H2 Scale",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

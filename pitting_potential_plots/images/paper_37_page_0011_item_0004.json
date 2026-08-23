@@ -1,0 +1,28 @@
+{
+    "paper_reference": "37",
+    "source_chart_manifest": "paper_37_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0011_item_0004",
+        "image_path": "images/30aa0d0788f64cfa9209cc5caa95db0cac5627146633219632d600fc11c75833.jpg",
+        "caption": "Fig[2[Pitting potential measurements at various temperatures showing the _nal breakdown potential $E _ { \\mathrm { { b } } }$ \"open points# and the potential $E _ { \\mathrm { i n i t } }$ at which the _rst repassivating pits were observed \"solid points#[",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Final breakdown potential and pit-initiation potential are directly plotted against nitrogen content for alloy L at 90 \u00b0C.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "final breakdown potential, Eb (open symbols)",
+            "pit-initiation potential, Einit (solid symbols)"
+        ],
+        "x_axis": {
+            "label": "Nitrogen content",
+            "unit": "wt%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

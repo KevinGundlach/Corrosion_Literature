@@ -1,0 +1,28 @@
+{
+    "paper_reference": "52",
+    "source_chart_manifest": "paper_52_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0011_item_0007",
+        "image_path": "images/baeb90e17a3ea2706e057930166e5f7d554dcece6b2f28f14863ffa5bcaa3115.jpg",
+        "caption": "FIGURE 17. Summar<sub>y</sub> of $E _ { b }$ of <sub>p</sub>arent metal and welded <sub>p</sub>olished specimens as a function of variable PREN (PREN =%Cr + 2.5% Mo).",
+        "relevant_panels": [],
+        "target_series": [
+            "Base metal specimens E_b",
+            "Welded specimens E_b"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Breakdown potential E_b is directly plotted against PREN for base-metal and welded specimens.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "PREN (%Cr + 2.5% Mo)",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_b",
+            "unit": "V_SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

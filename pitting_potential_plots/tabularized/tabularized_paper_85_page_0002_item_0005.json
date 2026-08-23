@@ -1,0 +1,130 @@
+{
+  "schema_version": 2,
+  "paper_reference": "85",
+  "source_chart_manifest": "paper_85_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0002_item_0005",
+    "image_path": "images/1f848c54c4bb9412d1ba6758704f63b42ef2356240ba5889d12a0769feb8955a.jpg",
+    "caption": "Fig. 1. The effect of nitrogen additions on the pitting potentials in 3% NaCl at $3 0 \\textdegree C$ of duplex steels containing approximately 0.04 and 0.07% carbon Abb. 1. Einflu\u00df von Stickstoff-Zus\u00e4tzen auf die Lochkorrosionspotentiale in 3%iger NaCl-L\u00f6sung von $3 0 \\%$ f\u00fcr austenitisch-ferritische St\u00e4hle mit etwa 0,04 und 0,07% Kohlenstoff",
+    "relevant_panels": [],
+    "target_series": [
+      "Pitting potential at 0.04% carbon",
+      "Pitting potential at 0.07% carbon"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against nitrogen content for two carbon levels.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "% Nitrogen",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "mV (S.H.E.)",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Pitting_potential_at_0_04_percent_carbon",
+      "tags": [
+        {
+          "name": "carbon_content",
+          "value": "0.04% C"
+        },
+        {
+          "name": "material",
+          "value": "duplex stainless steel"
+        },
+        {
+          "name": "environment",
+          "value": "3% NaCl, 30 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "% Nitrogen",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "mV (S.H.E.)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.060,
+          "y": 600.0
+        },
+        {
+          "x": 0.100,
+          "y": 850.0
+        },
+        {
+          "x": 0.160,
+          "y": 1145.0
+        }
+      ]
+    },
+    {
+      "series_id": "Pitting_potential_at_0_07_percent_carbon",
+      "tags": [
+        {
+          "name": "carbon_content",
+          "value": "0.07% C"
+        },
+        {
+          "name": "material",
+          "value": "duplex stainless steel"
+        },
+        {
+          "name": "environment",
+          "value": "3% NaCl, 30 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "% Nitrogen",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "mV (S.H.E.)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.060,
+          "y": 400.0
+        },
+        {
+          "x": 0.120,
+          "y": 800.0
+        },
+        {
+          "x": 0.160,
+          "y": 1145.0
+        }
+      ]
+    }
+  ]
+}

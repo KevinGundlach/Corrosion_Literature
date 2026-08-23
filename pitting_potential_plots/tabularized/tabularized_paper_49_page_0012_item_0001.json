@@ -1,0 +1,428 @@
+{
+  "schema_version": 2,
+  "paper_reference": "49",
+  "source_chart_manifest": "paper_49_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0012_item_0001",
+    "image_path": "images/fa8cb789afaca01441218f38838da6bd7c3c2b9b5b8e57f19b96de18ae57bf20.jpg",
+    "caption": "Fig. 5. Plots of pitting potential $E _ { \\mathrm { p i t } }$ vs log $[C 1 ^ { - }]$ for different steels in chloride containing aqueous solutions.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against log chloride concentration for multiple steel series.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "Epit for each steel series"
+    ],
+    "x_axis": {
+      "label": "Log Cl",
+      "unit": "ppm",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Epit",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "304L_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "304L"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 290.0
+        },
+        {
+          "x": 3.0,
+          "y": 262.0
+        },
+        {
+          "x": 3.5,
+          "y": 215.0
+        },
+        {
+          "x": 4.0,
+          "y": 148.0
+        }
+      ]
+    },
+    {
+      "series_id": "316L_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "316L"
+        },
+        {
+          "name": "marker_style",
+          "value": "plus"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 348.0
+        },
+        {
+          "x": 3.0,
+          "y": 335.0
+        },
+        {
+          "x": 3.5,
+          "y": 285.0
+        },
+        {
+          "x": 4.0,
+          "y": 238.0
+        }
+      ]
+    },
+    {
+      "series_id": "317L_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "317L"
+        },
+        {
+          "name": "marker_style",
+          "value": "asterisk"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 725.0
+        },
+        {
+          "x": 3.0,
+          "y": 650.0
+        },
+        {
+          "x": 3.5,
+          "y": 560.0
+        },
+        {
+          "x": 4.0,
+          "y": 280.0
+        }
+      ]
+    },
+    {
+      "series_id": "904L_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "904L"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 880.0
+        },
+        {
+          "x": 3.0,
+          "y": 880.0
+        },
+        {
+          "x": 3.5,
+          "y": 782.0
+        },
+        {
+          "x": 4.0,
+          "y": 590.0
+        }
+      ]
+    },
+    {
+      "series_id": "254_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "254"
+        },
+        {
+          "name": "marker_style",
+          "value": "cross"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 845.0
+        },
+        {
+          "x": 3.0,
+          "y": 830.0
+        },
+        {
+          "x": 3.5,
+          "y": 822.0
+        },
+        {
+          "x": 4.0,
+          "y": 790.0
+        }
+      ]
+    },
+    {
+      "series_id": "1925_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "1925"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled diamond"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 920.0
+        },
+        {
+          "x": 3.0,
+          "y": 890.0
+        },
+        {
+          "x": 3.5,
+          "y": 738.0
+        },
+        {
+          "x": 4.0,
+          "y": 535.0
+        }
+      ]
+    },
+    {
+      "series_id": "3127_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "3127"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 992.0
+        },
+        {
+          "x": 3.0,
+          "y": 978.0
+        },
+        {
+          "x": 3.5,
+          "y": 975.0
+        },
+        {
+          "x": 4.0,
+          "y": 928.0
+        }
+      ]
+    },
+    {
+      "series_id": "4565_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "4565"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 2.5,
+          "y": 940.0
+        },
+        {
+          "x": 3.0,
+          "y": 915.0
+        },
+        {
+          "x": 3.5,
+          "y": 905.0
+        },
+        {
+          "x": 4.0,
+          "y": 880.0
+        }
+      ]
+    },
+    {
+      "series_id": "2205_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "2205"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Log Cl",
+        "type": "numeric",
+        "unit": "ppm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 3.0,
+          "y": 850.0
+        },
+        {
+          "x": 4.0,
+          "y": 860.0
+        }
+      ]
+    }
+  ]
+}

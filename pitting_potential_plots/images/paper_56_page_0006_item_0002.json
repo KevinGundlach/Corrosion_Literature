@@ -1,0 +1,27 @@
+{
+    "paper_reference": "56",
+    "source_chart_manifest": "paper_56_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0002",
+        "image_path": "images/1cc12dad4925369978761012411698921b6202bea64c9905c4894f7f9405828c.jpg",
+        "caption": "Fig. 4. (a) Cumulative probability plot of $E _ { \\mathrm { c o r r } }, E _ { \\mathrm { p i t } },$ and $E _ { \\mathrm { r p } }$ for high purity polycrystalline Al mb electrode (surface area of $1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 })$ in deaerated 0.6 M NaCl. (b) Cumulative probability plot of $E _ { \\mathrm { c o r r } }, E _ { \\mathrm { p i t } },$ and $E _ { \\mathrm { r p } }$ for $\\mathrm { A l } _ { 9 0 } \\mathrm { F e } _ { 5 } \\mathrm { G d } _ { 5 }$ mb electrode (surface area of $1 0 ^ { - 4 } \\mathrm { c m } ^ { 2 })$ in deaerated 0.6 M NaCl.",
+        "relevant_panels": [],
+        "target_series": [
+            "Amorphous Al-Fe-Gd E(pit)"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The cumulative probability chart directly plots amorphous Al-Fe-Gd E(pit) values on the potential axis.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Percent",
+            "unit": "%",
+            "scale": "unknown"
+        }
+    },
+    "plot_data": []
+}

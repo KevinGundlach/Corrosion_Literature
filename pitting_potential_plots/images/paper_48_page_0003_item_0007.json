@@ -1,0 +1,28 @@
+{
+    "paper_reference": "48",
+    "source_chart_manifest": "paper_48_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0007",
+        "image_path": "images/e02126317b7676822a5695ed00b4173cc375ee7f0ee722eb73fe6ba0c2d239dd.jpg",
+        "caption": "FIGURE 2. $E _ { p }$ vsthe Cr+ 3xMo indexforferriticand austenitic SS in deaerated 3.5% NaCl solutions at ${ } ^ { 8 0 ^ { \\circ } C. }$",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Ep is directly plotted against the Cr + 3xMo index for separable ferritic and austenitic stainless-steel series.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "ferritic stainless-steel Ep",
+            "austenitic stainless-steel Ep"
+        ],
+        "x_axis": {
+            "label": "Cr + 3xMo",
+            "unit": "mass%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_p",
+            "unit": "V_Ag-AgCl",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

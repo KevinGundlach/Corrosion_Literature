@@ -1,0 +1,27 @@
+{
+    "paper_reference": "12",
+    "source_chart_manifest": "paper_12_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0001",
+        "image_path": "images/3a09e5edbb64a92ee571b1c8993c9bd814358c8868bf598c17e85024f0a96b50.jpg",
+        "caption": "Figure 3\u2014Effect of alloying elements on the breakdown potential (E) of 18Cr-14Ni steel in 0.1N NaCl. Temperature, 25 C",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Breakdown potential is directly plotted against supplementary alloying-element content with separable element series.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "breakdown potential for each supplementary alloying-element series"
+        ],
+        "x_axis": {
+            "label": "Supplementary Alloying Element",
+            "unit": "% wt",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Breakdown Potential",
+            "unit": "Volts",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

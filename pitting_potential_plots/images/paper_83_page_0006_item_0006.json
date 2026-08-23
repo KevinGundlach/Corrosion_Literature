@@ -1,0 +1,27 @@
+{
+    "paper_reference": "83",
+    "source_chart_manifest": "paper_83_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0006",
+        "image_path": "images/4cae0a944c78b228baba26dde712a373bebdd6ef8a5ad3acc4473ef2d75ba38e.jpg",
+        "caption": "FIGURE 10 Potentiostatic CPT of 904L under different applied potential",
+        "relevant_panels": [],
+        "target_series": [
+            "904L potentiodynamic pitting-potential branch"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The potentiodynamic Z-curve boundary directly plots the 904L pitting-potential branch against temperature; potentiostatic CPT markers are ancillary.",
+        "confidence": 0.9,
+        "x_axis": {
+            "label": "Temperature",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "V",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

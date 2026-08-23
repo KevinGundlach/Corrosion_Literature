@@ -1,0 +1,27 @@
+{
+    "paper_reference": "17",
+    "source_chart_manifest": "paper_17_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0004",
+        "image_path": "images/121502afe6316c290bf95f6d1b8420845a4c3abd5d70667095c56b23487a31da.jpg",
+        "caption": "1 Summary of HEA corrosion potential $(E _ { \\mathsf { c o r r } }$ in $\\mathfrak { m v } _ { \\mathtt { s c E } })$ and pitting potential $(E _ { \\mathsf { p i t } }$ in $\\mathfrak { m v } _ { \\mathtt { s c E } })$ in quiescent 0?6 M NaCl at 258C; CoCrFeNi (SPS*) was held at 10008C for 5 min, while CoCrFeNi (SPS^) was firstly held at 5008C for 5 min and then sintered at 10008C for another 5 min; $E _ { \\mathsf { c o r r } }$ and $\\pmb { E } _ { \\mathsf { p i t } }$ data of steels and aluminium alloys are obtained from previous studies<sup>24,38\u201339</sup>",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Open-circle pitting potentials are directly plotted by alloy/material category and are separable from corrosion potentials.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Epit"
+        ],
+        "x_axis": {
+            "label": "Alloy/material category",
+            "unit": "",
+            "scale": "categorical"
+        },
+        "y_axis": {
+            "label": "E",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

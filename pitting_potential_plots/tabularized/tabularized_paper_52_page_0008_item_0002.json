@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "paper_reference": "52",
+  "source_chart_manifest": "paper_52_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0002",
+    "image_path": "images/1703be86ebe1e6f3665217af8d9f8c8a91cbf7478e00ee6f828f119c9f945f29.jpg",
+    "caption": "FIGURE 8. Effect of increasin<sub>g</sub> inclusion content on $E _ { b }$ in 3% NaCl at 300\u00b0 C (deaerated).",
+    "relevant_panels": [],
+    "target_series": [
+      "E_b"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Breakdown potential E_b is directly plotted against inclusion density with discrete markers and error bars.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "No. of Inclusions",
+      "unit": "/mm\u00b2",
+      "scale": "log"
+    },
+    "y_axis": {
+      "label": "E_b",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "E_b",
+      "tags": [
+        {
+          "name": "environment",
+          "value": "3% NaCl (deaerated)"
+        },
+        {
+          "name": "temperature",
+          "value": "30 °C"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "No. of Inclusions",
+        "type": "numeric",
+        "unit": "/mm\u00b2",
+        "scale": "log",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_b",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 20.5,
+          "y": 0.498,
+          "y_lower": 0.420,
+          "y_upper": 0.580,
+          "y_interval_meaning": "error bar (n=5)",
+          "label": "Al = 1,350 ppm"
+        },
+        {
+          "x": 64.0,
+          "y": 0.450,
+          "y_lower": 0.415,
+          "y_upper": 0.485,
+          "y_interval_meaning": "error bar (n=3)",
+          "label": "Al = 56 ppm"
+        },
+        {
+          "x": 172.0,
+          "y": 0.406,
+          "y_lower": 0.340,
+          "y_upper": 0.472,
+          "y_interval_meaning": "error bar (n=5)",
+          "label": "Al = 0 ppm"
+        },
+        {
+          "x": 480.0,
+          "y": 0.358,
+          "y_lower": 0.305,
+          "y_upper": 0.410,
+          "y_interval_meaning": "error bar (n=5)",
+          "label": "Al = 0 ppm"
+        }
+      ]
+    }
+  ]
+}

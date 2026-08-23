@@ -1,0 +1,28 @@
+{
+    "paper_reference": "9",
+    "source_chart_manifest": "paper_9_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0007_item_0003",
+        "image_path": "images/53c73826ffd147fb31b8f3b879d48fa1e373bc46ca22e2b0d516870c844c1973.jpg",
+        "caption": "Fig. 8. The variation of E for 316 wire in solutions containing both Cl~ and $E _ { \\mathsf { p } }$ $\\mathsf { S O } _ { 4 } ^ { 2 - }$ and $\\mathbf { B } \\mathbf { r } ^ { - }$ and $\\mathsf { S O } _ { 4 } ^ { 2 - }$ anions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against halide concentration in sulfate-containing solutions.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "NaCl + Na2SO4 pitting potential",
+            "NaBr + Na2SO4 pitting potential"
+        ],
+        "x_axis": {
+            "label": "[Halide] (balance Na2SO4 to 1 M)",
+            "unit": "M",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

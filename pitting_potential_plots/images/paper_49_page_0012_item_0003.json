@@ -1,0 +1,27 @@
+{
+    "paper_reference": "49",
+    "source_chart_manifest": "paper_49_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0012_item_0003",
+        "image_path": "images/169523ce5b17b6dbb7e914187d059db900ff7a1df4560f0cad7af063ccfa51e6.jpg",
+        "caption": "Fig. 6. Plots of PREN of different steels vs pitting potential in seawater.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential in seawater is directly plotted against PREN for multiple steels.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "Epit in seawater"
+        ],
+        "x_axis": {
+            "label": "PREN",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Epit",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

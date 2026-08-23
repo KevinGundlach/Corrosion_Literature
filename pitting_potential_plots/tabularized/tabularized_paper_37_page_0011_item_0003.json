@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "paper_reference": "37",
+  "source_chart_manifest": "paper_37_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0011_item_0003",
+    "image_path": "images/33aeeffc132a919b2edbf26b27b08f211c8f3ed9c216cddad30745bca249d25a.jpg",
+    "caption": "",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Final breakdown potential and pit-initiation potential are directly plotted against nitrogen content for alloy L at 75 \u00b0C.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "final breakdown potential, Eb (open symbols)",
+      "pit-initiation potential, Einit (solid symbols)"
+    ],
+    "x_axis": {
+      "label": "Nitrogen content",
+      "unit": "wt%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "mV SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "final_breakdown_potential_Eb",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "L"
+        },
+        {
+          "name": "temperature",
+          "value": "75 °C"
+        },
+        {
+          "name": "potential_type",
+          "value": "final breakdown potential Eb"
+        },
+        {
+          "name": "marker_style",
+          "value": "open diamond"
+        }
+      ],
+      "x_axis": {
+        "label": "Nitrogen content",
+        "type": "numeric",
+        "unit": "wt%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.015,
+          "y": 432.0
+        },
+        {
+          "x": 0.015,
+          "y": 465.0
+        },
+        {
+          "x": 0.015,
+          "y": 480.0
+        },
+        {
+          "x": 0.060,
+          "y": 428.0
+        },
+        {
+          "x": 0.060,
+          "y": 445.0
+        },
+        {
+          "x": 0.060,
+          "y": 472.0
+        },
+        {
+          "x": 0.060,
+          "y": 510.0
+        },
+        {
+          "x": 0.128,
+          "y": 488.0
+        },
+        {
+          "x": 0.128,
+          "y": 542.0
+        },
+        {
+          "x": 0.128,
+          "y": 588.0
+        },
+        {
+          "x": 0.128,
+          "y": 610.0
+        },
+        {
+          "x": 0.128,
+          "y": 705.0
+        },
+        {
+          "x": 0.208,
+          "y": 625.0
+        },
+        {
+          "x": 0.208,
+          "y": 648.0
+        },
+        {
+          "x": 0.208,
+          "y": 665.0
+        },
+        {
+          "x": 0.208,
+          "y": 835.0
+        },
+        {
+          "x": 0.208,
+          "y": 980.0
+        }
+      ]
+    },
+    {
+      "series_id": "pit_initiation_potential_Einit",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "L"
+        },
+        {
+          "name": "temperature",
+          "value": "75 °C"
+        },
+        {
+          "name": "potential_type",
+          "value": "pit-initiation potential Einit"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled diamond"
+        }
+      ],
+      "x_axis": {
+        "label": "Nitrogen content",
+        "type": "numeric",
+        "unit": "wt%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.015,
+          "y": 350.0
+        },
+        {
+          "x": 0.015,
+          "y": 368.0
+        },
+        {
+          "x": 0.015,
+          "y": 380.0
+        },
+        {
+          "x": 0.060,
+          "y": 360.0
+        },
+        {
+          "x": 0.060,
+          "y": 382.0
+        },
+        {
+          "x": 0.060,
+          "y": 402.0
+        },
+        {
+          "x": 0.128,
+          "y": 352.0
+        },
+        {
+          "x": 0.128,
+          "y": 375.0
+        },
+        {
+          "x": 0.128,
+          "y": 410.0
+        },
+        {
+          "x": 0.208,
+          "y": 410.0
+        },
+        {
+          "x": 0.208,
+          "y": 428.0
+        },
+        {
+          "x": 0.208,
+          "y": 448.0
+        },
+        {
+          "x": 0.208,
+          "y": 488.0
+        }
+      ]
+    }
+  ]
+}

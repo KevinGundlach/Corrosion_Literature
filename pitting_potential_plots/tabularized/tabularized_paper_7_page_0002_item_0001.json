@@ -1,0 +1,84 @@
+{
+  "schema_version": 2,
+  "paper_reference": "7",
+  "source_chart_manifest": "paper_7_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0002_item_0001",
+    "image_path": "images/99ec75e247fdc5360d77639f2ec646a5ab99f127442ca5d13a69cbf22bfbf7e1.jpg",
+    "caption": "Metal analysis Fig. 1. Critical pitting potentials of 99.99% Al in 0.1M NaCl as a function of temperature.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Critical pitting potential is directly plotted against temperature.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "critical pitting potential Vc"
+    ],
+    "x_axis": {
+      "label": "Temperature",
+      "unit": "°C",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Vc",
+      "unit": "Volts, S.H.E.",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "critical_pitting_potential_Vc",
+      "tags": [
+        {
+          "name": "material",
+          "value": "99.99% Al"
+        },
+        {
+          "name": "test_solution",
+          "value": "0.1M NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "°C",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Vc",
+        "type": "numeric",
+        "unit": "Volts, S.H.E.",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -0.402
+        },
+        {
+          "x": 15.0,
+          "y": -0.400
+        },
+        {
+          "x": 25.0,
+          "y": -0.405
+        },
+        {
+          "x": 32.0,
+          "y": -0.409
+        },
+        {
+          "x": 40.0,
+          "y": -0.420
+        }
+      ]
+    }
+  ]
+}

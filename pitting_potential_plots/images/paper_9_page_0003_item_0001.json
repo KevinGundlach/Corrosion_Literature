@@ -1,0 +1,30 @@
+{
+    "paper_reference": "9",
+    "source_chart_manifest": "paper_9_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0001",
+        "image_path": "images/a70f65ed2cfa9431241188ecedd80ab7447a4677f0c6eb3c22add558c9787382.jpg",
+        "caption": "",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Panel (a) directly plots pitting potential against logarithmic halide concentration.",
+        "confidence": 0.98,
+        "relevant_panels": [
+            "panel (a)"
+        ],
+        "target_series": [
+            "NaCl pitting potential",
+            "NaBr pitting potential"
+        ],
+        "x_axis": {
+            "label": "[Halide]",
+            "unit": "",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,27 @@
+{
+    "paper_reference": "3",
+    "source_chart_manifest": "paper_3_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0007",
+        "image_path": "images/b61e63444f799ef96abf8edce022c7f4f673cd022891894419b60fa5bbf95378.jpg",
+        "caption": "FIGURE 1 \u2014 Comparison of the critical pitting potentials of Fe-Cr-Mo alloys with several commercial alloys in deaerated synthetic seawater at 90 C, pH = 7.2 \u00b1 0.2.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Critical pitting potential is directly plotted against chromium-plus-molybdenum content.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Fe-Cr-Mo and commercial-alloy critical pitting potentials"
+        ],
+        "x_axis": {
+            "label": "(Cr + Mo) in Fe (Wt. %)",
+            "unit": "wt. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting Potential, Ec^scr",
+            "unit": "mV vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,162 @@
+{
+  "schema_version": 2,
+  "paper_reference": "3",
+  "source_chart_manifest": "paper_3_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0001",
+    "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+    "caption": "FIGURE 2 — Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 ± 0.2.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Critical pitting-potential measurements are directly plotted for categorical alloy compositions.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "Ec^scan",
+      "Ec^scr",
+      "interpolated Ec^scan of Fe-Cr-Mo base"
+    ],
+    "x_axis": {
+      "label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+      "unit": "wt. %",
+      "scale": "categorical"
+    },
+    "y_axis": {
+      "label": "Pitting Potential",
+      "unit": "mV vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Ec_scan",
+      "tags": [
+        {
+          "name": "metric",
+          "value": "Ec^scan"
+        },
+        {
+          "name": "marker_style",
+          "value": "open square"
+        }
+      ],
+      "x_axis": {
+        "label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+        "type": "categorical",
+        "unit": "wt. %",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "24.3 Cr 1.0 Mo (0.68 Si + 0.72 Ni)", "y": 176.0 },
+        { "x": "23.3 Cr 2.0 Mo (0.68 Si + 0.72 Ni)", "y": 194.0 },
+        { "x": "22.5 Cr 1.0 Mo (1.36 Si + 1.44 Ni)", "y": 138.0 },
+        { "x": "21.5 Cr 2.0 Mo (1.36 Si + 1.44 Ni)", "y": 262.0 },
+        { "x": "21.5 Cr 3.0 Mo (1.36 Si + 1.44 Ni)", "y": 306.0 },
+        { "x": "20.7 Cr 1.0 Mo (2.06 Si + 2.16 Ni)", "y": 198.0 },
+        { "x": "19.7 Cr 2.0 Mo (2.06 Si + 2.16 Ni)", "y": 228.0 },
+        { "x": "19.7 Cr 3.0 Mo (2.06 Si + 2.16 Ni)", "y": 232.0 },
+        { "x": "22.5 Cr 0.7 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 188.0 },
+        { "x": "21.5 Cr 1.7 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 196.0 },
+        { "x": "21.5 Cr 2.6 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 228.0 },
+        { "x": "19.7 Cr 2.6 Mo (2.05 Si + 2.14 Ni + 0.34 Nb + 0.09 Mn)", "y": 246.0 },
+        { "x": "19.7 Cr 3.5 Mo (2.05 Si + 2.14 Ni + 0.34 Nb + 0.09 Mn)", "y": 345.0 },
+        { "x": "19.7 Cr 4.7 Mo (2.05 Si + 2.14 Ni + 0.51 Nb + 0.13 Mn)", "y": 312.0 }
+      ]
+    },
+    {
+      "series_id": "Ec_scr",
+      "tags": [
+        {
+          "name": "metric",
+          "value": "Ec^scr"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+        "type": "categorical",
+        "unit": "wt. %",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "24.3 Cr 1.0 Mo (0.68 Si + 0.72 Ni)", "y": 146.0 },
+        { "x": "23.3 Cr 2.0 Mo (0.68 Si + 0.72 Ni)", "y": 174.0 },
+        { "x": "22.5 Cr 1.0 Mo (1.36 Si + 1.44 Ni)", "y": 108.0 },
+        { "x": "21.5 Cr 2.0 Mo (1.36 Si + 1.44 Ni)", "y": 234.0 },
+        { "x": "21.5 Cr 3.0 Mo (1.36 Si + 1.44 Ni)", "y": 274.0 },
+        { "x": "20.7 Cr 1.0 Mo (2.06 Si + 2.16 Ni)", "y": 188.0 },
+        { "x": "19.7 Cr 2.0 Mo (2.06 Si + 2.16 Ni)", "y": 217.0 },
+        { "x": "19.7 Cr 3.0 Mo (2.06 Si + 2.16 Ni)", "y": 224.0 },
+        { "x": "22.5 Cr 0.7 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 182.0 },
+        { "x": "21.5 Cr 1.7 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 196.0 },
+        { "x": "21.5 Cr 2.6 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 180.0 },
+        { "x": "19.7 Cr 2.6 Mo (2.05 Si + 2.14 Ni + 0.34 Nb + 0.09 Mn)", "y": 240.0 },
+        { "x": "19.7 Cr 3.5 Mo (2.05 Si + 2.14 Ni + 0.34 Nb + 0.09 Mn)", "y": 270.0 },
+        { "x": "19.7 Cr 4.7 Mo (2.05 Si + 2.14 Ni + 0.51 Nb + 0.13 Mn)", "y": 300.0 }
+      ]
+    },
+    {
+      "series_id": "interpolated_Ec_scan_of_Fe_Cr_Mo_base",
+      "tags": [
+        {
+          "name": "metric",
+          "value": "Ec^scan of Fe-Cr-Mo Base (Interpolated)"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+        "type": "categorical",
+        "unit": "wt. %",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting Potential",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        { "x": "24.3 Cr 1.0 Mo (0.68 Si + 0.72 Ni)", "y": 120.0 },
+        { "x": "23.3 Cr 2.0 Mo (0.68 Si + 0.72 Ni)", "y": 172.0 },
+        { "x": "22.5 Cr 1.0 Mo (1.36 Si + 1.44 Ni)", "y": 88.0 },
+        { "x": "21.5 Cr 2.0 Mo (1.36 Si + 1.44 Ni)", "y": 142.0 },
+        { "x": "21.5 Cr 3.0 Mo (1.36 Si + 1.44 Ni)", "y": 202.0 },
+        { "x": "20.7 Cr 1.0 Mo (2.06 Si + 2.16 Ni)", "y": 70.0 },
+        { "x": "19.7 Cr 2.0 Mo (2.06 Si + 2.16 Ni)", "y": 121.0 },
+        { "x": "19.7 Cr 3.0 Mo (2.06 Si + 2.16 Ni)", "y": 182.0 },
+        { "x": "22.5 Cr 0.7 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 70.0 },
+        { "x": "21.5 Cr 1.7 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 132.0 },
+        { "x": "21.5 Cr 2.6 Mo (1.36 Si + 1.44 Ni + 0.34 Nb + 0.09 Mn)", "y": 183.0 },
+        { "x": "19.7 Cr 2.6 Mo (2.05 Si + 2.14 Ni + 0.34 Nb + 0.09 Mn)", "y": 164.0 },
+        { "x": "19.7 Cr 3.5 Mo (2.05 Si + 2.14 Ni + 0.34 Nb + 0.09 Mn)", "y": 214.0 },
+        { "x": "19.7 Cr 4.7 Mo (2.05 Si + 2.14 Ni + 0.51 Nb + 0.13 Mn)", "y": 282.0 }
+      ]
+    }
+  ]
+}

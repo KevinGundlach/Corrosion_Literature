@@ -1,0 +1,230 @@
+{
+  "schema_version": 2,
+  "paper_reference": "23",
+  "source_chart_manifest": "paper_23_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0005",
+    "image_path": "images/5ff9e90e41c4b929f77f2f7e0e3822b11b24e513f2c3ff45bdf43730e6a0a781.jpg",
+    "caption": "Fig. 10. Histogram of $E _ { \\mathrm { p i t } }$ for alloys C-x and SS 304 in solution of different Cl<sup>\u0004</sup> ion molarity (M).",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting-potential bars are directly plotted by alloy for four chloride molarities.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "0 M Cl\u2212 Epit",
+      "0.25 M Cl\u2212 Epit",
+      "0.50 M Cl\u2212 Epit",
+      "1.00 M Cl\u2212 Epit"
+    ],
+    "x_axis": {
+      "label": "Alloy",
+      "unit": "",
+      "scale": "categorical"
+    },
+    "y_axis": {
+      "label": "Epit",
+      "unit": "V vs. SHE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "0_M_Cl_Epit",
+      "tags": [
+        {
+          "name": "chloride_concentration",
+          "value": "0 M"
+        },
+        {
+          "name": "bar_pattern",
+          "value": "dark hatched"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "V vs. SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "C-0",
+          "y": 1.110
+        },
+        {
+          "x": "C-0.25",
+          "y": 1.095
+        },
+        {
+          "x": "C-0.50",
+          "y": 1.120
+        },
+        {
+          "x": "C-1.00",
+          "y": 1.120
+        },
+        {
+          "x": "304SS",
+          "y": 1.120
+        }
+      ]
+    },
+    {
+      "series_id": "0_25_M_Cl_Epit",
+      "tags": [
+        {
+          "name": "chloride_concentration",
+          "value": "0.25 M"
+        },
+        {
+          "name": "bar_pattern",
+          "value": "grey"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "V vs. SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "C-0",
+          "y": 1.118
+        },
+        {
+          "x": "C-0.25",
+          "y": 1.125
+        },
+        {
+          "x": "C-0.50",
+          "y": 0.570
+        },
+        {
+          "x": "C-1.00",
+          "y": 0.410
+        },
+        {
+          "x": "304SS",
+          "y": 1.170
+        }
+      ]
+    },
+    {
+      "series_id": "0_50_M_Cl_Epit",
+      "tags": [
+        {
+          "name": "chloride_concentration",
+          "value": "0.50 M"
+        },
+        {
+          "name": "bar_pattern",
+          "value": "fine hatched"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "V vs. SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "C-0",
+          "y": 1.110
+        },
+        {
+          "x": "C-0.25",
+          "y": 0.440
+        },
+        {
+          "x": "C-0.50",
+          "y": 0.465
+        },
+        {
+          "x": "C-1.00",
+          "y": 0.335
+        },
+        {
+          "x": "304SS",
+          "y": 0.550
+        }
+      ]
+    },
+    {
+      "series_id": "1_00_M_Cl_Epit",
+      "tags": [
+        {
+          "name": "chloride_concentration",
+          "value": "1.00 M"
+        },
+        {
+          "name": "bar_pattern",
+          "value": "magenta"
+        }
+      ],
+      "x_axis": {
+        "label": "Alloy",
+        "type": "categorical",
+        "unit": "",
+        "scale": "categorical",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Epit",
+        "type": "numeric",
+        "unit": "V vs. SHE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": "C-0",
+          "y": 1.135
+        },
+        {
+          "x": "C-0.25",
+          "y": 0.245
+        },
+        {
+          "x": "C-0.50",
+          "y": 0.320
+        },
+        {
+          "x": "C-1.00",
+          "y": 0.245
+        },
+        {
+          "x": "304SS",
+          "y": 0.260
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "paper_reference": "16",
+    "source_chart_manifest": "paper_16_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0005_item_0001",
+        "image_path": "images/94082058f032828a88d02004f796778935fba5d5f7f48a955e9637a7eba8d90b.jpg",
+        "caption": "Fig.4 Effect of N content on pitting potential of simulated HAZ specimen in synthetic seawater at 353K",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against nitrogen content for simulated heat-affected-zone specimens.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "simulated HAZ specimen pitting potential"
+        ],
+        "x_axis": {
+            "label": "N",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

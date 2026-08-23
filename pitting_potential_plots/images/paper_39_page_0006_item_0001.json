@@ -1,0 +1,27 @@
+{
+    "paper_reference": "39",
+    "source_chart_manifest": "paper_39_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0001",
+        "image_path": "images/9c6d18e9a0a169a03695974103256ad8a454bde3b47373e057c03c9444546c1d.jpg",
+        "caption": "FiG. 5. Effect of the chloride concentration on the pitting potential of pure aluminium and various Al-Cu alloys in deaerated NaCl solutions.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Ep is directly plotted against NaCl activity for five alloy or material series.",
+        "confidence": 0.99,
+        "relevant_panels": [],
+        "target_series": [
+            "Ep for each alloy or material series"
+        ],
+        "x_axis": {
+            "label": "M NaCl activity",
+            "unit": "",
+            "scale": "log"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "V_nhe",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

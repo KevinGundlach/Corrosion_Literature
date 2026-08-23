@@ -1,0 +1,146 @@
+{
+  "schema_version": 2,
+  "paper_reference": "80",
+  "source_chart_manifest": "paper_80_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0001",
+    "image_path": "images/962b642f171e961d5b8fc108b3b6fcdd62b2ce14cce8c212fa9a0b5657495436.jpg",
+    "caption": "Fig. 1. Pitting potentials for freshly deposited samples, $E _ { \\mathrm { p } },$ and aged samples $E _ { \\mathbf { p } } ^ { \\mathbf { a } }$ along with repassivation potentials, $\\mathbf { { { E } } _ { R } },$ for pure Al and AlNb alloys.",
+    "relevant_panels": [],
+    "target_series": [
+      "Fresh E_p",
+      "Aged E_p^a"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Fresh and aged pitting potentials are directly plotted against niobium concentration; repassivation potential is separable ancillary data.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Nb Concentration",
+      "unit": "at. %",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "mV SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Fresh_E_p",
+      "tags": [
+        {
+          "name": "sample_state",
+          "value": "freshly deposited"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Nb Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -695.0
+        },
+        {
+          "x": 4.5,
+          "y": -185.0
+        },
+        {
+          "x": 15.5,
+          "y": 310.0
+        },
+        {
+          "x": 21.0,
+          "y": 435.0
+        },
+        {
+          "x": 26.5,
+          "y": 630.0
+        },
+        {
+          "x": 34.8,
+          "y": 675.0
+        }
+      ]
+    },
+    {
+      "series_id": "Aged_E_p_a",
+      "tags": [
+        {
+          "name": "sample_state",
+          "value": "aged"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Nb Concentration",
+        "type": "numeric",
+        "unit": "at. %",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "mV SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -465.0
+        },
+        {
+          "x": 0.0,
+          "y": -525.0
+        },
+        {
+          "x": 4.5,
+          "y": 105.0
+        },
+        {
+          "x": 15.5,
+          "y": 745.0
+        },
+        {
+          "x": 26.5,
+          "y": 900.0
+        },
+        {
+          "x": 26.5,
+          "y": 1055.0
+        },
+        {
+          "x": 26.5,
+          "y": 1120.0
+        },
+        {
+          "x": 26.5,
+          "y": 1480.0
+        }
+      ]
+    }
+  ]
+}

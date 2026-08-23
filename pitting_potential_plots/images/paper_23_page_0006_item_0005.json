@@ -1,0 +1,30 @@
+{
+    "paper_reference": "23",
+    "source_chart_manifest": "paper_23_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0005",
+        "image_path": "images/5ff9e90e41c4b929f77f2f7e0e3822b11b24e513f2c3ff45bdf43730e6a0a781.jpg",
+        "caption": "Fig. 10. Histogram of $E _ { \\mathrm { p i t } }$ for alloys C-x and SS 304 in solution of different Cl<sup>\u0004</sup> ion molarity (M).",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting-potential bars are directly plotted by alloy for four chloride molarities.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "0 M Cl\u2212 Epit",
+            "0.25 M Cl\u2212 Epit",
+            "0.50 M Cl\u2212 Epit",
+            "1.00 M Cl\u2212 Epit"
+        ],
+        "x_axis": {
+            "label": "Alloy",
+            "unit": "",
+            "scale": "categorical"
+        },
+        "y_axis": {
+            "label": "Epit",
+            "unit": "V vs. SHE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

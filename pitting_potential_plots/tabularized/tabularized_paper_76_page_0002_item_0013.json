@@ -1,0 +1,209 @@
+{
+  "schema_version": 2,
+  "paper_reference": "76",
+  "source_chart_manifest": "paper_76_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0002_item_0013",
+    "image_path": "images/2720371c84cba11103f204dbd2ffc890bae0e2dd3261609516a6c672d517f76a.jpg",
+    "caption": "FIGURE 2 \u2014 Effect of N content on the potentiokinetic potential of pit nucleation.",
+    "relevant_panels": [],
+    "target_series": [
+      "E_np in 0.1 N NaCl",
+      "E_np in 0.05 N NaCl",
+      "E_np in 0.01 N NaCl"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Potentiokinetic pit-nucleation potential E_np is directly plotted against nitrogen content for three chloride concentrations.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "% N",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_np",
+      "unit": "mV_H",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "E_np_in_0_1_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "18Cr - 5Ni - 10Mn"
+        },
+        {
+          "name": "condition",
+          "value": "quenched 1120°C/aq"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 N H2SO4 + 0.1 N NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "% N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.072,
+          "y": 350.0
+        },
+        {
+          "x": 0.122,
+          "y": 495.0
+        },
+        {
+          "x": 0.168,
+          "y": 480.0
+        },
+        {
+          "x": 0.252,
+          "y": 570.0
+        },
+        {
+          "x": 0.350,
+          "y": 680.0
+        }
+      ]
+    },
+    {
+      "series_id": "E_np_in_0_05_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "18Cr - 5Ni - 10Mn"
+        },
+        {
+          "name": "condition",
+          "value": "quenched 1120°C/aq"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 N H2SO4 + 0.05 N NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "% N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.072,
+          "y": 578.0
+        },
+        {
+          "x": 0.122,
+          "y": 648.0
+        },
+        {
+          "x": 0.168,
+          "y": 688.0
+        },
+        {
+          "x": 0.252,
+          "y": 930.0
+        },
+        {
+          "x": 0.350,
+          "y": 918.0
+        }
+      ]
+    },
+    {
+      "series_id": "E_np_in_0_01_N_NaCl",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "18Cr - 5Ni - 10Mn"
+        },
+        {
+          "name": "condition",
+          "value": "quenched 1120°C/aq"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 N H2SO4 + 0.01 N NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "% N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.072,
+          "y": 1150.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 0.122,
+          "y": 1150.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 0.168,
+          "y": 1150.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 0.252,
+          "y": 1150.0,
+          "label": "no pitting"
+        },
+        {
+          "x": 0.350,
+          "y": 1150.0,
+          "label": "no pitting"
+        }
+      ]
+    }
+  ]
+}

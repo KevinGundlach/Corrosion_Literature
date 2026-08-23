@@ -1,0 +1,134 @@
+{
+  "schema_version": 2,
+  "paper_reference": "9",
+  "source_chart_manifest": "paper_9_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0001",
+    "image_path": "images/a70f65ed2cfa9431241188ecedd80ab7447a4677f0c6eb3c22add558c9787382.jpg",
+    "caption": "",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Panel (a) directly plots pitting potential against logarithmic halide concentration.",
+    "confidence": 0.98,
+    "relevant_panels": [
+      "panel (a)"
+    ],
+    "target_series": [
+      "NaCl pitting potential",
+      "NaBr pitting potential"
+    ],
+    "x_axis": {
+      "label": "[Halide]",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Ep",
+      "unit": "mV",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "NaCl_pitting_potential",
+      "panel": "panel (a)",
+      "tags": [
+        {
+          "name": "electrolyte",
+          "value": "NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": -0.96,
+          "y": 332.0
+        },
+        {
+          "x": -0.30,
+          "y": 297.0
+        },
+        {
+          "x": 0.00,
+          "y": 249.0
+        },
+        {
+          "x": 0.18,
+          "y": 235.0
+        },
+        {
+          "x": 0.30,
+          "y": 231.0
+        }
+      ]
+    },
+    {
+      "series_id": "NaBr_pitting_potential",
+      "panel": "panel (a)",
+      "tags": [
+        {
+          "name": "electrolyte",
+          "value": "NaBr"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "[Halide]",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Ep",
+        "type": "numeric",
+        "unit": "mV",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": -0.96,
+          "y": 366.0
+        },
+        {
+          "x": -0.30,
+          "y": 320.0
+        },
+        {
+          "x": 0.00,
+          "y": 320.0
+        },
+        {
+          "x": 0.18,
+          "y": 300.0
+        },
+        {
+          "x": 0.30,
+          "y": 290.0
+        }
+      ]
+    }
+  ]
+}

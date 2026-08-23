@@ -1,0 +1,221 @@
+{
+  "schema_version": 2,
+  "paper_reference": "16",
+  "source_chart_manifest": "paper_16_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0006_item_0006",
+    "image_path": "images/8c26ab875e7aa8b7938b97911ea4f1c7a8b6e2f34fc119315b373591c23490e4.jpg",
+    "caption": "Fig.7 Effect of temperature on pitting potential in synthetic seawater",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against temperature for four duplex stainless steels.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "28Cr pitting potential",
+      "254 pitting potential",
+      "2942 pitting potential",
+      "329J2L pitting potential"
+    ],
+    "x_axis": {
+      "label": "Temperature",
+      "unit": "K",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "28Cr_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "28Cr"
+        },
+        {
+          "name": "environment",
+          "value": "synthetic seawater"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "K",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 333.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 353.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 373.0,
+          "y": 0.825
+        }
+      ]
+    },
+    {
+      "series_id": "254_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "254"
+        },
+        {
+          "name": "environment",
+          "value": "synthetic seawater"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled square"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "K",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 333.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 353.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 373.0,
+          "y": 0.770
+        }
+      ]
+    },
+    {
+      "series_id": "2942_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "2942"
+        },
+        {
+          "name": "environment",
+          "value": "synthetic seawater"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "K",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 333.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 353.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 373.0,
+          "y": 0.490
+        }
+      ]
+    },
+    {
+      "series_id": "329J2L_pitting_potential",
+      "tags": [
+        {
+          "name": "steel_grade",
+          "value": "329J2L"
+        },
+        {
+          "name": "environment",
+          "value": "synthetic seawater"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Temperature",
+        "type": "numeric",
+        "unit": "K",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 333.0,
+          "y": 1.000,
+          "label": ">1.0 V (transpassive limit / no pitting)"
+        },
+        {
+          "x": 353.0,
+          "y": 0.320
+        },
+        {
+          "x": 373.0,
+          "y": 0.220
+        }
+      ]
+    }
+  ]
+}

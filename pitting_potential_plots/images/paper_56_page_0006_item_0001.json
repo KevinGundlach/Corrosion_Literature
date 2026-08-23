@@ -1,0 +1,27 @@
+{
+    "paper_reference": "56",
+    "source_chart_manifest": "paper_56_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0006_item_0001",
+        "image_path": "images/97dd5a5655e58d41e98bd58656003a96ffe84067db07575fb455aa434e199c46.jpg",
+        "caption": "",
+        "relevant_panels": [],
+        "target_series": [
+            "Pure Al E(pit)"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The cumulative probability chart directly plots pure-Al E(pit) values on the potential axis.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Potential",
+            "unit": "V vs SCE",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Percent",
+            "unit": "%",
+            "scale": "unknown"
+        }
+    },
+    "plot_data": []
+}

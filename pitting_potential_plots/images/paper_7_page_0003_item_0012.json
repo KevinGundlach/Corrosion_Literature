@@ -1,0 +1,27 @@
+{
+    "paper_reference": "7",
+    "source_chart_manifest": "paper_7_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0012",
+        "image_path": "images/89d66c77ffce47cdf9ce1160ce00434a012b2e5bcc3bce7a4397275168672172.jpg",
+        "caption": "Fig. 5. Corrosion potentials of 99.99% Al in various activities of NaCI containing 5 ppm $\\mathbb { c } _ { \\pm } + \\mathrm { \\Delta } ^ { + }$ in comparison with critical pitting potentials determined by Kaesche.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The critical pitting-potential comparison series is directly plotted against chloride activity and is separable from the corrosion-potential series.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Kaesche's critical pitting potential results"
+        ],
+        "x_axis": {
+            "label": "Cl\u2212 Activity",
+            "unit": "",
+            "scale": "log"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "Volts, S.H.E.",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

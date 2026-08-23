@@ -1,0 +1,100 @@
+{
+  "schema_version": 2,
+  "paper_reference": "16",
+  "source_chart_manifest": "paper_16_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0001",
+    "image_path": "images/94082058f032828a88d02004f796778935fba5d5f7f48a955e9637a7eba8d90b.jpg",
+    "caption": "Fig.4 Effect of N content on pitting potential of simulated HAZ specimen in synthetic seawater at 353K",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against nitrogen content for simulated heat-affected-zone specimens.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "simulated HAZ specimen pitting potential"
+    ],
+    "x_axis": {
+      "label": "N",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "simulated_HAZ_specimen_pitting_potential",
+      "tags": [
+        {
+          "name": "specimen_condition",
+          "value": "simulated HAZ"
+        },
+        {
+          "name": "environment",
+          "value": "synthetic seawater"
+        },
+        {
+          "name": "temperature",
+          "value": "353 K"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.134,
+          "y": 0.490
+        },
+        {
+          "x": 0.170,
+          "y": 0.438
+        },
+        {
+          "x": 0.220,
+          "y": 0.560
+        },
+        {
+          "x": 0.228,
+          "y": 0.480
+        },
+        {
+          "x": 0.304,
+          "y": 0.728
+        },
+        {
+          "x": 0.316,
+          "y": 0.665
+        },
+        {
+          "x": 0.320,
+          "y": 0.648
+        },
+        {
+          "x": 0.358,
+          "y": 0.628
+        }
+      ]
+    }
+  ]
+}

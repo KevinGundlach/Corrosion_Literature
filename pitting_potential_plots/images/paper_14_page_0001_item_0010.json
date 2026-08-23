@@ -1,0 +1,30 @@
+{
+    "paper_reference": "14",
+    "source_chart_manifest": "paper_14_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0001_item_0010",
+        "image_path": "images/0e0c39cae0de7fd7dc2889859ba24568ac0ffa435f354525b72136b265634e6a.jpg",
+        "caption": "FIGURE 1 \u2014 Effect of Mo content and temperature on the potential required to initiate pitting based on the criterion of a rise in current density to 10 $\\mu _ { \\Delta } / c m ^ { 2 }$ in a series of 18% Cr, 20% Ni, 0.2%N stainless steels.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The potential required to initiate pitting is directly plotted against temperature for four molybdenum-bearing steels.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "pitting-initiation potential for 7580-1",
+            "pitting-initiation potential for 7580-2",
+            "pitting-initiation potential for 7580-3",
+            "pitting-initiation potential for 7580-4"
+        ],
+        "x_axis": {
+            "label": "TEMPERATURE",
+            "unit": "\u00b0C",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "POTENTIAL for CD of 10 \u03bcA/cm\u00b2",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

@@ -1,0 +1,30 @@
+{
+    "paper_reference": "6",
+    "source_chart_manifest": "paper_6_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0003_item_0001",
+        "image_path": "images/24fa8b14a290c50d0ede87959306c0547f9865f2c88baf288546f52dfc16cbb6.jpg",
+        "caption": "Fig. 2. Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NaCl.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Pitting potential is directly plotted against molybdenum content at four temperatures.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "pitting potential at 1\u00b0C",
+            "pitting potential at 25\u00b0C",
+            "pitting potential at 45\u00b0C",
+            "pitting potential at 70\u00b0C"
+        ],
+        "x_axis": {
+            "label": "Molybdenum Content",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting Potential",
+            "unit": "Volt versus SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

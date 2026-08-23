@@ -1,0 +1,28 @@
+{
+    "paper_reference": "80",
+    "source_chart_manifest": "paper_80_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0004_item_0001",
+        "image_path": "images/962b642f171e961d5b8fc108b3b6fcdd62b2ce14cce8c212fa9a0b5657495436.jpg",
+        "caption": "Fig. 1. Pitting potentials for freshly deposited samples, $E _ { \\mathrm { p } },$ and aged samples $E _ { \\mathbf { p } } ^ { \\mathbf { a } }$ along with repassivation potentials, $\\mathbf { { { E } } _ { R } },$ for pure Al and AlNb alloys.",
+        "relevant_panels": [],
+        "target_series": [
+            "Fresh E_p",
+            "Aged E_p^a"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Fresh and aged pitting potentials are directly plotted against niobium concentration; repassivation potential is separable ancillary data.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "Nb Concentration",
+            "unit": "at. %",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Potential",
+            "unit": "mV SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

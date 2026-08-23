@@ -1,0 +1,105 @@
+{
+  "schema_version": 2,
+  "paper_reference": "69",
+  "source_chart_manifest": "paper_69_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0005_item_0006",
+    "image_path": "images/7e35bf84134cbf27a3f7add7df996e8bcc9ebaf015bfd1724d0d62cd899e1903.jpg",
+    "caption": "Fig. 6. The effect of the average Mo content in the alloy on the $\\pmb { \\varepsilon _ { \\mathrm { { b } } } }$ determined from a rapid increase in the current density during potentiodynamic polarization.",
+    "relevant_panels": [],
+    "target_series": [
+      "Breakdown potential E_b"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Breakdown potential E_b is directly plotted against molybdenum concentration with discrete markers.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "Molybdenum Concentration",
+      "unit": "at.%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Breakdown Potential, E_b",
+      "unit": "mV vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Breakdown_potential_E_b",
+      "tags": [
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Molybdenum Concentration",
+        "type": "numeric",
+        "unit": "at.%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Breakdown Potential, E_b",
+        "type": "numeric",
+        "unit": "mV vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -630.0
+        },
+        {
+          "x": 2.7,
+          "y": -480.0
+        },
+        {
+          "x": 3.4,
+          "y": -325.0
+        },
+        {
+          "x": 4.0,
+          "y": -140.0
+        },
+        {
+          "x": 4.2,
+          "y": -248.0
+        },
+        {
+          "x": 5.1,
+          "y": -140.0
+        },
+        {
+          "x": 5.3,
+          "y": -280.0
+        },
+        {
+          "x": 5.6,
+          "y": -262.0
+        },
+        {
+          "x": 6.1,
+          "y": -210.0
+        },
+        {
+          "x": 8.6,
+          "y": -42.0
+        },
+        {
+          "x": 10.3,
+          "y": -128.0
+        },
+        {
+          "x": 13.0,
+          "y": -5.0,
+          "label": "no breakdown / upper limit"
+        }
+      ]
+    }
+  ]
+}

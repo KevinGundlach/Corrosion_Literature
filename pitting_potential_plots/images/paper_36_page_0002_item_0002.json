@@ -1,0 +1,27 @@
+{
+    "paper_reference": "36",
+    "source_chart_manifest": "paper_36_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0002_item_0002",
+        "image_path": "images/20b09837d1c7a5761718df3e08a8dea7d3bbb18f2e083bbeb20fa0f958c4e63d.jpg",
+        "caption": "FIGURE 1 \u2014 Variations of the pitting potential in 7.0 x $1 0 ^ { - 4 } \\ M C 1$ solutions at (a) 24 C for Alloy 600 (\u2022); Alloy 800 $(\\bullet - - \\bullet);$ AISI 304 SS (\u2206, \u25b2, + for repassivating pits, stable pitting and potentiostatically initiated pits respectively); (b) 80 C for Alloy 600 (\u2022 \u2013 \u25cf); Alloy 800 (); AISI 304 SS ().",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Ep is directly plotted against thiosulfate concentration with distinct alloy and temperature series.",
+        "confidence": 0.98,
+        "relevant_panels": [],
+        "target_series": [
+            "Ep for each alloy and temperature series"
+        ],
+        "x_axis": {
+            "label": "[S2O3^2-]",
+            "unit": "M",
+            "scale": "log"
+        },
+        "y_axis": {
+            "label": "Ep",
+            "unit": "mV Ag/AgCl",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

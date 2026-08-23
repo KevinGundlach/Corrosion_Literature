@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "paper_reference": "32",
+  "source_chart_manifest": "paper_32_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0001",
+    "image_path": "images/9b606adc623e2bf8bf897038d264bb7d11b0842edabcdce390c6d966c2ae4153.jpg",
+    "caption": "Figure 5. \u0001Color online- Median pitting and repassivation potentials for $\\mathrm { A l _ { 9 0 } F e _ { 5 } G d _ { \\underline { { { z } } } } }$ and pure Al in deaerated 0.6 M NaCl. Error bars represent the 25th and 75th percentile of the data when expressed as the cumulative probability of obtaining the given pitting potential. Scan rate 0.1 mV/s.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Epit is directly plotted against nanocrystal size; the Erp series is ancillary and separable.",
+    "confidence": 0.99,
+    "relevant_panels": [],
+    "target_series": [
+      "Epit"
+    ],
+    "x_axis": {
+      "label": "Nanocrystal Size",
+      "unit": "nm",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Potential",
+      "unit": "V_SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Epit",
+      "tags": [
+        {
+          "name": "material",
+          "value": "Al90Fe5Gd5"
+        },
+        {
+          "name": "test_solution",
+          "value": "deaerated 0.6 M NaCl"
+        },
+        {
+          "name": "scan_rate",
+          "value": "0.1 mV/s"
+        },
+        {
+          "name": "marker_style",
+          "value": "red circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Nanocrystal Size",
+        "type": "numeric",
+        "unit": "nm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Potential",
+        "type": "numeric",
+        "unit": "V_SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": -0.135,
+          "y_lower": -0.200,
+          "y_upper": -0.030,
+          "y_interval_meaning": "25th to 75th percentile",
+          "label": "Amorphous"
+        },
+        {
+          "x": 6.5,
+          "y": -0.090,
+          "y_lower": -0.180,
+          "y_upper": 0.100,
+          "y_interval_meaning": "25th to 75th percentile"
+        },
+        {
+          "x": 10.7,
+          "y": 0.000,
+          "y_lower": -0.080,
+          "y_upper": 0.150,
+          "y_interval_meaning": "25th to 75th percentile"
+        },
+        {
+          "x": 12.0,
+          "y": 0.125,
+          "y_lower": -0.125,
+          "y_upper": 0.260,
+          "y_interval_meaning": "25th to 75th percentile"
+        },
+        {
+          "x": 14.0,
+          "y": 0.300,
+          "y_lower": 0.145,
+          "y_upper": 0.395,
+          "y_interval_meaning": "25th to 75th percentile"
+        }
+      ]
+    }
+  ]
+}

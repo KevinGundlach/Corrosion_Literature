@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "paper_reference": "8",
+  "source_chart_manifest": "paper_8_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0004_item_0001",
+    "image_path": "images/c5f6ca38fe4c1660b41bc51da07ab2cd861364cb68b93abd8f9d92a6a06db3c4.jpg",
+    "caption": "FIGuRE 5. Dependence of transpassive and/or pitting potential on [Br−]/([Br−] + [CI-]) ratio for UNS S31254 steel at 70°C with a fixed total halide concentration of 0.6 M.",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential in mixed chloride-bromide solutions is directly plotted against the bromide fraction; the pure-chloride endpoint may be transpassive.",
+    "confidence": 0.92,
+    "relevant_panels": [],
+    "target_series": [
+      "UNS S31254 Heat 1 pitting potential in chloride-bromide mixtures"
+    ],
+    "x_axis": {
+      "label": "Br−/(Cl−+Br−)",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Transpassive/Pitting Potential",
+      "unit": "V(SCE)",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "UNS_S31254_Heat_1_pitting_potential_in_chloride_bromide_mixtures",
+      "tags": [
+        {
+          "name": "material",
+          "value": "UNS S31254 Heat 1"
+        },
+        {
+          "name": "temperature",
+          "value": "70 °C"
+        },
+        {
+          "name": "total_halide_concentration",
+          "value": "0.6 M"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Br−/(Cl−+Br−)",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Transpassive/Pitting Potential",
+        "type": "numeric",
+        "unit": "V(SCE)",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 1.000,
+          "label": "pure chloride transpassive / pitting limit"
+        },
+        {
+          "x": 0.0,
+          "y": 1.030,
+          "label": "pure chloride transpassive / pitting limit"
+        },
+        {
+          "x": 0.25,
+          "y": 0.680
+        },
+        {
+          "x": 0.25,
+          "y": 0.708
+        },
+        {
+          "x": 0.50,
+          "y": 0.635
+        },
+        {
+          "x": 0.50,
+          "y": 0.672
+        },
+        {
+          "x": 0.75,
+          "y": 0.608
+        },
+        {
+          "x": 0.75,
+          "y": 0.648
+        },
+        {
+          "x": 1.0,
+          "y": 0.585
+        },
+        {
+          "x": 1.0,
+          "y": 0.625
+        }
+      ]
+    }
+  ]
+}

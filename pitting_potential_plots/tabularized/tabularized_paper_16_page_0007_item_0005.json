@@ -1,0 +1,81 @@
+{
+  "schema_version": 2,
+  "paper_reference": "16",
+  "source_chart_manifest": "paper_16_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0007_item_0005",
+    "image_path": "images/89aeeab0bae26a67545c5651de526361738896f5e1d8d24846a60494a649c560.jpg",
+    "caption": "Fig.11 Effect of welding condition on pitting potential of girth weldment",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against weld heat input.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "girth-weldment pitting potential"
+    ],
+    "x_axis": {
+      "label": "Weld heat input",
+      "unit": "kJ/cm",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "girth_weldment_pitting_potential",
+      "tags": [
+        {
+          "name": "specimen",
+          "value": "girth weldment"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Weld heat input",
+        "type": "numeric",
+        "unit": "kJ/cm",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 5.8,
+          "y": 0.680,
+          "y_lower": 0.640,
+          "y_upper": 0.720,
+          "y_interval_meaning": "experimental range"
+        },
+        {
+          "x": 11.2,
+          "y": 0.690,
+          "y_lower": 0.585,
+          "y_upper": 0.825,
+          "y_interval_meaning": "experimental range"
+        },
+        {
+          "x": 13.5,
+          "y": 0.510,
+          "y_lower": 0.475,
+          "y_upper": 0.548,
+          "y_interval_meaning": "experimental range"
+        }
+      ]
+    }
+  ]
+}

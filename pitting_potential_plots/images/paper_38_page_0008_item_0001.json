@@ -1,0 +1,29 @@
+{
+    "paper_reference": "38",
+    "source_chart_manifest": "paper_38_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0008_item_0001",
+        "image_path": "images/a4c0becb20db3c4d5dab35c2feca3d8419b3738a746295264e184c93d09014c4.jpg",
+        "caption": "FIGURE 18 \u2014 Effect of N content on the pitting corrosion resistance of simulated HAZ of 22Cr duplex SSs.",
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "The lower panel directly plots pitting potential against nitrogen content; the upper CPT panel is excluded.",
+        "confidence": 0.99,
+        "relevant_panels": [
+            "lower panel"
+        ],
+        "target_series": [
+            "Pitting Potential (60 \u00b0C, 5% NaCl)"
+        ],
+        "x_axis": {
+            "label": "N",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "Pitting Potential",
+            "unit": "mV vs SCE",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}

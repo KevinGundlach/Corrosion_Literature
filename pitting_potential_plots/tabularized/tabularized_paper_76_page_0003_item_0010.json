@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "paper_reference": "76",
+  "source_chart_manifest": "paper_76_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0003_item_0010",
+    "image_path": "images/b5f5be906983ed5913dedab5dbdd10f65af9eec509d59cf8d17f0b1210a14077.jpg",
+    "caption": "FIGURE 4 \u2014 Effect of N content in steel on potentiokinetic $\\varepsilon _ { n \\mathbf { p } } ^ { \\prime }$ and $\\theta _ { \\mathsf { n p } }$ values.",
+    "relevant_panels": [],
+    "target_series": [
+      "Potentiokinetic E'_np",
+      "E_np upper boundary",
+      "E_np lower boundary"
+    ],
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pit-nucleation potentials E_np and E'_np are directly plotted against nitrogen content.",
+    "confidence": 0.99,
+    "x_axis": {
+      "label": "% N",
+      "unit": "%",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "E_np",
+      "unit": "mV_H",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "Potentiokinetic_E_prime_np",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "18Cr - 5Ni - 10Mn"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 N H2SO4 + 0.05 N NaCl"
+        },
+        {
+          "name": "marker_style",
+          "value": "open triangle"
+        }
+      ],
+      "x_axis": {
+        "label": "% N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.072,
+          "y": 578.0
+        },
+        {
+          "x": 0.122,
+          "y": 628.0
+        },
+        {
+          "x": 0.168,
+          "y": 698.0
+        },
+        {
+          "x": 0.252,
+          "y": 955.0
+        },
+        {
+          "x": 0.350,
+          "y": 935.0
+        }
+      ]
+    },
+    {
+      "series_id": "E_np_upper_boundary",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "18Cr - 5Ni - 10Mn"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 N H2SO4 + 0.05 N NaCl"
+        },
+        {
+          "name": "formula",
+          "value": "E_np = 772 * N(%) + 91"
+        }
+      ],
+      "x_axis": {
+        "label": "% N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 91.0
+        },
+        {
+          "x": 0.4,
+          "y": 400.0
+        }
+      ]
+    },
+    {
+      "series_id": "E_np_lower_boundary",
+      "tags": [
+        {
+          "name": "alloy",
+          "value": "18Cr - 5Ni - 10Mn"
+        },
+        {
+          "name": "electrolyte",
+          "value": "0.1 N H2SO4 + 0.05 N NaCl"
+        },
+        {
+          "name": "formula",
+          "value": "E_np = 695 * N(%) + 74"
+        }
+      ],
+      "x_axis": {
+        "label": "% N",
+        "type": "numeric",
+        "unit": "%",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "E_np",
+        "type": "numeric",
+        "unit": "mV_H",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 0.0,
+          "y": 74.0
+        },
+        {
+          "x": 0.4,
+          "y": 352.0
+        }
+      ]
+    }
+  ]
+}

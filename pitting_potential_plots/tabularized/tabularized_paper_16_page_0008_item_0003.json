@@ -1,0 +1,115 @@
+{
+  "schema_version": 2,
+  "paper_reference": "16",
+  "source_chart_manifest": "paper_16_charts.json",
+  "plot_metadata": {
+    "chart_id": "page_0008_item_0003",
+    "image_path": "images/d65066d06b50fe08be0e3eea6d6be554c25d3ba43c7182f3a3ac73c78632a76f.jpg",
+    "caption": "Fig.13 Pitting potential of tube-totube sheet weldment",
+    "reason_code": "direct_pitting_potential_plot",
+    "reason": "Pitting potential is directly plotted against calculated P.I. value for identifiable weld and filler conditions.",
+    "confidence": 0.98,
+    "relevant_panels": [],
+    "target_series": [
+      "girth-weld pitting potential",
+      "seal-weld pitting potential"
+    ],
+    "x_axis": {
+      "label": "Calculated P.I. value",
+      "unit": "",
+      "scale": "linear"
+    },
+    "y_axis": {
+      "label": "Pitting potential",
+      "unit": "V vs SCE",
+      "scale": "linear"
+    }
+  },
+  "digitization_status": "complete",
+  "digitization_notes": [],
+  "plot_data": [
+    {
+      "series_id": "girth_weld_pitting_potential",
+      "tags": [
+        {
+          "name": "weld_type",
+          "value": "girth weld"
+        },
+        {
+          "name": "marker_style",
+          "value": "open circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Calculated P.I. value",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 36.0,
+          "y": 0.350,
+          "label": "329J2L base metal"
+        },
+        {
+          "x": 36.0,
+          "y": 0.405,
+          "label": "329J2L base metal"
+        },
+        {
+          "x": 43.5,
+          "y": 0.645,
+          "label": "28Cr"
+        }
+      ]
+    },
+    {
+      "series_id": "seal_weld_pitting_potential",
+      "tags": [
+        {
+          "name": "weld_type",
+          "value": "seal weld 28Cr tube/329J2L sheet"
+        },
+        {
+          "name": "marker_style",
+          "value": "filled circle"
+        }
+      ],
+      "x_axis": {
+        "label": "Calculated P.I. value",
+        "type": "numeric",
+        "unit": "",
+        "scale": "linear",
+        "is_target": false
+      },
+      "y_axis": {
+        "label": "Pitting potential",
+        "type": "numeric",
+        "unit": "V vs SCE",
+        "scale": "linear",
+        "is_target": true
+      },
+      "data_points": [
+        {
+          "x": 39.0,
+          "y": 0.420,
+          "label": "329J2L filler"
+        },
+        {
+          "x": 41.2,
+          "y": 0.470,
+          "label": "28Cr filler"
+        }
+      ]
+    }
+  ]
+}

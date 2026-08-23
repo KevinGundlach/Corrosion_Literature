@@ -1,0 +1,29 @@
+{
+    "paper_reference": "76",
+    "source_chart_manifest": "paper_76_charts.json",
+    "plot_metadata": {
+        "chart_id": "page_0002_item_0013",
+        "image_path": "images/2720371c84cba11103f204dbd2ffc890bae0e2dd3261609516a6c672d517f76a.jpg",
+        "caption": "FIGURE 2 \u2014 Effect of N content on the potentiokinetic potential of pit nucleation.",
+        "relevant_panels": [],
+        "target_series": [
+            "E_np in 0.1 N NaCl",
+            "E_np in 0.05 N NaCl",
+            "E_np in 0.01 N NaCl"
+        ],
+        "reason_code": "direct_pitting_potential_plot",
+        "reason": "Potentiokinetic pit-nucleation potential E_np is directly plotted against nitrogen content for three chloride concentrations.",
+        "confidence": 0.99,
+        "x_axis": {
+            "label": "% N",
+            "unit": "%",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "label": "E_np",
+            "unit": "mV_H",
+            "scale": "linear"
+        }
+    },
+    "plot_data": []
+}
