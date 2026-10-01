@@ -1,0 +1,941 @@
+{
+  "schema_version": 2,
+  "paper_reference": "3",
+  "input_path": "mineru_output/paper_3",
+  "source_content_list": "mineru_output/paper_3/3_N. Pessall, J. I. Nurminen, Corrosion 30 (1974)_ p. 381._content_list_v2.json",
+  "source_markdown": "mineru_output/paper_3/3_N. Pessall, J. I. Nurminen, Corrosion 30 (1974)_ p. 381..md",
+  "figures": [
+    {
+      "catalog_id": "page_0001_item_0013",
+      "source_figure_id": "page_0001_item_0013",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 1,
+      "item_index": 13,
+      "image_path": "images/5d683daed086f8402f6ee0a82cf9a26f7d246cf848a53a455a625ee90e2b6e15.jpg",
+      "caption": "TABLE 1 — Alloy Compositions for Initial Tests in Freeport Desalination Plant",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Composition Number",
+          "interpreted_name": "composition_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "composition_basis",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "O",
+          "interpreted_name": "oxygen_content",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "S",
+          "interpreted_name": "sulfur_content",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "P",
+          "interpreted_name": "phosphorus_content",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0001",
+      "source_figure_id": "page_0002_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 1,
+      "image_path": "images/2181d875460f09ef1195fb7698bf2f9dc55ce08ca7d347fa14dc8254e122499d.jpg",
+      "caption": "TABLE 2 – Alloys Selected for Study In Fe-Cr-Mo Ternary System",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Composition (Wt %)",
+          "interpreted_name": "composition",
+          "data_type": "text",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0009",
+      "source_figure_id": "page_0002_item_0009",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 9,
+      "image_path": "images/f1ad5fcccc5810673162f9f2491071647568e4c26f7acfebf2fd21337a7dbd01.jpg",
+      "caption": "TABLE 3 — Alloys Selected for Laboratory Studies (50 gm Ingots)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Al",
+          "interpreted_name": "aluminum_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Nb",
+          "interpreted_name": "niobium_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Basic Composition (Wt %)",
+          "interpreted_name": "basic_composition",
+          "data_type": "text",
+          "unit": "Wt %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Elements Replaced (At %)",
+          "interpreted_name": "elements_replaced",
+          "data_type": "text",
+          "unit": "At %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "source_figure_id": "page_0003_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 1,
+      "image_path": "images/6e011507f358c3638b954eefecad17e3c2869e5e390ecc2931a089583f3943a8.jpg",
+      "caption": "TABLE 4 — Pitting Potential Measurements on Alloy Compositions Used in Desalination Plant Exposure Tests",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_c^scan (mV vs SCE)",
+          "interpreted_name": "scan_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "sudden increase in specimen current indicated the pitting potential"
+        },
+        {
+          "source_label": "E_c^scr (mV vs SCE)",
+          "interpreted_name": "scratch_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "determination of the scratch potential"
+        },
+        {
+          "source_label": "Specimen Condition, Heat Treatment",
+          "interpreted_name": "specimen_condition_heat_treatment",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0007",
+      "source_figure_id": "page_0003_item_0007",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 7,
+      "image_path": "images/b61e63444f799ef96abf8edce022c7f4f673cd022891894419b60fa5bbf95378.jpg",
+      "caption": "FIGURE 1 — Comparison of the critical pitting potentials of Fe-Cr-Mo alloys with several commercial alloys in deaerated synthetic seawater at 90 C, pH = 7.2 ± 0.2.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "(Cr + Mo) in Fe (Wt. %)",
+          "interpreted_name": "chromium_plus_molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential, E_c^scr (mV vs SCE)",
+          "interpreted_name": "scratch_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "determination of the scratch potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0010",
+      "source_figure_id": "page_0003_item_0010",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 10,
+      "image_path": "images/c96f4c73c21066ce4a4ad298ad32a5d3410c3f0c24f92be05a00f867156b085d.jpg",
+      "caption": "TABLE 5 — Results of Pitting Potential Measurements on Ferritic Stainless Steels",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Run No.",
+          "interpreted_name": "run_number",
+          "data_type": "categorical",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_c^scan (mV vs SCE)",
+          "interpreted_name": "scan_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "sudden increase in specimen current indicated the pitting potential"
+        },
+        {
+          "source_label": "E_c^scr (mV vs SCE)",
+          "interpreted_name": "scratch_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "determination of the scratch potential"
+        },
+        {
+          "source_label": "E_c^(l-t) (mV vs SCE)",
+          "interpreted_name": "l_t_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001__panel_1",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": "panel_1",
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+      "caption": "FIGURE 2 — Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 ± 0.2.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+          "interpreted_name": "base_composition",
+          "data_type": "categorical",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential (mV vs SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Figure 2 illustrates the effects of five different alloy additions"
+        },
+        {
+          "source_label": "Additions",
+          "interpreted_name": "alloying_additions",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_potential_measurement_method",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001__panel_2",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": "panel_2",
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+      "caption": "FIGURE 2 — Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 ± 0.2.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+          "interpreted_name": "base_composition",
+          "data_type": "categorical",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential (mV vs SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Figure 2 illustrates the effects of five different alloy additions"
+        },
+        {
+          "source_label": "Additions",
+          "interpreted_name": "alloying_additions",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_potential_measurement_method",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001__panel_3",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": "panel_3",
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+      "caption": "FIGURE 2 — Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 ± 0.2.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+          "interpreted_name": "base_composition",
+          "data_type": "categorical",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential (mV vs SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Figure 2 illustrates the effects of five different alloy additions"
+        },
+        {
+          "source_label": "Additions",
+          "interpreted_name": "alloying_additions",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_potential_measurement_method",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001__panel_4",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": "panel_4",
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+      "caption": "FIGURE 2 — Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 ± 0.2.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+          "interpreted_name": "base_composition",
+          "data_type": "categorical",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential (mV vs SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Figure 2 illustrates the effects of five different alloy additions"
+        },
+        {
+          "source_label": "Additions",
+          "interpreted_name": "alloying_additions",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_potential_measurement_method",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001__panel_5",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": "panel_5",
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/6d889af1e2808019745a77659f901f23caeceed9df7b503c97a07c1a6b96252c.jpg",
+      "caption": "FIGURE 2 — Critical pitting potentials of levitation melted alloys in deaerated synthetic seawater of 90 C, pH = 7.2 ± 0.2.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Fe-Cr-Mo Base Compositions (Wt. %)",
+          "interpreted_name": "base_composition",
+          "data_type": "categorical",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential (mV vs SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Figure 2 illustrates the effects of five different alloy additions"
+        },
+        {
+          "source_label": "Additions",
+          "interpreted_name": "alloying_additions",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_potential_measurement_method",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0007",
+      "source_figure_id": "page_0004_item_0007",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 7,
+      "image_path": "images/b1c13c5c350d998045a321574196a41701aaf6c3e9003e425d96bf3726beb82d.jpg",
+      "caption": "FIGURE 3 - Critical pitting potentials of specimens prepared identically to those used in the desalination plant tests. Measurements made in deaerated synthetic seawater at ${ \\mathfrak { s o c } } _ { \\mathfrak { o } _ { \\mathfrak { o } } }$ $\\mathsf { p H } = 7. 2 \\pm 0. 2.$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential E_c^scr (mV vs SCE)",
+          "interpreted_name": "scratch_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "determination of the scratch potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat_treatment",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0008",
+      "source_figure_id": "page_0004_item_0008",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 8,
+      "image_path": "images/55cef4a448a7294fc7f42783994e42ca47ab3ca83aa9e56c681e6809f56971fa.jpg",
+      "caption": "FIGURE 4 - Corrosion rates after Run 1 in desalination plant.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion Rate (mpy)",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mpy",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat_treatment",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0001",
+      "source_figure_id": "page_0005_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 5,
+      "item_index": 1,
+      "image_path": "images/dfb3d94fd74fef70a5c29e3e7fafd863274d70aa6902c9d91517ebc0aa2595d7.jpg",
+      "caption": "FIGURE 5 - Corrosion rates after Run 5 in desalination plant.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion Rate (mpy)",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mpy",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat_treatment",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0007_item_0002",
+      "source_figure_id": "page_0007_item_0002",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 7,
+      "item_index": 2,
+      "image_path": "images/81a1d152f9367ac45e64c8e73744098bbcafb2c009c321fe2bb6fe2d2c839fe6.jpg",
+      "caption": "TABLE 6 - Results of Desalination Plant Exposure Tests on Flat Coupons (Corrosion Rates Expressed in mpy)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Metal",
+          "interpreted_name": "metal",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Run 1",
+          "interpreted_name": "run_1_corrosion_rate",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Run 2",
+          "interpreted_name": "run_2_corrosion_rate",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Run 3",
+          "interpreted_name": "run_3_corrosion_rate",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Run 4",
+          "interpreted_name": "run_4_corrosion_rate",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Run 5",
+          "interpreted_name": "run_5_corrosion_rate",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0008_item_0005",
+      "source_figure_id": "page_0008_item_0005",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 8,
+      "item_index": 5,
+      "image_path": "images/3d9a0830be8aa39f764781f4526b7334eaac2b70277af51678a1a953a140e58a.jpg",
+      "caption": "FIGURE 18 - Corrosion rates after 14 days autoclave exposure in synthetic seawater at 121 C, pH = 7.0, and dissolved oxygen level of 77 ppm.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Identity",
+          "interpreted_name": "alloy_identity",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion Rate (mpy)",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mpy",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat_treatment",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "exposure_duration",
+          "data_type": "numeric",
+          "unit": "week",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "dissolved_oxygen_concentration",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0011_item_0001",
+      "source_figure_id": "page_0011_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 11,
+      "item_index": 1,
+      "image_path": "images/d93bdea5f1932ac4aeaa71f9eb64b870881cdb8b5d916f8d7f93f9711aaf24ab.jpg",
+      "caption": "FIGURE $2 1 \\mathrm { ~ \\: ~ } -$ Relationship between the critical pitting potentials $(E _ { \\mathbf { c } } ^ { \\mathsf { s c r } }$ measured in deaerated synthetic seawater at 90 $\\mathsf { C }, \\mathsf { p H } = 7. 2 \\pm 0. 2 1$ of $\\mathsf { F e - C r - M o }$ based alloys and their resistance to crevice attack after a 6 day exposure in oxygenated, 10% ferric chloride at 21 ± 1 C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "(Cr + Mo) in Fe (Wt. %)",
+          "interpreted_name": "chromium_plus_molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential, E_c^scr (mV vs SCE)",
+          "interpreted_name": "scratch_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "determination of the scratch potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "crevice_attack_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0011_item_0006",
+      "source_figure_id": "page_0011_item_0006",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 11,
+      "item_index": 6,
+      "image_path": "images/f4be46d7d18ab4a4adcf7a53e6352d320e1a53f21f3e4af0ed119c8f6aa357ae.jpg",
+      "caption": "FIGURE $\\quad 2 2 \\quad -$ Relationship between the critical pitting potentials $(E _ { c } ^ { ^ { \\texttt { s c r } } }$ measured in deaerated synthetic seawater at 90 $\\mathsf { C }, \\mathsf { p H } = 7. 2 \\pm 0. 2 1$ of Fe-Cr-Mo based alloys and their resistance to crevice attack after a 14 day 'exposure to synthetic seawater at 121 C and $\\sim { \\mathfrak { 6 0 } }$ ppm oxygen. The numbers associated with individual points indicate the weight losses expressed as gms x ${ \\displaystyle 1 0 ^ { - 4 } }$ after the 121 C exposure for samples with initial weights of~1 gm.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "(Cr + Mo) in Fe (Wt. %)",
+          "interpreted_name": "chromium_plus_molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential, E_c^scr (mV vs SCE)",
+          "interpreted_name": "scratch_pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV vs SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "determination of the scratch potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "crevice_attack_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

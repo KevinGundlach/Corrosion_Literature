@@ -1,0 +1,794 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_8/paper_8_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0002_item_0014",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Steel",
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ti",
+          "interpreted_name": "titanium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        },
+        {
+          "variable_index": 8,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "UNS S30100",
+          null,
+          0.108,
+          17,
+          8.3,
+          0.19,
+          0.19,
+          0.047,
+          null
+        ],
+        [
+          "UNS S31600",
+          null,
+          0.06,
+          17.2,
+          10.5,
+          2,
+          0.25,
+          0.049,
+          null
+        ],
+        [
+          "UNS N08904",
+          null,
+          0.025,
+          20,
+          25,
+          4.5,
+          1.5,
+          null,
+          null
+        ],
+        [
+          "UNS S31254",
+          "Heat 1",
+          0.02,
+          20,
+          18,
+          6.1,
+          0.7,
+          0.21,
+          0.033
+        ],
+        [
+          "UNS S31254",
+          "Heat 2",
+          0.02,
+          20,
+          18,
+          6.1,
+          0.7,
+          0.21,
+          null
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0015",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "i, µA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E, V(SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "i, µA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E, V(SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Steel",
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential, V(SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "A comparison of pitting potentials"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "UNS S30100",
+          null,
+          0,
+          0.09,
+          "NaCl"
+        ],
+        [
+          "UNS S30100",
+          null,
+          0.25,
+          0.3,
+          "NaBr"
+        ],
+        [
+          "UNS S31600",
+          null,
+          0.14,
+          0.2,
+          "NaCl"
+        ],
+        [
+          "UNS S31600",
+          null,
+          0.3,
+          0.35,
+          "NaBr"
+        ],
+        [
+          "UNS N08904",
+          null,
+          0.59,
+          0.65,
+          "NaCl"
+        ],
+        [
+          "UNS N08904",
+          null,
+          0.45,
+          0.5,
+          "NaBr"
+        ],
+        [
+          "UNS S31254",
+          null,
+          1,
+          1.05,
+          "NaCl"
+        ],
+        [
+          "UNS S31254",
+          null,
+          0.58,
+          0.65,
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0005",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "T, °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "TRANSPASSIVE/PITTING POTENTIAL V(SCE)",
+          "interpreted_name": "transpassive_or_pitting_potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          20,
+          1.01,
+          "UNS S31254",
+          "NaCl"
+        ],
+        [
+          50,
+          1.01,
+          "UNS S31254",
+          "NaCl"
+        ],
+        [
+          60,
+          1,
+          "UNS S31254",
+          "NaCl"
+        ],
+        [
+          70,
+          1,
+          "UNS S31254",
+          "NaCl"
+        ],
+        [
+          80,
+          1,
+          "UNS S31254",
+          "NaCl"
+        ],
+        [
+          30,
+          1,
+          "UNS N08904",
+          "NaCl"
+        ],
+        [
+          60,
+          0.96,
+          "UNS N08904",
+          "NaCl"
+        ],
+        [
+          70,
+          0.65,
+          "UNS N08904",
+          "NaCl"
+        ],
+        [
+          30,
+          0.98,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          50,
+          0.88,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          50,
+          0.85,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          50,
+          0.8,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          70,
+          0.63,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          70,
+          0.6,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          70,
+          0.57,
+          "UNS S31254",
+          "NaBr"
+        ],
+        [
+          20,
+          0.72,
+          "UNS N08904",
+          "NaBr"
+        ],
+        [
+          20,
+          0.69,
+          "UNS N08904",
+          "NaBr"
+        ],
+        [
+          50,
+          0.58,
+          "UNS N08904",
+          "NaBr"
+        ],
+        [
+          50,
+          0.56,
+          "UNS N08904",
+          "NaBr"
+        ],
+        [
+          70,
+          0.5,
+          "UNS N08904",
+          "NaBr"
+        ],
+        [
+          70,
+          0.46,
+          "UNS N08904",
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0006",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Steel",
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Chloride",
+          "interpreted_name": "chloride_critical_pitting_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical Temperature for Pitting (°C)"
+        },
+        {
+          "source_label": "Bromide",
+          "interpreted_name": "bromide_critical_pitting_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical Temperature for Pitting (°C)"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_inclusive"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_inclusive"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 2,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 2,
+          "component": "lower_inclusive"
+        },
+        {
+          "variable_index": 2,
+          "component": "upper_inclusive"
+        }
+      ],
+      "rows": [
+        [
+          "UNS N08904",
+          60,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          23,
+          null,
+          false
+        ],
+        [
+          "UNS S31254",
+          null,
+          80,
+          null,
+          false,
+          null,
+          30,
+          null,
+          null,
+          null,
+          null
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Br⁻/(Cl⁻+Br⁻)",
+          "interpreted_name": "bromide_fraction_of_total_halide",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "TRANSPASSIVE/PITTING POTENTIAL V(SCE)",
+          "interpreted_name": "transpassive_or_pitting_potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0,
+          1.04
+        ],
+        [
+          0,
+          1.01
+        ],
+        [
+          0.23,
+          0.72
+        ],
+        [
+          0.23,
+          0.68
+        ],
+        [
+          0.5,
+          0.69
+        ],
+        [
+          0.5,
+          0.64
+        ],
+        [
+          0.76,
+          0.65
+        ],
+        [
+          0.76,
+          0.61
+        ],
+        [
+          1,
+          0.63
+        ],
+        [
+          1,
+          0.59
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0002",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "i, µA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E, V(SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "material_heat",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    }
+  ]
+}

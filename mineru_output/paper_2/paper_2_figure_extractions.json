@@ -1,0 +1,1249 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_2/paper_2_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0001_item_0022",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr, %",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni, %",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo, %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn, %",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si, %",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C, %",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N, %",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "High-nickel austenitic series",
+          19.97,
+          39.09,
+          0.025,
+          1.21,
+          0.46,
+          0.056,
+          0.04
+        ],
+        [
+          "High-nickel austenitic series",
+          null,
+          null,
+          0.97,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "High-nickel austenitic series",
+          null,
+          null,
+          3.03,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "High-nickel austenitic series",
+          20.01,
+          39.13,
+          4.85,
+          null,
+          null,
+          null,
+          0.039
+        ],
+        [
+          "Low-nickel austenitic series",
+          17.67,
+          13.57,
+          1.99,
+          1.84,
+          0.45,
+          0.025,
+          0.03
+        ],
+        [
+          "Low-nickel austenitic series",
+          null,
+          null,
+          2.45,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Low-nickel austenitic series",
+          null,
+          null,
+          2.93,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Low-nickel austenitic series",
+          null,
+          null,
+          3.37,
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          "Low-nickel austenitic series",
+          17.6,
+          13.56,
+          3.89,
+          1.72,
+          0.53,
+          0.027,
+          0.033
+        ],
+        [
+          "High-purity austenitic series",
+          17.86,
+          16.13,
+          0.067,
+          null,
+          0.09,
+          0.002,
+          0.01
+        ],
+        [
+          "High-purity austenitic series",
+          18.01,
+          16.25,
+          2.48,
+          null,
+          0.08,
+          0.003,
+          0.012
+        ],
+        [
+          "High-purity austenitic series",
+          18.07,
+          16.17,
+          4.99,
+          null,
+          0.09,
+          0.004,
+          0.012
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0006",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "electrode_masking",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0010",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CRITICAL CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "critical_current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          2,
+          0.035
+        ],
+        [
+          2,
+          0.037
+        ],
+        [
+          2,
+          0.043
+        ],
+        [
+          2,
+          0.051
+        ],
+        [
+          2,
+          0.056
+        ],
+        [
+          2,
+          0.062
+        ],
+        [
+          2.5,
+          0.034
+        ],
+        [
+          2.5,
+          0.04
+        ],
+        [
+          2.5,
+          0.042
+        ],
+        [
+          2.95,
+          0.034
+        ],
+        [
+          2.95,
+          0.041
+        ],
+        [
+          2.95,
+          0.043
+        ],
+        [
+          3.45,
+          0.02
+        ],
+        [
+          3.45,
+          0.022
+        ],
+        [
+          3.45,
+          0.024
+        ],
+        [
+          3.45,
+          0.026
+        ],
+        [
+          3.9,
+          0.013
+        ],
+        [
+          3.9,
+          0.018
+        ],
+        [
+          3.9,
+          0.019
+        ],
+        [
+          3.9,
+          0.02
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0011",
+      "status": "partial",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CRITICAL CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "critical_current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "PRIMARY PASSIVATION POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "primary_passivation_potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0,
+          0.9,
+          null
+        ],
+        [
+          1,
+          0.19,
+          null
+        ],
+        [
+          3,
+          0.05,
+          null
+        ],
+        [
+          5,
+          0.035,
+          null
+        ],
+        [
+          0,
+          null,
+          -0.185
+        ],
+        [
+          1,
+          null,
+          -0.203
+        ],
+        [
+          1.5,
+          null,
+          -0.207
+        ],
+        [
+          3,
+          null,
+          -0.21
+        ],
+        [
+          5,
+          null,
+          -0.212
+        ]
+      ],
+      "notes": [
+        "Replicate markers close to the fitted curves overlap and could not all be separated reliably."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Molybdenum content, %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "hydrochloric_acid_concentration",
+          "data_type": "numeric",
+          "unit": "N",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Icr, ma/cm²",
+          "interpreted_name": "critical_current_density",
+          "data_type": "numeric",
+          "unit": "ma/cm²",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "critical current densities"
+        },
+        {
+          "source_label": "Epp, v vs. SCE",
+          "interpreted_name": "primary_passivation_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "primary passivation potential"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.067,
+          0.1,
+          0.42,
+          -0.265
+        ],
+        [
+          0.067,
+          1,
+          null,
+          null
+        ],
+        [
+          2.48,
+          0.1,
+          0.05,
+          -0.279
+        ],
+        [
+          2.48,
+          1,
+          1.7,
+          -0.25
+        ],
+        [
+          4.99,
+          0.1,
+          0.012,
+          -0.25
+        ],
+        [
+          4.99,
+          1,
+          0.33,
+          -0.275
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0005",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY MA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "MV/HR",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0006",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting potential, v vs. SCE",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "High-nickel series",
+          20,
+          39,
+          0,
+          0.64
+        ],
+        [
+          "High-nickel series",
+          20,
+          39,
+          1,
+          null
+        ],
+        [
+          "High-nickel series",
+          20,
+          39,
+          3,
+          null
+        ],
+        [
+          "High-nickel series",
+          20,
+          39,
+          5,
+          null
+        ],
+        [
+          "Low-nickel series",
+          18,
+          14,
+          2,
+          0.39
+        ],
+        [
+          "Low-nickel series",
+          18,
+          14,
+          2.5,
+          null
+        ],
+        [
+          "Low-nickel series",
+          18,
+          14,
+          3,
+          null
+        ],
+        [
+          "Low-nickel series",
+          18,
+          14,
+          3.5,
+          null
+        ],
+        [
+          "Low-nickel series",
+          18,
+          14,
+          4,
+          null
+        ],
+        [
+          "High-purity series",
+          18,
+          16,
+          0,
+          null
+        ],
+        [
+          "High-purity series",
+          18,
+          16,
+          2.5,
+          null
+        ],
+        [
+          "High-purity series",
+          18,
+          16,
+          5,
+          null
+        ]
+      ],
+      "notes": [
+        "Printed NP entries are represented as null numeric pitting-potential values."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Scanning rate, mv/hr",
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "mv/hr",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Repassivating pitting potential, v vs. SCE",
+          "interpreted_name": "repassivating_pitting_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting potential, v vs. SCE",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          2000,
+          0.29,
+          0.43
+        ],
+        [
+          600,
+          0.32,
+          0.47
+        ],
+        [
+          600,
+          0.29,
+          0.525
+        ],
+        [
+          600,
+          0.31,
+          0.495
+        ],
+        [
+          600,
+          0.31,
+          0.655
+        ]
+      ],
+      "notes": [
+        "Printed scan-rate switching details cannot be represented by the catalog numeric scan-rate field; the initial 600 mV/h rate is stored."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0003",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "MV/HR",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0004",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "MV/HR",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0012",
+      "status": "partial",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "PITTING POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "(DELTA FERRITE)",
+          "interpreted_name": "delta_ferrite_presence",
+          "data_type": "boolean",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0,
+          0.36,
+          "20% Cr - 39% Ni",
+          false
+        ],
+        [
+          0,
+          0.58,
+          "20% Cr - 39% Ni",
+          false
+        ],
+        [
+          0.9,
+          0.79,
+          "20% Cr - 39% Ni",
+          false
+        ],
+        [
+          1,
+          0.8,
+          "20% Cr - 39% Ni",
+          false
+        ],
+        [
+          3,
+          0.79,
+          "20% Cr - 39% Ni",
+          false
+        ],
+        [
+          4.9,
+          0.79,
+          "20% Cr - 39% Ni",
+          false
+        ],
+        [
+          2,
+          0.25,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          2,
+          0.41,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          2,
+          0.43,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          2.45,
+          0.39,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          2.45,
+          0.49,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          2.9,
+          0.49,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          2.9,
+          0.52,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          3.4,
+          0.78,
+          "17.6% Cr - 13.6% Ni",
+          false
+        ],
+        [
+          4,
+          0.59,
+          "17.6% Cr - 13.6% Ni",
+          true
+        ],
+        [
+          4,
+          0.61,
+          "17.6% Cr - 13.6% Ni",
+          true
+        ],
+        [
+          4,
+          0.79,
+          "17.6% Cr - 13.6% Ni",
+          true
+        ]
+      ],
+      "notes": [
+        "Several markers overlap near the upper plotting boundary and were transcribed only where separable."
+      ]
+    },
+    {
+      "catalog_id": "page_0005_item_0006",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Weight loss in 3 days, mg/dm²",
+          "interpreted_name": "weight_loss",
+          "data_type": "numeric",
+          "unit": "mg/dm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Remarks",
+          "interpreted_name": "corrosion_observation",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          17.6,
+          13.5,
+          1.99,
+          703,
+          "General pitting"
+        ],
+        [
+          17.6,
+          13.5,
+          2.45,
+          828,
+          "General pitting"
+        ],
+        [
+          17.6,
+          13.5,
+          2.93,
+          173,
+          "Edge pitting"
+        ],
+        [
+          17.6,
+          13.5,
+          3.37,
+          77,
+          "One edge pit"
+        ],
+        [
+          17.6,
+          13.5,
+          3.89,
+          3,
+          "No visible attack"
+        ],
+        [
+          20,
+          39,
+          0.025,
+          663,
+          "General pitting"
+        ],
+        [
+          20,
+          39,
+          0.97,
+          176,
+          "Pits at suspension hole"
+        ],
+        [
+          20,
+          39,
+          3.03,
+          40,
+          "Small edge pits"
+        ],
+        [
+          20,
+          39,
+          4.85,
+          8,
+          "No visible attack"
+        ]
+      ],
+      "notes": []
+    }
+  ]
+}

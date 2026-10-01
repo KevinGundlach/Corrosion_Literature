@@ -1,0 +1,365 @@
+{
+  "schema_version": 2,
+  "paper_reference": "1",
+  "input_path": "mineru_output/paper_1",
+  "source_content_list": "mineru_output/paper_1/1_J. Horvath, H. H. Uhlig, J. Electrochem. Soc. 115 (1968)_ p. 791_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_1/1_J. Horvath, H. H. Uhlig, J. Electrochem. Soc. 115 (1968)_ p. 791.md",
+  "figures": [
+    {
+      "catalog_id": "page_0001_item_0013",
+      "source_figure_id": "page_0001_item_0013",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 1,
+      "item_index": 13,
+      "image_path": "images/d8a070c1279a61aa0699bf084dab52f531128d89e37056fe1697b84dde703bda.jpg",
+      "caption": "\" A subsequent anneal after quenching to avoid intergranular attack was not necessary because of low carbon content (0.001- 0.002%). Table I. Critical pitting potentials for various metals in 0.1N NaCI, 25°C*",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Metal",
+          "interpreted_name": "metal",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical potential, v",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "v",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials for various metals"
+        },
+        {
+          "source_label": "Reference",
+          "interpreted_name": "reference",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0008",
+      "source_figure_id": "page_0002_item_0008",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 8,
+      "image_path": "images/25982a458d30d9e5389ccf415e357060eef1edb458be26bd503b98e7f85523b5.jpg",
+      "caption": "Fig. 1. Critical pitting potentials for Cr-Fe alloys in 0.IN NaCl, $2 5 ^ { \\circ } C.$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Wt. % Chromium",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V_c, Volts, H₂ Scale",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials for Cr-Fe alloys"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_behavior",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0012",
+      "source_figure_id": "page_0002_item_0012",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 12,
+      "image_path": "images/da0a8dce4b9007b8b472b388502ec3596a475bf5ea27828a62dc5618d6aa65f7.jpg",
+      "caption": "Fig. 2. Critical pitting potentials for Cr-Ni alloys in 0.1N NaCl $2 5 \\%$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Wt. % Chromium",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, H₂ Scale",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials for Cr-Ni alloys"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "measurement_mode",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "pitting_behavior",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "source_figure_id": "page_0003_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 1,
+      "image_path": "images/55183d42f92d1d081e570684f517b10f10c6a15d93c99171b116f25df581f364.jpg",
+      "caption": "Fig. 3. Potentiostatic anodic polarization curves for Mo-Ni alloys in 0.1N NaCl, 25°C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Current Density, ma/cm²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "ma/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, H₂ Scale",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0005",
+      "source_figure_id": "page_0003_item_0005",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 5,
+      "image_path": "images/e91893f891ff52219d3068e48382797badf75af2809f3cb901bc84a0cea40ba7.jpg",
+      "caption": "Fig. 4. Potentiostatic anodic polarization curve for 15% $\\complement _ { I },$ 13% Ni stainless steel in 0.1N NaCl, $2 5 ^ { \\circ } C.$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Current Density, ma/cm²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "ma/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, H₂ Scale",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0010",
+      "source_figure_id": "page_0003_item_0010",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 10,
+      "image_path": "images/9eb85b15fcfcaf9b8f1c06e805eb2ee2398023857f3450bf77874a4ef42749c7.jpg",
+      "caption": "Fig. 5. Critical pitting potentials for 15% $\\mathsf { c r } { \\mathsf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { r } } } } } } { \\mathsf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\mathbf { \\theta } } } } } } } }$ alloys with increasing Ni content, in 0.1N NaCl, 25°C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Wt. % Nickel",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V_c, Volts, H₂ Scale",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/3c92016b459ad746febb3405aa8a822d987ec16d35e1fa2766d20af1e6a0eb65.jpg",
+      "caption": "Fig. 6. Critical pitting potentials for 15% $\\mathsf { \\pmb { C } } _ { \\mathsf { \\pmb { r } } _ { \\pmb { \\imath } } }$ 13% Ni stainless steel with increasing Mo content, in 0.1N NaCl, 25°C and ${ \\mathfrak { O } } ^ { \\circ } { \\mathsf { C } }.$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Wt. % Molybdenum",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V_c, Volts, H₂ Scale",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0002",
+      "source_figure_id": "page_0004_item_0002",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 2,
+      "image_path": "images/3cd51c14f26bf7a5bc02580c5512ccbdaa23f2714357b9ffb4ad31e45051aeb8.jpg",
+      "caption": "Fig. 7. Potentiostatic anodic polarization curve for 15% $\\mathsf { c r },$ 13% Ni, 1.43% Mo stainless steel in 0.1N NaCl, 25°C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Current Density, ma/cm²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "ma/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, H₂ Scale",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0010",
+      "source_figure_id": "page_0004_item_0010",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 10,
+      "image_path": "images/b302b2ca7a29895ba140d571b4909cf25aa297fc0353bb7fab61cfd83e26c38f.jpg",
+      "caption": "Fig. 8. Critical pitting potentials for 15% $\\mathsf { c r },$ 13% Ni stainless steel with increasing Mo content in O.1N NaBr, $2 5 ^ { \\circ } C$ and ${ \\mathfrak { O } } ^ { \\circ } { \\mathsf { C } }.$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Wt. % Molybdenum",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V_c, Volts, H₂ Scale",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, H₂ Scale",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0007",
+      "source_figure_id": "page_0005_item_0007",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 5,
+      "item_index": 7,
+      "image_path": "images/91ac4040e0dd43bf70ff4b1ea6c912abeed8d87243cbdfd3b527c3cb205e5616.jpg",
+      "caption": "Table II. Free energies of formation, 25°C (24)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "chemical_species",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Kcal",
+          "interpreted_name": "free_energy_of_formation",
+          "data_type": "numeric",
+          "unit": "Kcal",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Free energies of formation"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

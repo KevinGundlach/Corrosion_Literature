@@ -1,0 +1,270 @@
+{
+  "schema_version": 2,
+  "paper_reference": "49",
+  "input_path": "mineru_output/paper_49",
+  "source_content_list": "mineru_output/paper_49/49_Malik, A. U., et al. Corrosion science 37.10 (1995)_ 1521-1535_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_49/49_Malik, A. U., et al. Corrosion science 37.10 (1995)_ 1521-1535.md",
+  "figures": [
+    {
+      "catalog_id": "page_0003_item_0009",
+      "source_figure_id": "page_0003_item_0009",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 9,
+      "image_path": "images/97293e886b453cf0e561fbe043589e2b6b551f577302dbcfefce5f68ce7cdf73.jpg",
+      "caption": "Table 1. Composition of stainless steels",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "UNS No.", "interpreted_name": "uns_number", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Alloys", "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Product", "interpreted_name": "product", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Fe", "interpreted_name": "iron_content", "data_type": "text", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Cr", "interpreted_name": "chromium_content", "data_type": "numeric", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Mo", "interpreted_name": "molybdenum_content", "data_type": "numeric", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Ni", "interpreted_name": "nickel_content", "data_type": "numeric", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "C", "interpreted_name": "carbon_content", "data_type": "numeric", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Cu", "interpreted_name": "copper_content", "data_type": "numeric", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Mn", "interpreted_name": "manganese_content", "data_type": "numeric", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Others", "interpreted_name": "other_constituents", "data_type": "text", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/784e5a96c64bb2f20b6cca0764eb27db2b738d3a6060407d4ef72c279951aebb.jpg",
+      "caption": "Table 2. Gulf seawater composition, pH 8.2",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Ions", "interpreted_name": "ion_name", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "ion_formula", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Concentration, mg l⁻¹", "interpreted_name": "concentration", "data_type": "numeric", "unit": "mg l⁻¹", "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": ["The printed 'Ions' heading spans the ion-name and visibly distinct ion-formula columns."]
+    },
+    {
+      "catalog_id": "page_0004_item_0011",
+      "source_figure_id": "page_0004_item_0011",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 11,
+      "image_path": "images/485a8555fd4788cb2e32d6f00b95e642cdb5d546e830b4e288715207351903ac.jpg",
+      "caption": "Table 3. Simulated crevice solutions used in CCS determinations",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Chloride concentration", "interpreted_name": "chloride_solution", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "pH range", "interpreted_name": "ph_range", "data_type": "numeric", "unit": "", "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0007",
+      "source_figure_id": "page_0005_item_0007",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 5,
+      "item_index": 7,
+      "image_path": "images/74efa4a24a047b4ab41d2abdd34b91b9c674390a33a40626a9787b3bf300adf7.jpg",
+      "caption": "Table 4. Corrosion rate values for highly alloyed stainless steel coupons exposed to salt spray fog chamber",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Alloy", "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Corrosion rate × 10⁻³ mpy", "interpreted_name": "corrosion_rate", "data_type": "numeric", "unit": "× 10⁻³ mpy", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "exposure_duration", "data_type": "numeric", "unit": "h", "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": ["The 3024 h and 4824 h subcolumns visibly form an untitled exposure-duration dimension."]
+    },
+    {
+      "catalog_id": "page_0006_item_0001",
+      "source_figure_id": "page_0006_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 6,
+      "item_index": 1,
+      "image_path": "images/872c1ad710873a65458b8a58ed0f9d6c13e5e65fbe83dd54729954e5ebeb4cdb.jpg",
+      "caption": "Fig. 1. Typical polarization resistance curves for different types of stainless steels in seawater at $5 0 ^ { \\circ } \\mathbf { C }.$",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "E(mV)", "interpreted_name": "potential", "data_type": "numeric", "unit": "mV", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "I(μ A/cm²)", "interpreted_name": "current_density", "data_type": "numeric", "unit": "μ A/cm²", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0007_item_0001",
+      "source_figure_id": "page_0007_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 7,
+      "item_index": 1,
+      "image_path": "images/d02b8a94ca7c9e0eb036340e4d5b653382cb417c6b3ae525120741d2cc5dc772.jpg",
+      "caption": "Table 5. Corrosion rate and corrosion and pitting potential of alloys in various concentrations of $\\mathbf { C l } ^ { - }$ solutions and in seawater at $5 0 \\mathrm { { ^ \\circ C } }$",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Alloys", "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "test_solution", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Ecor (mV)", "interpreted_name": "corrosion_potential", "data_type": "numeric", "unit": "mV", "interpretation_source": "markdown", "interpretation_evidence": "values of corrosion potential $E _ { \\mathrm { c o r } }$ and pitting potential $E _ { \\mathrm { p i t } }$"},
+        {"source_label": "Corrosion rate (mpy)", "interpreted_name": "corrosion_rate", "data_type": "numeric", "unit": "mpy", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Epit (mV)", "interpreted_name": "pitting_potential", "data_type": "numeric", "unit": "mV", "interpretation_source": "markdown", "interpretation_evidence": "values of corrosion potential $E _ { \\mathrm { c o r } }$ and pitting potential $E _ { \\mathrm { p i t } }$"},
+        {"source_label": "PREN", "interpreted_name": "pitting_resistance_equivalent", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "pitting resistance equivalent $P R E _ { \\mathrm { N } }$"}
+      ],
+      "notes": ["The chloride-solution and natural-seawater columns are an untitled test-solution grouping; the repeated parameter row labels are cataloged as separate measurements."]
+    },
+    {
+      "catalog_id": "page_0008_item_0001",
+      "source_figure_id": "page_0008_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 8,
+      "item_index": 1,
+      "image_path": "images/28bf9c62305e29835825300936a49f67a954b5c92b67f4ce2b6921055b2af7e2.jpg",
+      "caption": "Fig. 2. Potentiodynamic polarization plots for different steels in seawater at $5 0 \\mathrm { ^ \\circ C C }.$",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "E(MV)", "interpreted_name": "potential", "data_type": "numeric", "unit": "MV", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "I(UA/CM²)", "interpreted_name": "current_density", "data_type": "numeric", "unit": "UA/CM²", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0008_item_0006",
+      "source_figure_id": "page_0008_item_0006",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 8,
+      "item_index": 6,
+      "image_path": "images/4bfa3c8715b786e5e2f941988b4b7a97d7b173df379960b2e499c63aed48d1be.jpg",
+      "caption": "Table 6. Natural seawater exposure test results for wheel ground samples",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Alloys", "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Duration (days)", "interpreted_name": "duration", "data_type": "numeric", "unit": "days", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Sites attacked", "interpreted_name": "sites_attacked", "data_type": "numeric", "unit": "", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Time to break down (h)", "interpreted_name": "time_to_break_down", "data_type": "numeric", "unit": "h", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Max. depth of attack (mm)", "interpreted_name": "maximum_depth_of_attack", "data_type": "numeric", "unit": "mm", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Crevice corrosion index (CCI)", "interpreted_name": "crevice_corrosion_index", "data_type": "numeric", "unit": "", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "temperature", "data_type": "numeric", "unit": "°C", "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": ["The repeated 50°C and 25°C subcolumns visibly form an untitled temperature dimension."]
+    },
+    {
+      "catalog_id": "page_0009_item_0001",
+      "source_figure_id": "page_0009_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 9,
+      "item_index": 1,
+      "image_path": "images/128ae54e8b4e563e53b8313dd8b24c72a777b05ab92bab4766df860ff4e97112.jpg",
+      "caption": "Table 7. Natural seawater exposure test results for 180 grit SiC ground samples",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Alloys", "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Duration (days)", "interpreted_name": "duration", "data_type": "numeric", "unit": "days", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Sites attacked", "interpreted_name": "sites_attacked", "data_type": "numeric", "unit": "", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Time to break down (h)", "interpreted_name": "time_to_break_down", "data_type": "numeric", "unit": "h", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Max depth of attack (mm)", "interpreted_name": "maximum_depth_of_attack", "data_type": "numeric", "unit": "mm", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "CCI", "interpreted_name": "crevice_corrosion_index", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "Crevice corrosion index (CCI)"},
+        {"source_label": null, "interpreted_name": "temperature", "data_type": "numeric", "unit": "°C", "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": ["The repeated 50°C and 25°C subcolumns visibly form an untitled temperature dimension."]
+    },
+    {
+      "catalog_id": "page_0009_item_0003",
+      "source_figure_id": "page_0009_item_0003",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 9,
+      "item_index": 3,
+      "image_path": "images/0d97a043525c9135a9e611b2fa0aaf7f86ddef518b95ed432c83803fe3d47926.jpg",
+      "caption": "Table 8. Natural seawater exposure test results for as-received samples",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Alloys", "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Duration (days)", "interpreted_name": "duration", "data_type": "numeric", "unit": "days", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Sites attacked", "interpreted_name": "sites_attacked", "data_type": "numeric", "unit": "", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Time to break down (h)", "interpreted_name": "time_to_break_down", "data_type": "numeric", "unit": "h", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "Max depth of attack (mm)", "interpreted_name": "maximum_depth_of_attack", "data_type": "numeric", "unit": "mm", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "CCI", "interpreted_name": "crevice_corrosion_index", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "Crevice corrosion index (CCI)"},
+        {"source_label": null, "interpreted_name": "temperature", "data_type": "numeric", "unit": "°C", "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": ["The repeated 50°C and 25°C subcolumns visibly form an untitled temperature dimension."]
+    },
+    {
+      "catalog_id": "page_0010_item_0005",
+      "source_figure_id": "page_0010_item_0005",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 10,
+      "item_index": 5,
+      "image_path": "images/5fbc73f23b924e7c469af567c0e0df6d43e63206194a31d54a1cd28f9a7e75c2.jpg",
+      "caption": "Fig. 3. Plots of active peak height (APH) vs pH for different steels in natural seawater and NaCl solution.",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "APH", "interpreted_name": "active_peak_height", "data_type": "numeric", "unit": null, "interpretation_source": "markdown", "interpretation_evidence": "active peak height (APH)"},
+        {"source_label": "pH", "interpreted_name": "ph", "data_type": "numeric", "unit": "", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": "CCSpH", "interpreted_name": "critical_crevice_solution_ph", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "Critical crevice solution pH (CCSpH)"}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0012_item_0001",
+      "source_figure_id": "page_0012_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 12,
+      "item_index": 1,
+      "image_path": "images/fa8cb789afaca01441218f38838da6bd7c3c2b9b5b8e57f19b96de18ae57bf20.jpg",
+      "caption": "Fig. 5. Plots of pitting potential $E _ { \\mathrm { p i t } }$ vs log $[C 1 ^ { - }]$ for different steels in chloride containing aqueous solutions.",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Epit mV", "interpreted_name": "pitting_potential", "data_type": "numeric", "unit": "mV", "interpretation_source": "markdown", "interpretation_evidence": "pitting potential $E _ { \\mathrm { p i t } }$"},
+        {"source_label": "Log Cl (ppm)", "interpreted_name": "log_chloride_concentration", "data_type": "numeric", "unit": "ppm", "interpretation_source": "visual", "interpretation_evidence": null},
+        {"source_label": null, "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0012_item_0003",
+      "source_figure_id": "page_0012_item_0003",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 12,
+      "item_index": 3,
+      "image_path": "images/169523ce5b17b6dbb7e914187d059db900ff7a1df4560f0cad7af063ccfa51e6.jpg",
+      "caption": "Fig. 6. Plots of PREN of different steels vs pitting potential in seawater.",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "Epit (mV)", "interpreted_name": "pitting_potential", "data_type": "numeric", "unit": "mV", "interpretation_source": "markdown", "interpretation_evidence": "pitting potential $E _ { \\mathrm { p i t } }$"},
+        {"source_label": "PREN", "interpreted_name": "pitting_resistance_equivalent", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "pitting resistance equivalent $P R E _ { \\mathrm { N } }$"},
+        {"source_label": null, "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0014_item_0001",
+      "source_figure_id": "page_0014_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 14,
+      "item_index": 1,
+      "image_path": "images/7b660d9eded33f8e2207f76e1b0c8c988dd712c52e11f1982c2600aa665d0123.jpg",
+      "caption": "Fig. 7. Plot of PREN vs CCSpH for steel in natural seawater and NaCl solution.",
+      "status": "cataloged",
+      "variables": [
+        {"source_label": "PREN", "interpreted_name": "pitting_resistance_equivalent", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "pitting resistance equivalent $P R E _ { \\mathrm { N } }$"},
+        {"source_label": "CCSpH", "interpreted_name": "critical_crevice_solution_ph", "data_type": "numeric", "unit": "", "interpretation_source": "markdown", "interpretation_evidence": "Critical crevice solution pH (CCSpH)"},
+        {"source_label": null, "interpreted_name": "alloy", "data_type": "categorical", "unit": null, "interpretation_source": "visual", "interpretation_evidence": null}
+      ],
+      "notes": []
+    }
+  ]
+}

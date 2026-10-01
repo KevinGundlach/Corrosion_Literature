@@ -1,0 +1,1062 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_7/paper_7_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0002_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Temperature, °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V_c, Volts, S.H.E.",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials of 99.99% Al"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0,
+          -0.402
+        ],
+        [
+          15,
+          -0.402
+        ],
+        [
+          25,
+          -0.405
+        ],
+        [
+          32,
+          -0.41
+        ],
+        [
+          40,
+          -0.423
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0007",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Electrolyte",
+          "interpreted_name": "electrolyte",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "25°C",
+          "interpreted_name": "steady_state_critical_pitting_potential_at_25c",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Steady-state critical pitting potentials"
+        },
+        {
+          "source_label": "0°C",
+          "interpreted_name": "steady_state_critical_pitting_potential_at_0c",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Steady-state critical pitting potentials"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "99.99% Al",
+          "0.1M NaCl",
+          -0.4,
+          -0.41
+        ],
+        [
+          "99.99% Al",
+          "0.1M NaBr",
+          -0.29,
+          -0.32
+        ],
+        [
+          "99.99% Al",
+          "0.1M NaClO₄",
+          0,
+          null
+        ],
+        [
+          "99.99% Al",
+          "0.5M NaCl [Bond et al (2)]",
+          -0.5,
+          null
+        ],
+        [
+          "99.99% Al",
+          "1M NaCl [Kaesche (1)]",
+          -0.48,
+          null
+        ],
+        [
+          "99.99% Al",
+          "1M KBr [Kaesche (1)]",
+          -0.35,
+          null
+        ],
+        [
+          "99.99% Al",
+          "1M KI [Kaesche (1)]",
+          -0.2,
+          null
+        ],
+        [
+          "99.4% Al",
+          "0.1M NaCl",
+          -0.41,
+          null
+        ],
+        [
+          "1.3% Mn-Al",
+          "0.1M NaCl",
+          -0.45,
+          null
+        ],
+        [
+          "2.4% Mg-Al",
+          "0.1M NaCl",
+          -0.44,
+          null
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0008",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Mg",
+          "interpreted_name": "magnesium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "99.99% Al",
+          0.0039,
+          0.0016,
+          0.0007,
+          null,
+          0.0005,
+          null
+        ],
+        [
+          "99.4% Al",
+          0.1,
+          0.08,
+          0.48,
+          0.004,
+          0.0004,
+          0.002
+        ],
+        [
+          "1.3% Mn-Al",
+          0.006,
+          0.002,
+          0.002,
+          1.3,
+          0.001,
+          null
+        ],
+        [
+          "2.4% Mg-Al",
+          0.04,
+          0.08,
+          0.16,
+          0.02,
+          2.43,
+          0.23
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0009",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Activity of NO₃⁻ or CrO₄²⁻",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Activity of Cl⁻",
+          "interpreted_name": "chloride_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Molality of Cl⁻",
+          "interpreted_name": "chloride_molality",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.0014,
+          0.009,
+          0.009,
+          "NO₃⁻"
+        ],
+        [
+          0.011,
+          0.035,
+          0.035,
+          "NO₃⁻"
+        ],
+        [
+          0.017,
+          0.053,
+          0.053,
+          "NO₃⁻"
+        ],
+        [
+          0.034,
+          0.08,
+          0.08,
+          "NO₃⁻"
+        ],
+        [
+          0.08,
+          0.145,
+          0.145,
+          "NO₃⁻"
+        ],
+        [
+          0.004,
+          0.014,
+          0.014,
+          "CrO₄⁻"
+        ],
+        [
+          0.012,
+          0.025,
+          0.025,
+          "CrO₄⁻"
+        ],
+        [
+          0.032,
+          0.041,
+          0.041,
+          "CrO₄⁻"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0012",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Activity of Acetate, Benzoate or Sulfate",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Activity of Cl⁻",
+          "interpreted_name": "chloride_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Molality of Cl⁻",
+          "interpreted_name": "chloride_molality",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.02,
+          0.0072,
+          0.0072,
+          "Acetate"
+        ],
+        [
+          0.035,
+          0.009,
+          0.009,
+          "Acetate"
+        ],
+        [
+          0.12,
+          0.014,
+          0.014,
+          "Acetate"
+        ],
+        [
+          0.25,
+          0.0185,
+          0.0185,
+          "Acetate"
+        ],
+        [
+          0.03,
+          0.0057,
+          0.0057,
+          "Benzoate"
+        ],
+        [
+          0.06,
+          0.0071,
+          0.0071,
+          "Benzoate"
+        ],
+        [
+          0.12,
+          0.0082,
+          0.0082,
+          "Benzoate"
+        ],
+        [
+          0.22,
+          0.009,
+          0.009,
+          "Benzoate"
+        ],
+        [
+          0.018,
+          0.0019,
+          0.0019,
+          "Sulfate"
+        ],
+        [
+          0.065,
+          0.0024,
+          0.0024,
+          "Sulfate"
+        ],
+        [
+          0.11,
+          0.0031,
+          0.0031,
+          "Sulfate"
+        ],
+        [
+          0.23,
+          0.0038,
+          0.0038,
+          "Sulfate"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0011",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Time, Seconds",
+          "interpreted_name": "time",
+          "data_type": "numeric",
+          "unit": "Seconds",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, S.H.E.",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          3,
+          -0.81
+        ],
+        [
+          6,
+          -0.81
+        ],
+        [
+          8,
+          -0.8
+        ],
+        [
+          11,
+          -0.75
+        ],
+        [
+          14,
+          -0.67
+        ],
+        [
+          16,
+          -0.59
+        ],
+        [
+          19,
+          -0.52
+        ],
+        [
+          23,
+          -0.45
+        ],
+        [
+          30,
+          -0.39
+        ],
+        [
+          40,
+          -0.38
+        ],
+        [
+          50,
+          -0.38
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0012",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Cl⁻ Activity",
+          "interpreted_name": "chloride_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, S.H.E.",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "result_source",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.075,
+          -0.37,
+          null,
+          null,
+          "Kaesche's Results"
+        ],
+        [
+          0.15,
+          -0.405,
+          null,
+          null,
+          "Kaesche's Results"
+        ],
+        [
+          0.45,
+          -0.465,
+          null,
+          null,
+          "Kaesche's Results"
+        ],
+        [
+          1.3,
+          -0.52,
+          null,
+          null,
+          "Kaesche's Results"
+        ],
+        [
+          0.075,
+          -0.375,
+          -0.4,
+          -0.34,
+          "Present Results"
+        ],
+        [
+          0.15,
+          -0.4,
+          -0.415,
+          -0.39,
+          "Present Results"
+        ],
+        [
+          0.35,
+          -0.44,
+          -0.46,
+          -0.425,
+          "Present Results"
+        ],
+        [
+          0.65,
+          -0.48,
+          -0.5,
+          -0.465,
+          "Present Results"
+        ],
+        [
+          1.3,
+          -0.52,
+          -0.54,
+          -0.5,
+          "Present Results"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0015",
+      "status": "partial",
+      "variables": [
+        {
+          "source_label": "Activity of SO₄²⁻ or NO₃⁻",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Potential V_c, Volts, S.H.E.",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials, determined potentiostatically"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.003,
+          -0.1,
+          "SO₄²⁻"
+        ],
+        [
+          0.025,
+          0.32,
+          "SO₄²⁻"
+        ],
+        [
+          0.045,
+          0.43,
+          "SO₄²⁻"
+        ],
+        [
+          0.07,
+          0.5,
+          "SO₄²⁻"
+        ],
+        [
+          0.13,
+          0.64,
+          "SO₄²⁻"
+        ],
+        [
+          0.3,
+          0.78,
+          "SO₄²⁻"
+        ],
+        [
+          0.13,
+          -0.02,
+          "NO₃⁻"
+        ],
+        [
+          0.2,
+          0.25,
+          "NO₃⁻"
+        ],
+        [
+          0.3,
+          0.57,
+          "NO₃⁻"
+        ],
+        [
+          0.4,
+          0.76,
+          "NO₃⁻"
+        ]
+      ],
+      "notes": [
+        "Molarity annotations beside markers were omitted because the catalog does not define that annotated field."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "partial",
+      "variables": [
+        {
+          "source_label": "Number of Pits per Specimen",
+          "interpreted_name": "pit_count",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Activity of NO₃⁻ or SO₄²⁻",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0,
+          0.27,
+          "NO₃⁻"
+        ],
+        [
+          0,
+          0.2,
+          "NO₃⁻"
+        ],
+        [
+          3,
+          0.18,
+          "NO₃⁻"
+        ],
+        [
+          20,
+          0.165,
+          "NO₃⁻"
+        ],
+        [
+          49,
+          0.135,
+          "NO₃⁻"
+        ],
+        [
+          0,
+          0.075,
+          "SO₄²⁻"
+        ],
+        [
+          0,
+          0.042,
+          "SO₄²⁻"
+        ],
+        [
+          0,
+          0.022,
+          "SO₄²⁻"
+        ],
+        [
+          5,
+          0.012,
+          "SO₄²⁻"
+        ],
+        [
+          11,
+          0.006,
+          "SO₄²⁻"
+        ],
+        [
+          18,
+          0.002,
+          "SO₄²⁻"
+        ]
+      ],
+      "notes": [
+        "Molarity annotations beside markers were omitted because the catalog does not define that annotated field."
+      ]
+    },
+    {
+      "catalog_id": "page_0005_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "metal",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nCl⁻/nNO₃⁻",
+          "interpreted_name": "observed_chloride_to_nitrate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nCl⁻/nSO₄²⁻",
+          "interpreted_name": "observed_chloride_to_sulfate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nCl⁻/nAc⁻",
+          "interpreted_name": "observed_chloride_to_acetate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nSO₄²⁻/nNO₃⁻",
+          "interpreted_name": "observed_sulfate_to_nitrate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nAc⁻/nNO₃⁻",
+          "interpreted_name": "calculated_acetate_to_nitrate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nSO₄²⁻/nAc⁻",
+          "interpreted_name": "calculated_sulfate_to_acetate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "18-8",
+          1.88,
+          0.85,
+          1.12,
+          2.21,
+          1.68,
+          1.32
+        ],
+        [
+          "Al",
+          0.69,
+          0.31,
+          0.41,
+          2.1,
+          1.59,
+          1.32
+        ]
+      ],
+      "notes": []
+    }
+  ]
+}

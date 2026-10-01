@@ -1,0 +1,1185 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_4/paper_4_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0002_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "S",
+          "interpreted_name": "sulfur_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cb + Ta",
+          "interpreted_name": "columbium_plus_tantalum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "P",
+          "interpreted_name": "phosphorus_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V",
+          "interpreted_name": "vanadium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "W",
+          "interpreted_name": "tungsten_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Co",
+          "interpreted_name": "cobalt_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Al",
+          "interpreted_name": "aluminum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ti",
+          "interpreted_name": "titanium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "UNS No.",
+          "interpreted_name": "uns_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        },
+        {
+          "variable_index": 8,
+          "component": "value"
+        },
+        {
+          "variable_index": 9,
+          "component": "value"
+        },
+        {
+          "variable_index": 10,
+          "component": "value"
+        },
+        {
+          "variable_index": 11,
+          "component": "value"
+        },
+        {
+          "variable_index": 12,
+          "component": "value"
+        },
+        {
+          "variable_index": 13,
+          "component": "value"
+        },
+        {
+          "variable_index": 14,
+          "component": "value"
+        },
+        {
+          "variable_index": 15,
+          "component": "value"
+        },
+        {
+          "variable_index": 16,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "C-276",
+          null,
+          15.7,
+          15.69,
+          6.06,
+          0.002,
+          0.47,
+          0.02,
+          0.002,
+          null,
+          0.008,
+          0.14,
+          3.65,
+          1.87,
+          null,
+          null,
+          "N10276"
+        ],
+        [
+          "625",
+          60.8,
+          21.63,
+          8.52,
+          4.68,
+          0.03,
+          0.1,
+          0.31,
+          0.001,
+          3.54,
+          0.009,
+          null,
+          null,
+          null,
+          0.14,
+          0.24,
+          "N06625"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "NaCl / wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t / °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "localized_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.1,
+          200,
+          "crevice corrosion"
+        ],
+        [
+          0.1,
+          175,
+          "crevice corrosion"
+        ],
+        [
+          0.1,
+          150,
+          "crevice corrosion"
+        ],
+        [
+          0.1,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          200,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          175,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          150,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          125,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          75,
+          "passivation maintained"
+        ],
+        [
+          1,
+          50,
+          "passivation maintained"
+        ],
+        [
+          1,
+          25,
+          "passivation maintained"
+        ],
+        [
+          5,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          50,
+          "passivation maintained"
+        ],
+        [
+          5,
+          25,
+          "passivation maintained"
+        ],
+        [
+          10,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          10,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          10,
+          50,
+          "passivation maintained"
+        ],
+        [
+          10,
+          25,
+          "passivation maintained"
+        ],
+        [
+          25,
+          175,
+          "crevice corrosion"
+        ],
+        [
+          25,
+          175,
+          "crevice corrosion + pitting"
+        ],
+        [
+          25,
+          150,
+          "crevice corrosion"
+        ],
+        [
+          25,
+          150,
+          "crevice corrosion + pitting"
+        ],
+        [
+          25,
+          125,
+          "crevice corrosion"
+        ],
+        [
+          25,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          25,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          25,
+          50,
+          "crevice corrosion"
+        ],
+        [
+          25,
+          25,
+          "passivation maintained"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0003",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "NaCl / wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t / °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "localized_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.1,
+          200,
+          "crevice corrosion + pitting"
+        ],
+        [
+          0.1,
+          175,
+          "crevice corrosion + pitting"
+        ],
+        [
+          0.1,
+          150,
+          "crevice corrosion + pitting"
+        ],
+        [
+          0.1,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          0.1,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          0.1,
+          50,
+          "crevice corrosion"
+        ],
+        [
+          0.1,
+          25,
+          "passivation maintained"
+        ],
+        [
+          1,
+          200,
+          "crevice corrosion + pitting"
+        ],
+        [
+          1,
+          175,
+          "crevice corrosion + pitting"
+        ],
+        [
+          1,
+          150,
+          "crevice corrosion + pitting"
+        ],
+        [
+          1,
+          125,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          90,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          50,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          25,
+          "crevice corrosion"
+        ],
+        [
+          1,
+          20,
+          "passivation maintained"
+        ],
+        [
+          5,
+          140,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          125,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          90,
+          "crevice corrosion + pitting"
+        ],
+        [
+          5,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          50,
+          "crevice corrosion"
+        ],
+        [
+          5,
+          25,
+          "crevice corrosion"
+        ],
+        [
+          10,
+          150,
+          "crevice corrosion"
+        ],
+        [
+          10,
+          100,
+          "crevice corrosion"
+        ],
+        [
+          10,
+          50,
+          "crevice corrosion"
+        ],
+        [
+          10,
+          25,
+          "crevice corrosion"
+        ],
+        [
+          22,
+          175,
+          "crevice corrosion + pitting"
+        ],
+        [
+          22,
+          150,
+          "crevice corrosion + pitting"
+        ],
+        [
+          22,
+          125,
+          "crevice corrosion + pitting"
+        ],
+        [
+          22,
+          100,
+          "crevice corrosion + pitting"
+        ],
+        [
+          22,
+          90,
+          "crevice corrosion + pitting"
+        ],
+        [
+          22,
+          75,
+          "crevice corrosion"
+        ],
+        [
+          22,
+          50,
+          "crevice corrosion"
+        ],
+        [
+          22,
+          25,
+          "crevice corrosion"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001__panel_a",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so extraction cannot proceed for this panel."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0002__panel_c",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so extraction cannot proceed for this panel."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0003__panel_b",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so extraction cannot proceed for this panel."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0004__panel_d",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so extraction cannot proceed for this panel."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0005__panel_e",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "log i / nA.cm⁻²",
+          "interpreted_name": "log_current_density",
+          "data_type": "numeric",
+          "unit": "nA.cm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0006__panel_f",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "log i / nA.cm⁻²",
+          "interpreted_name": "log_current_density",
+          "data_type": "numeric",
+          "unit": "nA.cm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0007",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "t / °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_b (SHE(T)) / V",
+          "interpreted_name": "passivation_breakdown_potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so discrete values cannot be finalized."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "NaCl, wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t/°C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "crevice_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so discrete values cannot be finalized."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0007",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "NaCl, wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t/°C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "crevice_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review, so discrete values cannot be finalized."
+      ]
+    }
+  ]
+}

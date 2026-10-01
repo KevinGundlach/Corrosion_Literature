@@ -1,0 +1,1463 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_5/paper_5_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "(UNS No.)",
+          "interpreted_name": "uns_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Others",
+          "interpreted_name": "other_alloying_elements",
+          "data_type": "text",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "825",
+          "(N08825)",
+          30,
+          2.2,
+          42,
+          21.5,
+          3,
+          "0.9 Ti"
+        ],
+        [
+          "317LM",
+          "(S31703)",
+          61,
+          null,
+          14,
+          19,
+          4.25,
+          null
+        ],
+        [
+          "904L",
+          "(N08904)",
+          45,
+          1.5,
+          25.5,
+          21,
+          4.7,
+          null
+        ],
+        [
+          "G",
+          "(N06007)",
+          19.5,
+          2,
+          44,
+          22,
+          6.5,
+          "2.0 Cb,(1) 2.5 Co, 1.0 W"
+        ],
+        [
+          "G-3",
+          "(N06985)",
+          19.5,
+          1.9,
+          49,
+          22.2,
+          7,
+          "1.0 W"
+        ],
+        [
+          "HX",
+          "(N06002)",
+          18.5,
+          null,
+          48,
+          22,
+          9,
+          "1.5 Co, 0.6 W"
+        ],
+        [
+          "625",
+          "(N06625)",
+          2.5,
+          null,
+          61,
+          21,
+          9,
+          "3.6 Cb(1)"
+        ],
+        [
+          "C-22",
+          "(N06022)",
+          4,
+          null,
+          58,
+          21,
+          13.5,
+          "2.5 Co, 3.0 W"
+        ],
+        [
+          "C-276",
+          "(N10276)",
+          5,
+          null,
+          59,
+          15.5,
+          16,
+          "4.0 W"
+        ],
+        [
+          "C-4",
+          "(N06455)",
+          null,
+          null,
+          68,
+          16.3,
+          15.3,
+          null
+        ],
+        [
+          "ALLCORR",
+          null,
+          null,
+          null,
+          56,
+          31,
+          10,
+          "2.0 W"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0004",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "MTI",
+          "interpreted_name": "mti_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "CCT data for nickel alloys"
+        },
+        {
+          "source_label": "Modified MTI",
+          "interpreted_name": "modified_mti_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "CCT data for nickel alloys"
+        },
+        {
+          "source_label": "Literature",
+          "interpreted_name": "literature_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "literature CCT values"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 3,
+          "component": "upper_bound"
+        }
+      ],
+      "rows": [
+        [
+          "825",
+          0,
+          2.5,
+          -3,
+          null,
+          null
+        ],
+        [
+          "825",
+          0,
+          2.5,
+          -3,
+          null,
+          null
+        ],
+        [
+          "904L",
+          2.5,
+          2.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "904L",
+          5,
+          2.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "317LM",
+          2.5,
+          2.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "317LM",
+          2.5,
+          2.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "HX",
+          7.5,
+          5,
+          null,
+          null,
+          null
+        ],
+        [
+          "HX",
+          7.5,
+          5,
+          null,
+          null,
+          null
+        ],
+        [
+          "G",
+          23,
+          20,
+          null,
+          15,
+          21
+        ],
+        [
+          "G",
+          25,
+          20,
+          null,
+          15,
+          21
+        ],
+        [
+          "G-3",
+          25,
+          20,
+          null,
+          null,
+          null
+        ],
+        [
+          "G-3",
+          25,
+          20,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-4",
+          37.5,
+          20,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-4",
+          37.5,
+          20,
+          null,
+          null,
+          null
+        ],
+        [
+          "625",
+          35,
+          30,
+          null,
+          45,
+          50
+        ],
+        [
+          "625",
+          40,
+          30,
+          null,
+          45,
+          50
+        ],
+        [
+          "C-22",
+          70,
+          52.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-22",
+          70,
+          55,
+          null,
+          null,
+          null
+        ],
+        [
+          "ALLCORR",
+          52.5,
+          40,
+          null,
+          null,
+          null
+        ],
+        [
+          "ALLCORR",
+          52.5,
+          42.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 1)",
+          60,
+          45,
+          null,
+          52,
+          58
+        ],
+        [
+          "C-276 (Heat 1)",
+          65,
+          42.5,
+          null,
+          52,
+          58
+        ],
+        [
+          "C-276 (Heat 2)",
+          62.5,
+          45,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 2)",
+          65,
+          45,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 3)",
+          62.5,
+          47.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 3)",
+          65,
+          47.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 4)",
+          55,
+          47.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 4)",
+          60,
+          47.5,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 5)",
+          null,
+          50,
+          null,
+          null,
+          null
+        ],
+        [
+          "C-276 (Heat 5)",
+          null,
+          50,
+          null,
+          null,
+          null
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0008",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy Molybdenum Content, Wt. %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          4.2,
+          2.5
+        ],
+        [
+          4.2,
+          2.5
+        ],
+        [
+          4.5,
+          5
+        ],
+        [
+          6,
+          22.5
+        ],
+        [
+          6,
+          25
+        ],
+        [
+          7,
+          25
+        ],
+        [
+          8.3,
+          7.5
+        ],
+        [
+          8.5,
+          35
+        ],
+        [
+          8.5,
+          40
+        ],
+        [
+          10.2,
+          52.5
+        ],
+        [
+          13.5,
+          70
+        ],
+        [
+          15.5,
+          37.5
+        ],
+        [
+          15.5,
+          55
+        ],
+        [
+          15.7,
+          60
+        ],
+        [
+          15.7,
+          62.5
+        ],
+        [
+          15.7,
+          65
+        ],
+        [
+          15.7,
+          65
+        ],
+        [
+          15.8,
+          62.5
+        ],
+        [
+          15.8,
+          60
+        ],
+        [
+          15.8,
+          55
+        ],
+        [
+          16,
+          62.5
+        ],
+        [
+          16,
+          64
+        ],
+        [
+          16,
+          65
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0009",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy Molybdenum Content, Wt. %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          4.2,
+          2.5
+        ],
+        [
+          4.2,
+          2.5
+        ],
+        [
+          4.5,
+          2.5
+        ],
+        [
+          6,
+          20
+        ],
+        [
+          6,
+          20
+        ],
+        [
+          7,
+          20
+        ],
+        [
+          8.3,
+          7.5
+        ],
+        [
+          8.5,
+          30
+        ],
+        [
+          8.5,
+          30
+        ],
+        [
+          10.2,
+          40
+        ],
+        [
+          10.2,
+          42.5
+        ],
+        [
+          13.5,
+          52.5
+        ],
+        [
+          13.5,
+          55
+        ],
+        [
+          15.5,
+          20
+        ],
+        [
+          15.5,
+          45
+        ],
+        [
+          15.5,
+          47.5
+        ],
+        [
+          15.8,
+          45
+        ],
+        [
+          15.8,
+          47.5
+        ],
+        [
+          16,
+          45
+        ],
+        [
+          16,
+          47.5
+        ],
+        [
+          16,
+          50
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0001",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "Alloy Molybdenum Content, Wt. %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "test_procedure",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Initial immersion temperature (C)",
+          "interpreted_name": "initial_immersion_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CCT (C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Alloy C-276 evaluated for CCT"
+        },
+        {
+          "source_label": "Maximum temperature variance (C)",
+          "interpreted_name": "maximum_temperature_variance",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          30,
+          77.5,
+          5
+        ],
+        [
+          30,
+          80,
+          5
+        ],
+        [
+          30,
+          82.5,
+          5
+        ],
+        [
+          40,
+          72.5,
+          12.5
+        ],
+        [
+          40,
+          75,
+          12.5
+        ],
+        [
+          40,
+          85,
+          12.5
+        ],
+        [
+          47.5,
+          60,
+          5
+        ],
+        [
+          47.5,
+          62.5,
+          5
+        ],
+        [
+          47.5,
+          65,
+          5
+        ],
+        [
+          50,
+          50,
+          0
+        ],
+        [
+          50,
+          50,
+          0
+        ],
+        [
+          50,
+          50,
+          0
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0010",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Estimated Critical Crevice Temperature (°C)",
+          "interpreted_name": "estimated_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Experimentally Determined Critical Crevice Temperature (°C)",
+          "interpreted_name": "experimentally_determined_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 0,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 0,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          null,
+          -15,
+          -5,
+          null,
+          -5,
+          0,
+          "825"
+        ],
+        [
+          null,
+          -5,
+          5,
+          null,
+          0,
+          3,
+          "317LM"
+        ],
+        [
+          null,
+          7,
+          15,
+          null,
+          1,
+          4,
+          "904L"
+        ],
+        [
+          null,
+          17,
+          27,
+          null,
+          18,
+          22,
+          "G"
+        ],
+        [
+          null,
+          25,
+          35,
+          null,
+          18,
+          22,
+          "G-3"
+        ],
+        [
+          null,
+          42,
+          49,
+          null,
+          5,
+          9,
+          "HX"
+        ],
+        [
+          null,
+          50,
+          60,
+          null,
+          31,
+          36,
+          "625"
+        ],
+        [
+          null,
+          62,
+          72,
+          null,
+          47,
+          50,
+          "ALLCORR"
+        ],
+        [
+          null,
+          90,
+          100,
+          null,
+          68,
+          73,
+          "C-22"
+        ],
+        [
+          null,
+          122,
+          132,
+          null,
+          50,
+          60,
+          "C-276"
+        ],
+        [
+          null,
+          122,
+          132,
+          null,
+          33,
+          36,
+          "C-4"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0011",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Estimated Critical Crevice Temperature (°C)",
+          "interpreted_name": "estimated_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Experimentally Determined Critical Crevice Temperature (°C)",
+          "interpreted_name": "experimentally_determined_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 0,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 0,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          null,
+          -15,
+          -5,
+          2,
+          null,
+          null,
+          "825"
+        ],
+        [
+          null,
+          -5,
+          5,
+          2,
+          null,
+          null,
+          "317LM"
+        ],
+        [
+          null,
+          3,
+          12,
+          0,
+          null,
+          null,
+          "904L"
+        ],
+        [
+          null,
+          15,
+          25,
+          17,
+          null,
+          null,
+          "G"
+        ],
+        [
+          null,
+          25,
+          35,
+          17,
+          null,
+          null,
+          "G-3"
+        ],
+        [
+          null,
+          42,
+          49,
+          5,
+          null,
+          null,
+          "HX"
+        ],
+        [
+          null,
+          42,
+          50,
+          28,
+          null,
+          null,
+          "625"
+        ],
+        [
+          null,
+          62,
+          72,
+          40,
+          null,
+          null,
+          "ALLCORR"
+        ],
+        [
+          null,
+          90,
+          100,
+          50,
+          null,
+          null,
+          "C-22"
+        ],
+        [
+          null,
+          122,
+          132,
+          40,
+          null,
+          null,
+          "C-276"
+        ],
+        [
+          null,
+          122,
+          132,
+          16,
+          null,
+          null,
+          "C-4"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Cr + 2.6 x Mo + 4.4 x Cb + 6.0 x W",
+          "interpreted_name": "alloy_composition_index",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          29,
+          0
+        ],
+        [
+          30,
+          2
+        ],
+        [
+          31,
+          3
+        ],
+        [
+          32,
+          5
+        ],
+        [
+          44,
+          25
+        ],
+        [
+          46,
+          24
+        ],
+        [
+          47,
+          7
+        ],
+        [
+          55,
+          37
+        ],
+        [
+          60,
+          39
+        ],
+        [
+          60,
+          35
+        ],
+        [
+          73,
+          52
+        ],
+        [
+          77,
+          69
+        ],
+        [
+          77,
+          55
+        ],
+        [
+          79,
+          60
+        ],
+        [
+          80,
+          64
+        ],
+        [
+          81,
+          65
+        ],
+        [
+          82,
+          62
+        ],
+        [
+          82,
+          60
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0005",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Cr + 1.6 x Mo + 4.3 x Cb + 7.0 x W",
+          "interpreted_name": "alloy_composition_index",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          26,
+          2
+        ],
+        [
+          27,
+          2
+        ],
+        [
+          39,
+          20
+        ],
+        [
+          40,
+          20
+        ],
+        [
+          40,
+          7.5
+        ],
+        [
+          51,
+          30
+        ],
+        [
+          62,
+          42
+        ],
+        [
+          63,
+          40
+        ],
+        [
+          65,
+          55
+        ],
+        [
+          65,
+          52
+        ],
+        [
+          65,
+          47.5
+        ],
+        [
+          66,
+          47.5
+        ],
+        [
+          67,
+          45
+        ],
+        [
+          68,
+          50
+        ],
+        [
+          69,
+          47.5
+        ],
+        [
+          69,
+          45
+        ],
+        [
+          70,
+          50
+        ]
+      ],
+      "notes": []
+    }
+  ]
+}

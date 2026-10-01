@@ -1,0 +1,407 @@
+{
+  "schema_version": 2,
+  "paper_reference": "6",
+  "input_path": "mineru_output/paper_6",
+  "source_content_list": "mineru_output/paper_6/6_A. P. Bond, Electrochem. Soc. 120 (1973)_ p. 603_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_6/6_A. P. Bond, Electrochem. Soc. 120 (1973)_ p. 603.md",
+  "figures": [
+    {
+      "catalog_id": "page_0002_item_0011",
+      "source_figure_id": "page_0002_item_0011",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 11,
+      "image_path": "images/973fda8f7a009ec3b126fe6ea975f4b77d3619ffeff0c3c3035ce1d2b98ea4a9.jpg",
+      "caption": "Table I. Compositions of steels tested",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Designation",
+          "interpreted_name": "alloy_designation",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0012",
+      "source_figure_id": "page_0002_item_0012",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 12,
+      "image_path": "images/8d59613e68dc0dfc1836849330c39116197ff6d7867c6d5ec293758b4a6588e4.jpg",
+      "caption": "Fig. 1. Polarization curve obtained on scanning a masked electrode of alloy 4354D (3.5% Mo at 200 mV/hr in nitrogen-saturated 1.0M NaCl at 70°C).",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (VOLT VERSUS SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "VOLT VERSUS SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0018",
+      "source_figure_id": "page_0002_item_0018",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 18,
+      "image_path": "images/96bac42160e80b1b0e6678e29ff526e3b6cae200e16fdcaac218e11f2d8a2844.jpg",
+      "caption": "",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "scanning rate",
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "mV/hr",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "pitting potential",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V (SCE)",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Effect of scanning rate on pitting potential"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "source_figure_id": "page_0003_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 1,
+      "image_path": "images/24fa8b14a290c50d0ede87959306c0547f9865f2c88baf288546f52dfc16cbb6.jpg",
+      "caption": "Fig. 2. Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NaCl.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "PITTING POTENTIAL (VOLT VERSUS SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "VOLT VERSUS SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0009",
+      "source_figure_id": "page_0003_item_0009",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 9,
+      "image_path": "images/30fdb9073d85b36024c11e5c674e32277247001aaf4e9e57dba46af913ebd955.jpg",
+      "caption": "Table Ill. Effect of heat-treatment on pitting potentials in N2-saturated 1M NaCl at 25°C",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Heat",
+          "interpreted_name": "alloy_heat",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "% Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting potential, V (SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V (SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat_treatment_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0010",
+      "source_figure_id": "page_0003_item_0010",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 10,
+      "image_path": "images/223cfec5f6a9fbf52d36d9af7bd410edcc2a05735f0924451bab167c46101ed0.jpg",
+      "caption": "Table IV. Effect of heat-treatment on the pitting potential of Ti-stabilized 18% Cr-2% Mo ferritic stainless steels in nitrogen-saturated 1M NaCl at a scanning rate of 2000 mV/hr at 45°℃",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Heat",
+          "interpreted_name": "alloy_heat",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ti content (weight per cent)",
+          "interpreted_name": "titanium_content",
+          "data_type": "numeric",
+          "unit": "weight per cent",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting potential, V (SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V (SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "water_quench_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/db78da07a46206ac67926920635da368037c2e07de4ae1f1879b0e67c15fc842.jpg",
+      "caption": "Fig. 4. Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NoBr.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "PITTING POTENTIAL (VOLT VERSUS SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "VOLT VERSUS SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0005",
+      "source_figure_id": "page_0004_item_0005",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 5,
+      "image_path": "images/fbdc91852fbeaccd12be27cd5cd72008db16a87545d0e11e5785c4bbb1724ac6.jpg",
+      "caption": "Table V. Results of exposure tests in acidified halide salts at 25°C",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Medium",
+          "interpreted_name": "test_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_designation",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "% Mo",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion rate (mdd) of indicated alloys",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mdd",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Corrosion rate (mdd)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0006",
+      "source_figure_id": "page_0004_item_0006",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 6,
+      "image_path": "images/eed2ac6cc0a77f1cc315ac54485927a8fc69d8f8877f7eb6e7f5279170c12a46.jpg",
+      "caption": "Table VI. Results of 30 day complete immersion tests in oxygen-saturated aqueous solutions at 90°C",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Solution",
+          "interpreted_name": "test_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_designation",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "% Mo",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion rate (mdd) of indicated alloys",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mdd",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Corrosion rate (mdd)"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

@@ -1,0 +1,1232 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_49/paper_49_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0003_item_0009",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "UNS No.",
+          "interpreted_name": "uns_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Alloys",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Product",
+          "interpreted_name": "product",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Others",
+          "interpreted_name": "other_constituents",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 4,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 5,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 6,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        },
+        {
+          "variable_index": 8,
+          "component": "value"
+        },
+        {
+          "variable_index": 9,
+          "component": "value"
+        },
+        {
+          "variable_index": 10,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["S30403", "304L", null, "Balance", 18, null, null, null, null, null, 10, null, null, 0.03, 0.2, 1, "0.045P, 0.02S, 1.0Si"],
+        ["S31603", "316L", null, "Balance", 16, null, null, 3, null, null, 11, null, null, 0.02, 0.2, 1, "0.045P, 0.02S, 1.0Si"],
+        ["S31703", "317L", null, "Balance", 18, null, null, 3, null, null, 13, null, null, 0.02, 0.2, 2, "0.045P, 0.02S, 1.0Si"],
+        ["N08904", "904L", "AVESTA", "Balance", 20, null, null, 5, null, null, 24, null, null, 0.02, 1, 1.5, "0.045P, 0.02S"],
+        ["S31254", "SMO 254", "AVESTA", "Balance", 20, null, null, 6, null, null, 18, null, null, 0.02, 0.7, null, "0.2N, 0.002Si"],
+        ["S32654", "SMO 654", "AVESTA", "Balance", 25, null, null, 7, null, null, 22, null, null, 0.015, 0.4, 0.5, "0.5N"],
+        ["N08925", "hMo 1925", "VDM", "Balance", 21, null, null, 6, null, null, 25, null, null, 0.01, 0.9, 0.9, "0.2N, 0.002Si"],
+        ["N0828", "hMo 3127", "VDM", "Balance", 27, null, null, 6.5, null, null, 32, null, null, 0.02, 1, 2, "0.003S, Nb, Pb"],
+        [null, "Remanit 4565", "THYSSEN", "Balance", null, 22, 25, null, 4, 6, null, 16, 18, 0.02, 0.1, 5, "0.5N, 0.003Si, 0.1Nb"],
+        ["S44635", "Monit 44635", "AVESTA", "Balance", 25, null, null, 4, null, null, 4, null, null, 0.025, 0.2, 0.4, "0.035N, Ti, Nb, Pb, Si"],
+        [null, "Remanit 4575", "THYSSEN", "Balance", null, 27, 29, null, 2, 3, null, 3, 4.5, 0.01, null, 0.1, "0.025N, Ti, Pb, Si, Nb"],
+        ["S31803", "Duplex 2205", "AVESTA", "Balance", 22, null, null, 3, null, null, 6, null, null, 0.02, 0.2, 1.5, "0.15, 0.6 (Cb + Ta)"],
+        ["S41000", "410", null, "Balance", 13, null, null, null, null, null, null, null, null, null, null, 1, "0.04P, 0.035S, 1Si"],
+        ["S17400", "17-4PH", "ARMCO", "Balance", 16, null, null, null, null, null, 4.5, null, null, 0.07, 4, 1, "0.3Cb, 0.04P, 1Si"],
+        ["N08020", "20Cb3", "CARPENTER", "Balance", 19, null, null, 2, null, null, 33, null, null, 0.02, 3, 0.4, "0.4Si, 5Cb + Ta"]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Ions",
+          "interpreted_name": "ion_name",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "ion_formula",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Concentration, mg l⁻¹",
+          "interpreted_name": "concentration",
+          "data_type": "numeric",
+          "unit": "mg l⁻¹",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["Calcium", "Ca⁺⁺", 508],
+        ["Magnesium", "Mg⁺⁺", 1618],
+        ["Sodium", "Na⁺", 13440],
+        ["Potassium", "K⁺", 483],
+        ["Strontium", "Sr⁺⁺", 17],
+        ["Bicarbonate", "HCO₃⁻", 176],
+        ["Chloride", "Cl⁻", 24090],
+        ["Sulphate", "SO₄⁻⁻", 3384],
+        ["Bromide", "Br⁻", 83],
+        ["Fluoride", "F⁻", 1],
+        ["Total dissolved solids", "TDS", 43800]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0011",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Chloride concentration",
+          "interpreted_name": "chloride_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "pH range",
+          "interpreted_name": "ph_range",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "lower_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 1,
+          "component": "upper_inclusive"
+        }
+      ],
+      "rows": [
+        ["Seawater + 1.5M NaCl", 2.1, 2.4, null],
+        ["Seawater + 2.5M NaCl", 1.7, 2.1, null],
+        ["Seawater + 3.5M NaCl", 1.3, 1.7, null],
+        ["Seawater + 4.5M NaCl", 1.0, 1.3, null],
+        ["Seawater + 5.5M NaCl", null, 1.0, false]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0007",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion rate × 10⁻³ mpy",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "× 10⁻³ mpy",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "exposure_duration",
+          "data_type": "numeric",
+          "unit": "h",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["316L", 2.91, 3024], ["316L", 4.445, 4824],
+        ["904L", 2.05, 3024], ["904L", 2.43, 4824],
+        ["SMO 254", 1.36, 3024], ["SMO 254", 1.86, 4824],
+        ["hMo 1925", 3.52, 3024], ["hMo 1925", 2.28, 4824],
+        ["hMo 3127", 3.52, 3024], ["hMo 3127", null, 4824],
+        ["20 Cb3", 3.90, 3024], ["20 Cb3", 2.63, 4824],
+        ["Remanit 4565", 5.28, 3024], ["Remanit 4565", 4.48, 4824],
+        ["Monit 44635", 2.09, 3024], ["Monit 44635", 1.93, 4824],
+        ["Remanit 4575", 4.12, 3024], ["Remanit 4575", 1.09, 4824],
+        ["Duplex steel 2205", 0.20, 3024], ["Duplex steel 2205", 2.17, 4824]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0001",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "E(mV)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "I(μ A/cm²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "μ A/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": ["The figure contains only markerless polarization-resistance traces; fitted and continuous lines were not digitized."]
+    },
+    {
+      "catalog_id": "page_0007_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloys",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "test_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ecor (mV)",
+          "interpreted_name": "corrosion_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "values of corrosion potential $E _ { \\mathrm { c o r } }$ and pitting potential $E _ { \\mathrm { p i t } }$"
+        },
+        {
+          "source_label": "Corrosion rate (mpy)",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mpy",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Epit (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "values of corrosion potential $E _ { \\mathrm { c o r } }$ and pitting potential $E _ { \\mathrm { p i t } }$"
+        },
+        {
+          "source_label": "PREN",
+          "interpreted_name": "pitting_resistance_equivalent",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting resistance equivalent $P R E _ { \\mathrm { N } }$"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["304L", "300ppm Cl⁻", -185, 0.082, 287, 18],
+        ["304L", "500ppm Cl⁻", -206, 0.105, 260, 18],
+        ["304L", "1000ppm Cl⁻", -208, 0.121, 218, 18],
+        ["304L", "5000ppm Cl⁻", -216, 0.138, 140, 18],
+        ["304L", "Seawater Natural", -217, 0.173, 94, 18],
+        ["316L", "300ppm Cl⁻", -238, 0.077, 344, 25],
+        ["316L", "500ppm Cl⁻", -221, 0.068, 330, 25],
+        ["316L", "1000ppm Cl⁻", -210, 0.087, 284, 25],
+        ["316L", "5000ppm Cl⁻", -229, 0.062, 232, 25],
+        ["316L", "Seawater Natural", -243, 0.097, 154, 25],
+        ["317L", "300ppm Cl⁻", -210, 0.089, 720, 30],
+        ["317L", "500ppm Cl⁻", -249, 0.093, 647, 30],
+        ["317L", "1000ppm Cl⁻", -199, 0.091, 556, 30],
+        ["317L", "5000ppm Cl⁻", -224, 0.083, 275, 30],
+        ["317L", "Seawater Natural", -192, 0.123, 204, 30],
+        ["904L", "300ppm Cl⁻", -206, 0.029, 876, 35],
+        ["904L", "500ppm Cl⁻", -188, 0.025, 860, 35],
+        ["904L", "1000ppm Cl⁻", -194, 0.044, 780, 35],
+        ["904L", "5000ppm Cl⁻", -195, 0.0815, 587, 35],
+        ["904L", "Seawater Natural", -202, 0.023, 427, 35],
+        ["410", "300ppm Cl⁻", -267, 0.121, 144, 13],
+        ["410", "500ppm Cl⁻", -247, 0.146, 101, 13],
+        ["410", "1000ppm Cl⁻", -407, 4.07, -120, 13],
+        ["410", "5000ppm Cl⁻", -478, 5.31, -43, 13],
+        ["410", "Seawater Natural", -511, 32.48, -145, 13],
+        ["17-4PH", "300ppm Cl⁻", -214, 0.125, 221, 30.5],
+        ["17-4PH", "500ppm Cl⁻", -211, 0.071, 263, 30.5],
+        ["17-4PH", "1000ppm Cl⁻", -227, 0.071, 251, 30.5],
+        ["17-4PH", "5000ppm Cl⁻", -225, 0.064, 281, 30.5],
+        ["17-4PH", "Seawater Natural", -240, 0.095, 1516, 30.5],
+        ["SMO 254", "300ppm Cl⁻", -161, 0.042, 840, 43.5],
+        ["SMO 254", "500ppm Cl⁻", -167, 0.042, 830, 43.5],
+        ["SMO 254", "1000ppm Cl⁻", -170, 0.066, 821, 43.5],
+        ["SMO 254", "5000ppm Cl⁻", -121, 0.047, 785, 43.5],
+        ["SMO 254", "Seawater Natural", -166, 0.025, 813, 43.5],
+        ["SMO 654", "300ppm Cl⁻", -185, 0.043, 979, 57],
+        ["SMO 654", "500ppm Cl⁻", -120, 0.027, 975, 57],
+        ["SMO 654", "1000ppm Cl⁻", -185, 0.090, 972, 57],
+        ["SMO 654", "5000ppm Cl⁻", -315, 2.02, 908, 57],
+        ["SMO 654", "Seawater Natural", -278, 4.42, 883, 57],
+        ["hMo 1925", "300ppm Cl⁻", -144, 0.056, 917, 41],
+        ["hMo 1925", "500ppm Cl⁻", -134, 0.069, 867, 41],
+        ["hMo 1925", "1000ppm Cl⁻", -142, 0.0685, 738, 41],
+        ["hMo 1925", "5000ppm Cl⁻", -187, 0.084, 530, 41],
+        ["hMo 1925", "Seawater Natural", -160, 0.0645, 1060, 41],
+        ["hMo 3127", "300ppm Cl⁻", -204, 0.030, 997, 48.3],
+        ["hMo 3127", "500ppm Cl⁻", -133, 0.027, 980, 48.3],
+        ["hMo 3127", "1000ppm Cl⁻", -211, 0.037, 973, 48.3],
+        ["hMo 3127", "5000ppm Cl⁻", -198, 0.056, 933, 48.3],
+        ["hMo 3127", "Seawater Natural", -172, 0.013, 883, 48.3],
+        ["20 Cb3", "300ppm Cl⁻", -199, 0.054, 912, 26.5],
+        ["20 Cb3", "500ppm Cl⁻", -218, 0.053, 631, 26.5],
+        ["20 Cb3", "1000ppm Cl⁻", -216, 0.054, 761, 26.5],
+        ["20 Cb3", "5000ppm Cl⁻", -181, 0.109, 830, 26.5],
+        ["20 Cb3", "Seawater Natural", -149, 0.223, 538, 26.5],
+        ["Remanit 4565", "300ppm Cl⁻", -133, 0.055, 937, 40],
+        ["Remanit 4565", "500ppm Cl⁻", -129, 0.074, 912, 40],
+        ["Remanit 4565", "1000ppm Cl⁻", -170, 0.077, 900, 40],
+        ["Remanit 4565", "5000ppm Cl⁻", -190, 0.074, 869, 40],
+        ["Remanit 4565", "Seawater Natural", -176, 0.034, 976, 40],
+        ["Monit 44635", "300ppm Cl⁻", -111, 0.035, 1006, 38],
+        ["Monit 44635", "500ppm Cl⁻", -155, 0.067, 1003, 38],
+        ["Monit 44635", "1000ppm Cl⁻", -149, 0.066, 942, 38],
+        ["Monit 44635", "5000ppm Cl⁻", -234, 0.076, 940, 38],
+        ["Monit 44635", "Seawater Natural", -228, 0.068, 721, 38],
+        ["Remanit 4575", "300ppm Cl⁻", -245, 0.036, 899, 35],
+        ["Remanit 4575", "500ppm Cl⁻", -210, 0.046, 842, 35],
+        ["Remanit 4575", "1000ppm Cl⁻", -246, 0.078, 953, 35],
+        ["Remanit 4575", "5000ppm Cl⁻", -147, 0.095, 966, 35],
+        ["Remanit 4575", "Seawater Natural", -244, 0.063, 826, 35],
+        ["Duplex 2205", "300ppm Cl⁻", -208, 0.041, 885, 34],
+        ["Duplex 2205", "500ppm Cl⁻", -199, 0.015, 855, 34],
+        ["Duplex 2205", "1000ppm Cl⁻", -196, 0.073, 872, 34],
+        ["Duplex 2205", "5000ppm Cl⁻", -220, 0.080, 851, 34],
+        ["Duplex 2205", "Seawater Natural", -263, 0.065, 629, 34]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0008_item_0001",
+      "status": "partial",
+      "variables": [
+        {
+          "source_label": "E(MV)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "MV",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "I(UA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "UA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [826, null, "Duplex 2205"],
+        [538, null, "20 Cb3"],
+        [427, null, "904 L"],
+        [204, null, "317 L"],
+        [94, null, "17-4 pH"]
+      ],
+      "notes": ["Only the five explicit potential annotations were extracted; the markerless polarization traces and their current-density positions were not digitized."]
+    },
+    {
+      "catalog_id": "page_0008_item_0006",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloys",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Duration (days)",
+          "interpreted_name": "duration",
+          "data_type": "numeric",
+          "unit": "days",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Sites attacked",
+          "interpreted_name": "sites_attacked",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Time to break down (h)",
+          "interpreted_name": "time_to_break_down",
+          "data_type": "numeric",
+          "unit": "h",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Max. depth of attack (mm)",
+          "interpreted_name": "maximum_depth_of_attack",
+          "data_type": "numeric",
+          "unit": "mm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Crevice corrosion index (CCI)",
+          "interpreted_name": "crevice_corrosion_index",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["304L", 150, 1, 21, 0.12, 0.12, 50],
+        ["304L", 180, 6, 22, 0.29, 1.74, 25],
+        ["316L", 150, 1, 21, 0.09, 0.09, 50],
+        ["316L", 180, 2, 576, 0.46, 0.92, 25],
+        ["317L", 150, 0, null, null, null, 50],
+        ["317L", 180, 0, null, null, null, 25],
+        ["904L", 150, 0, null, null, null, 50],
+        ["904L", 180, 0, null, null, null, 25],
+        ["254SMO", 150, 0, null, null, null, 50],
+        ["254SMO", 180, 0, null, null, null, 25],
+        ["654SMO", 150, null, null, null, null, 50],
+        ["654SMO", 180, 0, null, null, null, 25],
+        ["1925hMo", 150, 0, null, null, null, 50],
+        ["1925hMo", 180, 1, 22, null, null, 25],
+        ["3127hMo", 150, 1, 19, null, null, 50],
+        ["3127hMo", 180, 0, null, null, null, 25],
+        ["R4565", 150, 1, 21, null, null, 50],
+        ["R4565", 180, 0, null, null, null, 25],
+        ["R4575", 150, 1, 21, null, null, 50],
+        ["R4575", 180, 1, 22, null, null, 25],
+        ["M44635", 150, 1, 1320, null, null, 50],
+        ["M44635", 180, 0, null, null, null, 25],
+        ["D2205", 150, 2, 2000, 0.102, 0.204, 50],
+        ["D2205", 180, 1, 72, null, null, 25]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0009_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloys",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Duration (days)",
+          "interpreted_name": "duration",
+          "data_type": "numeric",
+          "unit": "days",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Sites attacked",
+          "interpreted_name": "sites_attacked",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Time to break down (h)",
+          "interpreted_name": "time_to_break_down",
+          "data_type": "numeric",
+          "unit": "h",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Max depth of attack (mm)",
+          "interpreted_name": "maximum_depth_of_attack",
+          "data_type": "numeric",
+          "unit": "mm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CCI",
+          "interpreted_name": "crevice_corrosion_index",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Crevice corrosion index (CCI)"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "upper_bound"
+        },
+        {
+          "variable_index": 4,
+          "component": "upper_inclusive"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["304L", 180, 9, 22, 0.39, null, null, 3.5, 50],
+        ["304L", 180, 2, 242, null, 0.01, false, 0.02, 25],
+        ["316L", 180, 8, 1920, 0.16, null, null, 1.28, 50],
+        ["316L", 180, 1, 44, null, null, null, null, 25],
+        ["317L", 180, 1, 22, null, null, null, null, 50],
+        ["317L", 180, 1, 44, null, null, null, null, 25],
+        ["904L", 180, 2, 2160, 0.07, null, null, 0.14, 50],
+        ["904L", 180, 1, 92, null, null, null, null, 25],
+        ["254SMO", 180, 1, 1392, 0.028, null, null, 0.028, 50],
+        ["254SMO", 180, 0, null, null, null, null, null, 25],
+        ["654SMO", 180, 1, 24, null, null, null, null, 50],
+        ["654SMO", 180, 0, null, null, null, null, null, 25],
+        ["1925hMo", 180, 1, 150, null, null, null, null, 50],
+        ["1925hMo", 180, 1, 432, null, null, null, null, 25],
+        ["3127hMo", 180, 1, 150, null, null, null, null, 50],
+        ["3127hMo", 180, 1, 67, null, null, null, null, 25],
+        ["R4565", 180, null, null, null, null, null, null, 50],
+        ["R4565", 180, 1, 44, null, null, null, null, 25],
+        ["R4575", 180, 1, 216, 0.26, null, null, 0.26, 50],
+        ["R4575", 180, 1, 161, null, null, null, null, 25],
+        ["M44635", 180, 1, 1224, null, null, null, null, 50],
+        ["M44635", 180, 1, 44, null, null, null, null, 25],
+        ["D2205", 180, 1, 125, null, null, null, null, 50],
+        ["D2205", 180, 1, 1152, null, null, null, null, 25]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0009_item_0003",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloys",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Duration (days)",
+          "interpreted_name": "duration",
+          "data_type": "numeric",
+          "unit": "days",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Sites attacked",
+          "interpreted_name": "sites_attacked",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Time to break down (h)",
+          "interpreted_name": "time_to_break_down",
+          "data_type": "numeric",
+          "unit": "h",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Max depth of attack (mm)",
+          "interpreted_name": "maximum_depth_of_attack",
+          "data_type": "numeric",
+          "unit": "mm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CCI",
+          "interpreted_name": "crevice_corrosion_index",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Crevice corrosion index (CCI)"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        ["316L", 180, 4, 47, 0.17, 0.68, 50],
+        ["316L", 180, 0, null, null, null, 25],
+        ["317L", 180, 2, 23, 0.06, 0.12, 50],
+        ["317L", 180, 0, null, null, null, 25],
+        ["904L", 180, 2, 47, null, null, 50],
+        ["904L", 180, 0, null, null, null, 25],
+        ["254SMO", 180, 1, 168, null, null, 50],
+        ["254SMO", 180, 0, null, null, null, 25],
+        ["654SMO", 180, 0, null, null, null, 50],
+        ["654SMO", 180, 0, null, null, null, 25],
+        ["1925hMo", 180, 5, 2080, 0.05, 0.25, 50],
+        ["1925hMo", 180, 0, null, null, null, 25],
+        ["3127hMo", 180, 0, null, null, null, 50],
+        ["3127hMo", 180, 0, null, null, null, 25],
+        ["D2205", 180, 0, null, null, null, 50],
+        ["D2205", 180, 0, null, null, null, 25]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0010_item_0005",
+      "status": "partial",
+      "variables": [
+        {
+          "source_label": "APH",
+          "interpreted_name": "active_peak_height",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "active peak height (APH)"
+        },
+        {
+          "source_label": "pH",
+          "interpreted_name": "ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CCSpH",
+          "interpreted_name": "critical_crevice_solution_ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical crevice solution pH (CCSpH)"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [11, 0.43, "3127HMO", 0.481],
+        [8.7, 0.56, "3127HMO", 0.481],
+        [6.8, 1.06, "3127HMO", 0.481],
+        [16.5, 0.76, "1925HMO", 0.92],
+        [8.7, 0.93, "1925HMO", 0.92],
+        [5.2, 1.08, "1925HMO", 0.92],
+        [24, 1.46, "2205", 1.7226],
+        [7.7, 1.72, "2205", 1.7226],
+        [4.7, 1.88, "2205", 1.7226],
+        [1.7, 2.00, "2205", 1.7226],
+        [17, 0.84, "254SMO", 1.086],
+        [18, 0.96, "254SMO", 1.086],
+        [8.8, 1.08, "254SMO", 1.086],
+        [1.2, 1.20, "254SMO", 1.086],
+        [27, 1.70, "304-L", 2.298],
+        [20, 1.88, "304-L", 2.298],
+        [11, 2.18, "304-L", 2.298],
+        [2.1, 2.30, "304-L", 2.298],
+        [1.4, 3.10, "304-L", 2.298],
+        [13.5, 1.47, "317-L", 1.5325],
+        [7.7, 1.65, "317-L", 1.5325],
+        [3.0, 1.95, "317-L", 1.5325],
+        [1.8, 2.10, "317-L", 1.5325],
+        [12.5, 0.96, "904-L", 1.090],
+        [8.8, 1.06, "904-L", 1.090],
+        [6.8, 1.17, "904-L", 1.090],
+        [4.8, 1.35, "904-L", 1.090],
+        [18, 1.65, "316-L", 1.785],
+        [7.0, 1.83, "316-L", 1.785],
+        [3.1, 1.99, "316-L", 1.785],
+        [2.8, 2.18, "316-L", 1.785],
+        [20, 0.07, "654SMO", 0.50],
+        [12, 0.34, "654SMO", 0.50],
+        [8.5, 0.55, "654SMO", 0.50],
+        [2.2, 1.10, "654SMO", 0.50]
+      ],
+      "notes": ["Only visually separable markers were extracted; several overlapping markers near pH 1.0–1.2 could not be assigned reliably."]
+    },
+    {
+      "catalog_id": "page_0012_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Epit mV",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential $E _ { \\mathrm { p i t } }$"
+        },
+        {
+          "source_label": "Log Cl (ppm)",
+          "interpreted_name": "log_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "ppm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [290, 2.5, "304L"], [260, 3.0, "304L"], [220, 3.5, "304L"], [150, 4.0, "304L"],
+        [340, 2.5, "316L"], [330, 3.0, "316L"], [280, 3.5, "316L"], [230, 4.0, "316L"],
+        [720, 2.5, "317L"], [650, 3.0, "317L"], [560, 3.5, "317L"], [280, 4.0, "317L"],
+        [880, 2.5, "904L"], [860, 3.0, "904L"], [780, 3.5, "904L"], [590, 4.0, "904L"],
+        [840, 2.5, "254"], [830, 3.0, "254"], [820, 3.5, "254"], [790, 4.0, "254"],
+        [920, 2.5, "1925"], [870, 3.0, "1925"], [740, 3.5, "1925"], [530, 4.0, "1925"],
+        [1000, 2.5, "3127"], [980, 3.0, "3127"], [970, 3.5, "3127"], [930, 4.0, "3127"],
+        [940, 2.5, "4565"], [910, 3.0, "4565"], [900, 3.5, "4565"], [870, 4.0, "4565"],
+        [890, 2.5, "2205"], [860, 3.0, "2205"], [870, 3.5, "2205"], [850, 4.0, "2205"],
+        [980, 2.5, "654"], [980, 3.0, "654"], [970, 3.5, "654"], [910, 4.0, "654"]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0012_item_0003",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Epit (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential $E _ { \\mathrm { p i t } }$"
+        },
+        {
+          "source_label": "PREN",
+          "interpreted_name": "pitting_resistance_equivalent",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting resistance equivalent $P R E _ { \\mathrm { N } }$"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [1060, 41, "1925"],
+        [980, 40, "4565"],
+        [830, 35, "4575"],
+        [720, 38, "44653"],
+        [880, 48, "3127"],
+        [890, 57, "654"],
+        [810, 44, "254"],
+        [630, 34, "2205"],
+        [540, 27, "20Cb3"],
+        [430, 35, "904L"],
+        [150, 25, "316L"],
+        [200, 30, "317L"],
+        [150, 31, "17-4PH"],
+        [90, 18, "304L"]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0014_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "PREN",
+          "interpreted_name": "pitting_resistance_equivalent",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting resistance equivalent $P R E _ { \\mathrm { N } }$"
+        },
+        {
+          "source_label": "CCSpH",
+          "interpreted_name": "critical_crevice_solution_ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical crevice solution pH (CCSpH)"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [57, 0.50, "654"],
+        [48, 0.48, "3127"],
+        [41, 0.92, "1925"],
+        [43, 1.10, "254"],
+        [35, 1.10, "904L"],
+        [30, 1.53, "317L"],
+        [35, 1.72, "2205"],
+        [25, 1.78, "316L"],
+        [18, 2.30, "304L"]
+      ],
+      "notes": []
+    }
+  ]
+}

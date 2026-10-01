@@ -1,0 +1,545 @@
+{
+  "schema_version": 2,
+  "paper_reference": "2",
+  "input_path": "mineru_output/paper_2",
+  "source_content_list": "mineru_output/paper_2/2_A. P. Bond, E. A. Lizlovs, J. Electrochem. Soc. 115 (1968)_ p. 1130_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_2/2_A. P. Bond, E. A. Lizlovs, J. Electrochem. Soc. 115 (1968)_ p. 1130.md",
+  "figures": [
+    {
+      "catalog_id": "page_0001_item_0022",
+      "source_figure_id": "page_0001_item_0022",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 1,
+      "item_index": 22,
+      "image_path": "images/e2c6b18d04ff4d4416cb0a6593b3c2e3932861ce0d9628845c249d215c427726.jpg",
+      "caption": "Table 1. Compositions of alloys studied",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr, %",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni, %",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo, %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn, %",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si, %",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C, %",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N, %",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0006",
+      "source_figure_id": "page_0002_item_0006",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 6,
+      "image_path": "images/edffc779f0d23a1fdcfd7ed6a0d8128a2f521abe7dba13c3518dea446c95d6bf.jpg",
+      "caption": "Fig. 1. Polarization curves obtained on masked and unmasked electrodes for the 17.6% Cr-13.6% Ni-2.45% Mo austenitic stainless steel in argon-saturated 0.1N hydrochloric acid. The potential was scanned from negative toward positive. The arrows indicate the potential at which the scanning rate was decreased from 600 to 60 mv/hr.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "electrode_masking",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0010",
+      "source_figure_id": "page_0002_item_0010",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 10,
+      "image_path": "images/69fc756f94c29bba12aa0c2c5541674a39fcab8140736ac24438026f6437b1a1.jpg",
+      "caption": "Fig. 2. Critical current densities obtained from potentiodynamic scans at 600 mv/hr in argon-saturated 0.1N hydrochloric acid on the 16.6% Cr-13.5% Ni steels.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CRITICAL CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "critical_current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0011",
+      "source_figure_id": "page_0002_item_0011",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 11,
+      "image_path": "images/5920cfcde0bc7447d1c30a59e422c43d21a6edf957e9c88c2a64a36209054aef.jpg",
+      "caption": "Fig. 3. Critical current densities and primary passivation potentials obtained from potentiodynamic scans at 600 mv/hr in argonsaturated 0.1N hydrochloric acid on the 20% Cr-39% Ni steels.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CRITICAL CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "critical_current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "PRIMARY PASSIVATION POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "primary_passivation_potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "source_figure_id": "page_0003_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 1,
+      "image_path": "images/90b7dcbf7dfb76dfd40a72ce0a12fb201cc1ebde3edb75b6cacfaac7a20e5cd4.jpg",
+      "caption": "Table II. Primary passivation potentials $(\\pmb { \\varepsilon } _ { \\mathbf { p } \\mathbf { p } })$ and critical current densities $(I _ { \\mathrm { c r } })$ for the 18% Cr-16% Ni high-purity alloys obtained from potentiodynamic polarization scans at 600 mv/hr in argon-saturated HCl",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Molybdenum content, %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "hydrochloric_acid_concentration",
+          "data_type": "numeric",
+          "unit": "N",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Icr, ma/cm²",
+          "interpreted_name": "critical_current_density",
+          "data_type": "numeric",
+          "unit": "ma/cm²",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "critical current densities"
+        },
+        {
+          "source_label": "Epp, v vs. SCE",
+          "interpreted_name": "primary_passivation_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "primary passivation potential"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0005",
+      "source_figure_id": "page_0003_item_0005",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 5,
+      "image_path": "images/62a9c8aaed66ece9b192017466c2c27c65aec67d64aaf23528cdb0c69772398e.jpg",
+      "caption": "Fig. 4. Polarization curve obtained for 17.6% Cr-13.6% Ni-1.99% Mo austenitic stainless steel in argon-saturated 0.1N hydrochloric acid. The scanning rate was 600 mv/hr from —0.3 to 0.1v; it was decreased to 60 mv/hr from 0.1v to the pitting potential.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY MA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "MV/HR",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0006",
+      "source_figure_id": "page_0003_item_0006",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 6,
+      "image_path": "images/5753e35f9033432b5bf6d724c844aae32a1054585a3671ac5c6e88219f4bac8b.jpg",
+      "caption": "Table Ill. Pitting potentials obtained from potentiodynamic polarization scans in argon-saturated 0.1N HCl",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting potential, v vs. SCE",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/1c975ebf8fca2e2bf4c8da05453204758a04e7141860eb45f6f80c875c999e01.jpg",
+      "caption": "Table IV. Pitting potentials obtained at various scanning rates on the 17.6% Cr-13.5% Ni-2.93% Mo alloy in 1.0M sodium chloride",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Scanning rate, mv/hr",
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "mv/hr",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Repassivating pitting potential, v vs. SCE",
+          "interpreted_name": "repassivating_pitting_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting potential, v vs. SCE",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "v vs. SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0003",
+      "source_figure_id": "page_0004_item_0003",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 3,
+      "image_path": "images/49301b8d37aa8777f02a3e16a31349e3bf5123c56460e545d3e6cac938392807.jpg",
+      "caption": "Fig. 5. Anodic polarization curves obtained on a masked electrode for the 17.6% Cr-13.6% Ni-2.93% Mo austenitic stainless steel in argon-saturated 1.OM sodium chloride. The scanning rate was 2000 mv/hr in the positive direction.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "MV/HR",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0004",
+      "source_figure_id": "page_0004_item_0004",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 4,
+      "image_path": "images/6352955d8a6f91c26eba432621da71ecc00a6cc4ccfc801bce0b8b18d248addc.jpg",
+      "caption": "Fig. 6. Anodic polarization curves obtained on a masked electrode for the 17.6% Cr-13.6% Ni-2.93% Mo stainless steel in argonsaturated 1.OM sodium chloride. The scanning rate was 600 mv/hr up to 0.3v and thereafter, 20 mv/hr.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CURRENT DENSITY (MA/CM²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "MA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "scanning_rate",
+          "data_type": "numeric",
+          "unit": "MV/HR",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0012",
+      "source_figure_id": "page_0004_item_0012",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 12,
+      "image_path": "images/4db8eda3d350f7974cce8bb384436bb7d36a3751aae6aab1ac7824e058c57aa0.jpg",
+      "caption": "Fig. 7. Pitting potentials obtained from potentiodynamic polarization scans in argon-saturated 1.0M sodium chloride.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "MOLYBDENUM CONTENT (%)",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "PITTING POTENTIAL (V) VERSUS SCE",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V versus SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy_series",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "(DELTA FERRITE)",
+          "interpreted_name": "delta_ferrite_presence",
+          "data_type": "boolean",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0006",
+      "source_figure_id": "page_0005_item_0006",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 5,
+      "item_index": 6,
+      "image_path": "images/c77f7c2ebb355eaf1a1e20188ee52f6192c45ee88e90917653d7140fc425b9f3.jpg",
+      "caption": "Table V. Results of exposure of austenitic steels to 0.33M ferric chloride at pH 2 for 3 days",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Weight loss in 3 days, mg/dm²",
+          "interpreted_name": "weight_loss",
+          "data_type": "numeric",
+          "unit": "mg/dm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Remarks",
+          "interpreted_name": "corrosion_observation",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

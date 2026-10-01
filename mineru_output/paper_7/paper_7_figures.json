@@ -1,0 +1,461 @@
+{
+  "schema_version": 2,
+  "paper_reference": "7",
+  "input_path": "mineru_output/paper_7",
+  "source_content_list": "mineru_output/paper_7/7_H. Bohni, H. H. Uhlig, J. Electrochem Soc. 116 (1969)_ p. 906_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_7/7_H. Bohni, H. H. Uhlig, J. Electrochem Soc. 116 (1969)_ p. 906.md",
+  "figures": [
+    {
+      "catalog_id": "page_0002_item_0001",
+      "source_figure_id": "page_0002_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 1,
+      "image_path": "images/99ec75e247fdc5360d77639f2ec646a5ab99f127442ca5d13a69cbf22bfbf7e1.jpg",
+      "caption": "Metal analysis Fig. 1. Critical pitting potentials of 99.99% Al in 0.1M NaCl as a function of temperature.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Temperature, °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V_c, Volts, S.H.E.",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials of 99.99% Al"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0007",
+      "source_figure_id": "page_0002_item_0007",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 7,
+      "image_path": "images/b6caafb1714f8d130a53f5515f5bd096ed185c23f5e877cb0dcbc46c25251aaf.jpg",
+      "caption": "Table I. Steady-state critical pitting potentials, $\\pmb { \\nu } _ { \\alpha }$ vs SHE",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Electrolyte",
+          "interpreted_name": "electrolyte",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "25°C",
+          "interpreted_name": "steady_state_critical_pitting_potential_at_25c",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Steady-state critical pitting potentials"
+        },
+        {
+          "source_label": "0°C",
+          "interpreted_name": "steady_state_critical_pitting_potential_at_0c",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Steady-state critical pitting potentials"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0008",
+      "source_figure_id": "page_0002_item_0008",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 8,
+      "image_path": "images/c826dea22c1645a28f51e618963fd7bf822a1c920fbb126c23fe862ba49a0427.jpg",
+      "caption": "",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Mg",
+          "interpreted_name": "magnesium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "%Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0009",
+      "source_figure_id": "page_0002_item_0009",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 9,
+      "image_path": "images/c6de513a692be1b769bc5c741112482c52612df4951978267cc99645d70fae2d.jpg",
+      "caption": "Fig. 2. Relation of minimum activities (or concentrations) of sodium nitrate or of sodium chromate required to inhibit pitting of 99.99% Al in aerated sodium chloride solutions.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Activity of NO₃⁻ or CrO₄²⁻",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Activity of Cl⁻",
+          "interpreted_name": "chloride_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Molality of Cl⁻",
+          "interpreted_name": "chloride_molality",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0012",
+      "source_figure_id": "page_0002_item_0012",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 12,
+      "image_path": "images/b640d994939add1f1144931ccfe26ad36ab0431a5bf88d9c642d0cda135edde8.jpg",
+      "caption": "Fig. 3. Relation of minimum activities (or concentrations) of sodium acetate or sodium benzoate or sodium sulfate required to inhibit pitting of 99.99% Al in aerated sodium chloride solutions",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Activity of Acetate, Benzoate or Sulfate",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Activity of Cl⁻",
+          "interpreted_name": "chloride_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Molality of Cl⁻",
+          "interpreted_name": "chloride_molality",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0011",
+      "source_figure_id": "page_0003_item_0011",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 11,
+      "image_path": "images/79786944b16f5f2257724c8a08cedd47b3ffed51652bf34490647a3d24a17fb1.jpg",
+      "caption": "Fig. 4. Change of corrosion potential with time on immersion of 99.99% Al in 0.1N NaCl plus 5 ppm $C u ^ { + + }, 2 5 ^ { \\circ } C.$ Critical potentials ${ \\pmb v } _ { \\mathbf { c } }$ and ${ \\pmb v } _ { \\textrm { c } } ^ { \\prime }$ are potentiostatic values.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Time, Seconds",
+          "interpreted_name": "time",
+          "data_type": "numeric",
+          "unit": "Seconds",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, S.H.E.",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0012",
+      "source_figure_id": "page_0003_item_0012",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 12,
+      "image_path": "images/89d66c77ffce47cdf9ce1160ce00434a012b2e5bcc3bce7a4397275168672172.jpg",
+      "caption": "Fig. 5. Corrosion potentials of 99.99% Al in various activities of NaCI containing 5 ppm $\\mathbb { c } _ { \\pm } + \\mathrm { \\Delta } ^ { + }$ in comparison with critical pitting potentials determined by Kaesche.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Cl⁻ Activity",
+          "interpreted_name": "chloride_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Potential, Volts, S.H.E.",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "result_source",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0015",
+      "source_figure_id": "page_0003_item_0015",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 15,
+      "image_path": "images/42e850b08b509bd35128513358b017e37d3bd9a7d40684b0416f9e9d929f70a3.jpg",
+      "caption": "Fig. 6. Critical pitting potentials, determined potentiostatically, of AI in 0.005M NaCI with ${ \\mathsf { N a s S O } } _ { 4 }$ additions, and in 0.1M NaCl with $N a N O _ { 3 }$ additions, $2 5 \\circ _ { \\bf C }$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Activity of SO₄²⁻ or NO₃⁻",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Potential V_c, Volts, S.H.E.",
+          "interpreted_name": "critical_pitting_potential",
+          "data_type": "numeric",
+          "unit": "Volts, S.H.E.",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical pitting potentials, determined potentiostatically"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/6d77f47c57a24b84eae79ad2029b751b83e64a50011a484a0a187b8ebf699843.jpg",
+      "caption": "Fig. 7. Number of pits per specimen after immersing 99.4% Al in 0.005M NaCl with $N a _ { 2 } S O _ { 4 }$ additions, and in 0.1M NaCl with $N a N O _ { 3 }$ additions, 24 hr, $2 5 \\circ \\mathsf { C }$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Number of Pits per Specimen",
+          "interpreted_name": "pit_count",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Activity of NO₃⁻ or SO₄²⁻",
+          "interpreted_name": "inhibitor_anion_activity",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "inhibitor_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0001",
+      "source_figure_id": "page_0005_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 5,
+      "item_index": 1,
+      "image_path": "images/4a1d4e1e64adecbb4ca5e332cc7b2b0ef3fe6ba31aaea706ac2cff3825952c8b.jpg",
+      "caption": "Table I1. Ratios of n appearing in Freundlich adsorption isotherm",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": null,
+          "interpreted_name": "metal",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nCl⁻/nNO₃⁻",
+          "interpreted_name": "observed_chloride_to_nitrate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nCl⁻/nSO₄²⁻",
+          "interpreted_name": "observed_chloride_to_sulfate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nCl⁻/nAc⁻",
+          "interpreted_name": "observed_chloride_to_acetate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nSO₄²⁻/nNO₃⁻",
+          "interpreted_name": "observed_sulfate_to_nitrate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nAc⁻/nNO₃⁻",
+          "interpreted_name": "calculated_acetate_to_nitrate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "nSO₄²⁻/nAc⁻",
+          "interpreted_name": "calculated_sulfate_to_acetate_n_ratio",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

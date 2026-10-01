@@ -1,0 +1,361 @@
+{
+  "schema_version": 2,
+  "paper_reference": "8",
+  "input_path": "mineru_output/paper_8",
+  "source_content_list": "mineru_output/paper_8/8_R. Guo, M. B. Ives, Corrosion 46 {1990)_ p. 125_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_8/8_R. Guo, M. B. Ives, Corrosion 46 {1990)_ p. 125.md",
+  "figures": [
+    {
+      "catalog_id": "page_0002_item_0014",
+      "source_figure_id": "page_0002_item_0014",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 14,
+      "image_path": "images/59723241950e7b3a2d6bef5e2d87b9c8593a30d736f1571d15567058ad2256a0.jpg",
+      "caption": "TABLE 1 Chemical Compositions of Steels (wt%)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Steel",
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "heat",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ti",
+          "interpreted_name": "titanium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0015",
+      "source_figure_id": "page_0002_item_0015",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 15,
+      "image_path": "images/b214b5823a2cb20c192b3336cc0a35509a9920ecfedd611c1a8d8ab84a40b3b0.jpg",
+      "caption": "FIGURE 1. Anodic polarization curves for UNS S30100 steel in 0.6 M chloride and bromide solutions at 70°C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "i, µA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E, V(SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001",
+      "source_figure_id": "page_0003_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 1,
+      "image_path": "images/0a7ae87ae474aeaef06aa41faa874153d13bf0aca385c7ce7aa6ae75c8af0c2b.jpg",
+      "caption": "FIGURE 2. Anodic polarization curves for UNS S31254 steel in 0.6 M chloride and bromide solutions at 70°C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "i, µA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E, V(SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0002",
+      "source_figure_id": "page_0003_item_0002",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 2,
+      "image_path": "images/7a426643d9a9f8cf77d8a1de2f25938f9c9c890192cccba246b868ee37af2335.jpg",
+      "caption": "FIGuRE 3. A comparison of pitting potentials for four types of austenitic stainless steels in 0.6 M chloride and bromide solutions at 70°C. Indicated on each bar is the range of potentials measured experimentally.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Steel",
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pitting Potential, V(SCE)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "A comparison of pitting potentials"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0005",
+      "source_figure_id": "page_0003_item_0005",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 5,
+      "image_path": "images/fb055dc4ffe8f9ef05d76e5e4d45d3b86377e34cfabb1ef8baea250ff3eb9754.jpg",
+      "caption": "FIGURE 4. Variations of transpassive and/or pitting potentials for stainless steels with temperature in 0.6 M chloride and bromide solutions.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "T, °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "TRANSPASSIVE/PITTING POTENTIAL V(SCE)",
+          "interpreted_name": "transpassive_or_pitting_potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0006",
+      "source_figure_id": "page_0003_item_0006",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 3,
+      "item_index": 6,
+      "image_path": "images/676cb7a9c3c69a614382d1db4ef8f4ef5ee539f12f8bf830ca770382e4c63df8.jpg",
+      "caption": "TABLE 2 Critical Temperature for Pitting (°C)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Steel",
+          "interpreted_name": "steel",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Chloride",
+          "interpreted_name": "chloride_critical_pitting_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical Temperature for Pitting (°C)"
+        },
+        {
+          "source_label": "Bromide",
+          "interpreted_name": "bromide_critical_pitting_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Critical Temperature for Pitting (°C)"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/c5f6ca38fe4c1660b41bc51da07ab2cd861364cb68b93abd8f9d92a6a06db3c4.jpg",
+      "caption": "FIGuRE 5. Dependence of transpassive and/or pitting potential on [Br−]/([Br−] + [CI-]) ratio for UNS S31254 steel at 70°C with a fixed total halide concentration of 0.6 M.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Br⁻/(Cl⁻+Br⁻)",
+          "interpreted_name": "bromide_fraction_of_total_halide",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "TRANSPASSIVE/PITTING POTENTIAL V(SCE)",
+          "interpreted_name": "transpassive_or_pitting_potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0002",
+      "source_figure_id": "page_0004_item_0002",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 2,
+      "image_path": "images/0d243a639af3362569cd5a425bf6e32d2ad1fd7f8cc0d2ab2d97772c930eca45.jpg",
+      "caption": "FIGURE 6. Anodic polarization curves for Heat 1 and 2 materials of UNS S31254 steel in 0.6 M sodium bromide at 70°C.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "i, µA/CM²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/CM²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E, V(SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V(SCE)",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "material_heat",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

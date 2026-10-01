@@ -1,0 +1,681 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_10/paper_10_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0003_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy No.",
+          "interpreted_name": "alloy_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Condition",
+          "interpreted_name": "condition",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "0.5% Proof Stress, N/mm²",
+          "interpreted_name": "proof_stress",
+          "data_type": "numeric",
+          "unit": "N/mm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ultimate Tensile Stress, N/mm²",
+          "interpreted_name": "ultimate_tensile_stress",
+          "data_type": "numeric",
+          "unit": "N/mm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Elongation, %",
+          "interpreted_name": "elongation",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Izod Impact Value, J",
+          "interpreted_name": "izod_impact_value",
+          "data_type": "numeric",
+          "unit": "J",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        },
+        {
+          "variable_index": 8,
+          "component": "value"
+        },
+        {
+          "variable_index": 9,
+          "component": "value"
+        },
+        {
+          "variable_index": 10,
+          "component": "value"
+        },
+        {
+          "variable_index": 11,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "1",
+          0.22,
+          25.2,
+          5.65,
+          2.24,
+          3.12,
+          0.06,
+          "25 mm dia. test bar; 1 h 1120°C W.Q. + 4 h at 500°C A.C.",
+          664,
+          927,
+          31,
+          79
+        ],
+        [
+          "2",
+          0.05,
+          24.9,
+          5.5,
+          2.5,
+          3.29,
+          0.04,
+          "25 mm dia. test bar; 1 h 1120°C W.Q. + 4 h at 500°C A.C.",
+          602,
+          873,
+          15,
+          13.5
+        ],
+        [
+          "3",
+          0.13,
+          26.8,
+          4.6,
+          2.17,
+          3.05,
+          0.05,
+          "25 mm dia. test bar; 1 h 1120°C W.Q. + 4 h at 500°C A.C.",
+          772,
+          965,
+          16,
+          11
+        ],
+        [
+          "4",
+          0.06,
+          27,
+          4.9,
+          2.2,
+          3,
+          0.04,
+          "25 mm dia. test bar; 1 h 1120°C W.Q. + 4 h at 500°C A.C.",
+          803,
+          942,
+          4,
+          4
+        ],
+        [
+          "5",
+          0.16,
+          25.1,
+          5,
+          2.46,
+          3.04,
+          0.065,
+          "76 mm thick section; 2 h 1120°C W.Q.",
+          618,
+          757,
+          23,
+          null
+        ],
+        [
+          "6",
+          0.05,
+          25.3,
+          5.23,
+          2.44,
+          3.15,
+          0.032,
+          "76 mm thick section; 2 h 1120°C W.Q.",
+          null,
+          541,
+          null,
+          null
+        ]
+      ],
+      "notes": [
+        "Printed dashes and Nil are represented as null numeric values."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0003",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy No.",
+          "interpreted_name": "alloy_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "N",
+          "interpreted_name": "nitrogen_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Condition",
+          "interpreted_name": "condition",
+          "data_type": "text",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "0.5% Proof Stress, N/mm²",
+          "interpreted_name": "proof_stress",
+          "data_type": "numeric",
+          "unit": "N/mm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ultimate Tensile Stress, N/mm²",
+          "interpreted_name": "ultimate_tensile_stress",
+          "data_type": "numeric",
+          "unit": "N/mm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Elongation, %",
+          "interpreted_name": "elongation",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Izod Impact Value, J",
+          "interpreted_name": "izod_impact_value",
+          "data_type": "numeric",
+          "unit": "J",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        },
+        {
+          "variable_index": 4,
+          "component": "value"
+        },
+        {
+          "variable_index": 5,
+          "component": "value"
+        },
+        {
+          "variable_index": 6,
+          "component": "value"
+        },
+        {
+          "variable_index": 7,
+          "component": "value"
+        },
+        {
+          "variable_index": 8,
+          "component": "value"
+        },
+        {
+          "variable_index": 9,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "7",
+          25.2,
+          5.1,
+          0.12,
+          2,
+          "1120°C W.Q. + 4 h at 500°C",
+          710,
+          911,
+          30,
+          60
+        ],
+        [
+          "8",
+          25.2,
+          5.65,
+          0.24,
+          2.24,
+          "1120°C W.Q. + 4 h at 500°C",
+          664,
+          927,
+          31,
+          79
+        ],
+        [
+          "9",
+          25.9,
+          5.8,
+          0.25,
+          2.6,
+          "1120°C W.Q. + 4 h at 500°C",
+          664,
+          911,
+          28,
+          65
+        ],
+        [
+          "10",
+          25.8,
+          4.6,
+          0.12,
+          2,
+          "1120°C W.Q. + 4 h at 500°C",
+          741,
+          942,
+          19,
+          17.5
+        ],
+        [
+          "11",
+          26.8,
+          4.6,
+          0.14,
+          2.1,
+          "1120°C W.Q. + 4 h at 500°C",
+          772,
+          965,
+          16,
+          11
+        ],
+        [
+          "12",
+          28.3,
+          4.9,
+          0.13,
+          2,
+          "1120°C W.Q. + 4 h at 500°C",
+          788,
+          1004,
+          17,
+          8
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "CURRENT DENSITY AFTER 16h, µA/cm²",
+          "interpreted_name": "current_density_after_16h",
+          "data_type": "numeric",
+          "unit": "µA/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CHROMIUM, %",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          25,
+          28
+        ],
+        [
+          30,
+          27
+        ],
+        [
+          45,
+          25.5
+        ],
+        [
+          50,
+          25.1
+        ],
+        [
+          105,
+          24.1
+        ],
+        [
+          155,
+          23.5
+        ],
+        [
+          255,
+          22.9
+        ],
+        [
+          315,
+          22.4
+        ],
+        [
+          330,
+          22.3
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "CURRENT DENSITY AFTER 16h, µA/cm²",
+          "interpreted_name": "current_density_after_16h",
+          "data_type": "numeric",
+          "unit": "µA/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "NICKEL, %",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          50,
+          5.5
+        ],
+        [
+          105,
+          6.15
+        ],
+        [
+          150,
+          6.5
+        ],
+        [
+          210,
+          7.5
+        ],
+        [
+          260,
+          6.8
+        ],
+        [
+          500,
+          8.5
+        ],
+        [
+          50,
+          4.8
+        ],
+        [
+          300,
+          4.4
+        ],
+        [
+          500,
+          3.75
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0003",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "CURRENT DENSITY, µA/cm²",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µA/cm²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E (SCE)",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "SCE",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0007",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Alloy No.",
+          "interpreted_name": "alloy_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Corrosion rate, mg/dm² day",
+          "interpreted_name": "corrosion_rate",
+          "data_type": "numeric",
+          "unit": "mg/dm² day",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "5",
+          6500
+        ],
+        [
+          "6",
+          11000
+        ]
+      ],
+      "notes": []
+    }
+  ]
+}

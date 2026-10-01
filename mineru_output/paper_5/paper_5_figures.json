@@ -1,0 +1,405 @@
+{
+  "schema_version": 2,
+  "paper_reference": "5",
+  "input_path": "mineru_output/paper_5",
+  "source_content_list": "mineru_output/paper_5/5_Hibner, E. L., Materials performance 26.3 (1987)_ 37-40_content_list_v2.json",
+  "source_markdown": "mineru_output/paper_5/5_Hibner, E. L., Materials performance 26.3 (1987)_ 37-40.md",
+  "figures": [
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/74006307e01a9887e49882578acbc4abe37a0779d917485e6a401e8b75687bc1.jpg",
+      "caption": "TABLE 1 — Nominal chemical composition major alloying elements (wt%)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "(UNS No.)",
+          "interpreted_name": "uns_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cu",
+          "interpreted_name": "copper_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Others",
+          "interpreted_name": "other_alloying_elements",
+          "data_type": "text",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0004",
+      "source_figure_id": "page_0004_item_0004",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 4,
+      "item_index": 4,
+      "image_path": "images/96b0950862f0493a1ee9d100cb2d9a2834ea42157993b83fdf5646a4f7f12b1f.jpg",
+      "caption": "TABLE 2 — CCT data for nickel alloys evaluated in 6% FeCl3 (i.e., 10% FeCl3•6 H2O) for 24-h periods using MTI and modified MTI procedures; the data are compared to literature CCT values for, 10% FeCl3 (not hexahydrate)",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "MTI",
+          "interpreted_name": "mti_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "CCT data for nickel alloys"
+        },
+        {
+          "source_label": "Modified MTI",
+          "interpreted_name": "modified_mti_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "CCT data for nickel alloys"
+        },
+        {
+          "source_label": "Literature",
+          "interpreted_name": "literature_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "literature CCT values"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0008",
+      "source_figure_id": "page_0004_item_0008",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 8,
+      "image_path": "images/01aed07baeb485c1394f6b736bada74619c2cf9e946da9b3884fc0dcc4d54138.jpg",
+      "caption": "FIGURE 1 — CCT for nickel alloys in 6% $\\mathsf { F e C l } _ { 3 }$ by the MTI procedure.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Molybdenum Content, Wt. %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0009",
+      "source_figure_id": "page_0004_item_0009",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 9,
+      "image_path": "images/8432d21246ca6435e320c7d42eb6966689b18216ada263621785d72b57c1e672.jpg",
+      "caption": "FIGURE 2 — CCT for nickel alloys in 6% $F e C l _ { 3 }$ by the modified MTI procedure.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Molybdenum Content, Wt. %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0001",
+      "source_figure_id": "page_0005_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 5,
+      "item_index": 1,
+      "image_path": "images/c7c41ce9ab9a6dac0e63a223ae5509b329d7efbff8be4280693a2ff6b6e4bfe3.jpg",
+      "caption": "FIGURE 3 — CCT for nickel alloys in 6% $F e C l _ { 3 }.$",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy Molybdenum Content, Wt. %",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "Wt. %",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "test_procedure",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0002",
+      "source_figure_id": "page_0005_item_0002",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 5,
+      "item_index": 2,
+      "image_path": "images/e0cb94e21b2017628abb1ca2898a5e4d52cb72725c6a9b72422d05b96bd80996.jpg",
+      "caption": "TABLE 3 — Alloy C-276 evaluated for CCT by the MTI procedure",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Initial immersion temperature (C)",
+          "interpreted_name": "initial_immersion_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "CCT (C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Alloy C-276 evaluated for CCT"
+        },
+        {
+          "source_label": "Maximum temperature variance (C)",
+          "interpreted_name": "maximum_temperature_variance",
+          "data_type": "numeric",
+          "unit": "C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0010",
+      "source_figure_id": "page_0005_item_0010",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 5,
+      "item_index": 10,
+      "image_path": "images/7d0ed9c95307642b5ab95060681024558383bba509e9e130e8007d1c0b5a038e.jpg",
+      "caption": "FIGURE 4 — CCT experimentally determined in 6% FeCl₃ by the MTI procedure vs estimated CCT for 10% $F e C l _ { 3 }$ based on an equation for 18% chromium austenitic SSs.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Estimated Critical Crevice Temperature (°C)",
+          "interpreted_name": "estimated_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Experimentally Determined Critical Crevice Temperature (°C)",
+          "interpreted_name": "experimentally_determined_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0011",
+      "source_figure_id": "page_0005_item_0011",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 5,
+      "item_index": 11,
+      "image_path": "images/fc32ef8e405112954e04cff46024db95e67861db1fbc5e7f08c790bf9a505258.jpg",
+      "caption": "FIGURE 5 — CCT experimentally determined in 6% FeCl₃ by the modified MTI procedure vs estimated CCT for 10% FeCl₃ based on an equation for 18% chromium austenitic SSs.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Estimated Critical Crevice Temperature (°C)",
+          "interpreted_name": "estimated_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Experimentally Determined Critical Crevice Temperature (°C)",
+          "interpreted_name": "experimentally_determined_critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0001",
+      "source_figure_id": "page_0006_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 6,
+      "item_index": 1,
+      "image_path": "images/2710d7cad78d9ab8ac4bbe96a690d7dbb6de89f9d22d91d4157482854c6599f3.jpg",
+      "caption": "FIGURE 6— CCT for nickel alloys in 6% FeCl3 by the MTI procedure.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Cr + 2.6 x Mo + 4.4 x Cb + 6.0 x W",
+          "interpreted_name": "alloy_composition_index",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0005",
+      "source_figure_id": "page_0006_item_0005",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 6,
+      "item_index": 5,
+      "image_path": "images/caae6d6dbb8c316f7e0b63e64385f85625fbb282c52fb6a46c528e721fff6aa3.jpg",
+      "caption": "FIGURE 7 — CCT for nickel alloys in 6% $F e C l _ { 3 }$ by the modified MTI procedure.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Cr + 1.6 x Mo + 4.3 x Cb + 7.0 x W",
+          "interpreted_name": "alloy_composition_index",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Critical Crevice Temperature (°C)",
+          "interpreted_name": "critical_crevice_temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

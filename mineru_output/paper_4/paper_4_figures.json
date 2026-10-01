@@ -1,0 +1,647 @@
+{
+  "schema_version": 2,
+  "paper_reference": "4",
+  "input_path": "mineru_output/paper_4",
+  "source_content_list": "mineru_output/paper_4/4_J. R. Postlethwaite, J. Scoular, M. H. Dobbin, Corrosion 44 (1988)_ p. 199._content_list_v2.json",
+  "source_markdown": "mineru_output/paper_4/4_J. R. Postlethwaite, J. Scoular, M. H. Dobbin, Corrosion 44 (1988)_ p. 199..md",
+  "figures": [
+    {
+      "catalog_id": "page_0002_item_0001",
+      "source_figure_id": "page_0002_item_0001",
+      "panel_label": null,
+      "type": "table",
+      "page_number": 2,
+      "item_index": 1,
+      "image_path": "images/4bce45c92bba3b42fc94401e3643676683d38eb2623a82962e84ea44514cf8ae.jpg",
+      "caption": "",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "Alloy",
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ni",
+          "interpreted_name": "nickel_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cr",
+          "interpreted_name": "chromium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mo",
+          "interpreted_name": "molybdenum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Fe",
+          "interpreted_name": "iron_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "C",
+          "interpreted_name": "carbon_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Mn",
+          "interpreted_name": "manganese_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Si",
+          "interpreted_name": "silicon_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "S",
+          "interpreted_name": "sulfur_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Cb + Ta",
+          "interpreted_name": "columbium_plus_tantalum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "P",
+          "interpreted_name": "phosphorus_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V",
+          "interpreted_name": "vanadium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "W",
+          "interpreted_name": "tungsten_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Co",
+          "interpreted_name": "cobalt_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Al",
+          "interpreted_name": "aluminum_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Ti",
+          "interpreted_name": "titanium_content",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "UNS No.",
+          "interpreted_name": "uns_number",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0002",
+      "source_figure_id": "page_0002_item_0002",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 2,
+      "image_path": "images/31d97db425ed25a668249eb008fc95d8cd09031a1d6afbfd8a0707ac8c193497.jpg",
+      "caption": "FIGURE 1 — The nature of the localized corrosion obtained by cyclic polarization with Alloy C-276.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "NaCl / wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t / °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "localized_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0002_item_0003",
+      "source_figure_id": "page_0002_item_0003",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 2,
+      "item_index": 3,
+      "image_path": "images/1cf65c69a8936f5a071b0f85cf7f3f16a1c242439375652ec85bbe62d8f5e23d.jpg",
+      "caption": "FIGURE 2 — The nature of the localized corrosion obtained by cyclic polarization with Alloy 625.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "NaCl / wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t / °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "localized_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0001__panel_a",
+      "source_figure_id": "page_0003_item_0001",
+      "panel_label": "a",
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 1,
+      "image_path": "images/176bcaf29bd8b0ef3f833c64f1f7219ba55efdca9762f5a00b503606f36ff2de.jpg",
+      "caption": "",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Horizontal axis is plotted but its field label is not visible in this MinerU crop."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0002__panel_c",
+      "source_figure_id": "page_0003_item_0002",
+      "panel_label": "c",
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 2,
+      "image_path": "images/78875ae1ff998187613c46f6903379fdd88b63b6eecd7d3eda1ac401be56be4c.jpg",
+      "caption": "",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Horizontal axis is plotted but its field label is not visible in this MinerU crop."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0003__panel_b",
+      "source_figure_id": "page_0003_item_0003",
+      "panel_label": "b",
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 3,
+      "image_path": "images/51004a0b268cb3fd9a415b7be5afd671b12ead65a67aef3511bb7f49172af8e8.jpg",
+      "caption": "",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Horizontal axis is plotted but its field label is not visible in this MinerU crop."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0004__panel_d",
+      "source_figure_id": "page_0003_item_0004",
+      "panel_label": "d",
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 4,
+      "image_path": "images/3d2ea41fcb75b532df846a7c0e14cf359f2b3ff722228319898b97bee0db7a82.jpg",
+      "caption": "",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Horizontal axis is plotted but its field label is not visible in this MinerU crop."
+      ]
+    },
+    {
+      "catalog_id": "page_0003_item_0005__panel_e",
+      "source_figure_id": "page_0003_item_0005",
+      "panel_label": "e",
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 5,
+      "image_path": "images/d6b23105e1b6309a8906f24207f59d7bcc01d095cceba9a342f703e072a27211.jpg",
+      "caption": "",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "log i / nA.cm⁻²",
+          "interpreted_name": "log_current_density",
+          "data_type": "numeric",
+          "unit": "nA.cm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0006__panel_f",
+      "source_figure_id": "page_0003_item_0006",
+      "panel_label": "f",
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 6,
+      "image_path": "images/9e6d75db74b693152c97dcf1633dc3ff1e444f2cd9bdc2536e0f501fd68b97c0.jpg",
+      "caption": "FIGURE 3 — Cyclic polarization scans.",
+      "status": "cataloged",
+      "variables": [
+        {
+          "source_label": "log i / nA.cm⁻²",
+          "interpreted_name": "log_current_density",
+          "data_type": "numeric",
+          "unit": "nA.cm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_SHE(T) / V",
+          "interpreted_name": "potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0007",
+      "source_figure_id": "page_0003_item_0007",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 3,
+      "item_index": 7,
+      "image_path": "images/ac49e4ce4ba1deb1b3909162b869d59d32316507ba12c9d08c3dc6cbbf5cfaf2.jpg",
+      "caption": "FIGURE 4 — Passivation breakdown potentials; (+) Alloy 625, 0.1% NaCI, (∆) Alloy 625, 20% NaCI, () Alloy C-276, 20% NaCl, (o) Alloy C-276, 1% NaCl, and (X) Alloy C-276, 0.1% NaCl.",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "t / °C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_b (SHE(T)) / V",
+          "interpreted_name": "passivation_breakdown_potential",
+          "data_type": "numeric",
+          "unit": "V",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Multiple symbol series are visible, but their grouping field is not labeled within the image."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "source_figure_id": "page_0004_item_0001",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 1,
+      "image_path": "images/20b81d24c4453f48365f973f0b2d6e25aaef3cefd7a4bf648cab46b930ca11d3.jpg",
+      "caption": "FIGURE 6 — Effect of temperature and chloride concentration on the crevice corrosion of Alloy C-276. The number beside each data point is the exposure time in days; (•) crevice corrosion with obvious metal loss, (o) no corrosion, and (- - - - -) tentative crevice temperature envelope.",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "NaCl, wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t/°C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "crevice_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Repeated numeric point annotations are visible but are not labeled within the image."
+      ]
+    },
+    {
+      "catalog_id": "page_0004_item_0007",
+      "source_figure_id": "page_0004_item_0007",
+      "panel_label": null,
+      "type": "chart",
+      "page_number": 4,
+      "item_index": 7,
+      "image_path": "images/a7b44e87eeb95eb908f9950415a4cbcacf96931046b6fc18681454e430438c4f.jpg",
+      "caption": "FIGURE 7 — Effect of temperature and chloride concentration on the crevice corrosion of Alloy 625; the number beside each data point is the exposure time in days; (•) crevice corrosion with obvious metal loss, (o) no corrosion, and (- - - - -) tentative crevice temperature envelope.",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "NaCl, wt%",
+          "interpreted_name": "sodium_chloride_concentration",
+          "data_type": "numeric",
+          "unit": "wt%",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "t/°C",
+          "interpreted_name": "temperature",
+          "data_type": "numeric",
+          "unit": "°C",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "crevice_corrosion_response",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "notes": [
+        "Repeated numeric point annotations are visible but are not labeled within the image."
+      ]
+    }
+  ]
+}

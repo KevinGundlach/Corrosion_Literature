@@ -1,0 +1,1442 @@
+{
+  "schema_version": 2,
+  "source_catalog": "mineru_output/paper_9/paper_9_figures.json",
+  "extractions": [
+    {
+      "catalog_id": "page_0003_item_0001__panel_a",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "[Halide]",
+          "interpreted_name": "log_halide_concentration",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "logarithmic halide concentration"
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          -0.95,
+          335,
+          "NaCl"
+        ],
+        [
+          -0.3,
+          297,
+          "NaCl"
+        ],
+        [
+          0,
+          248,
+          "NaCl"
+        ],
+        [
+          0.2,
+          235,
+          "NaCl"
+        ],
+        [
+          0.32,
+          230,
+          "NaCl"
+        ],
+        [
+          -0.95,
+          365,
+          "NaBr"
+        ],
+        [
+          -0.3,
+          320,
+          "NaBr"
+        ],
+        [
+          -0.02,
+          320,
+          "NaBr"
+        ],
+        [
+          0.15,
+          300,
+          "NaBr"
+        ],
+        [
+          0.25,
+          290,
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0003_item_0002__panel_b",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "pH",
+          "interpreted_name": "ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          3,
+          255,
+          "NaCl"
+        ],
+        [
+          4,
+          296,
+          "NaCl"
+        ],
+        [
+          6.7,
+          299,
+          "NaCl"
+        ],
+        [
+          9,
+          320,
+          "NaCl"
+        ],
+        [
+          3,
+          282,
+          "NaBr"
+        ],
+        [
+          4,
+          320,
+          "NaBr"
+        ],
+        [
+          6.7,
+          320,
+          "NaBr"
+        ],
+        [
+          9,
+          335,
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0004_item_0001",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "I (µAcm⁻²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µAcm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Potentiodynamic polarization plots"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0001__panel_a",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "[Halide]",
+          "interpreted_name": "log_halide_concentration",
+          "data_type": "numeric",
+          "unit": null,
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "logarithmic halide concentration"
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          -1.2,
+          800,
+          "NaCl"
+        ],
+        [
+          -0.8,
+          775,
+          "NaCl"
+        ],
+        [
+          -0.55,
+          710,
+          "NaCl"
+        ],
+        [
+          -0.2,
+          630,
+          "NaCl"
+        ],
+        [
+          -0.08,
+          565,
+          "NaCl"
+        ],
+        [
+          -0.02,
+          550,
+          "NaCl"
+        ],
+        [
+          0.02,
+          545,
+          "NaCl"
+        ],
+        [
+          -1.2,
+          510,
+          "NaBr"
+        ],
+        [
+          -0.8,
+          460,
+          "NaBr"
+        ],
+        [
+          -0.55,
+          450,
+          "NaBr"
+        ],
+        [
+          -0.2,
+          385,
+          "NaBr"
+        ],
+        [
+          -0.08,
+          375,
+          "NaBr"
+        ],
+        [
+          -0.02,
+          370,
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0002__panel_b",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "pH",
+          "interpreted_name": "ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          3,
+          550,
+          "NaCl"
+        ],
+        [
+          4,
+          580,
+          "NaCl"
+        ],
+        [
+          5.5,
+          630,
+          "NaCl"
+        ],
+        [
+          9,
+          635,
+          "NaCl"
+        ],
+        [
+          3,
+          365,
+          "NaBr"
+        ],
+        [
+          4,
+          370,
+          "NaBr"
+        ],
+        [
+          5.5,
+          385,
+          "NaBr"
+        ],
+        [
+          9,
+          402,
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0005_item_0003",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Cl⁻ (mol dm⁻³)",
+          "interpreted_name": "chloride_concentration",
+          "data_type": "numeric",
+          "unit": "mol dm⁻³",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Loop size (mm)",
+          "interpreted_name": "loop_size",
+          "data_type": "numeric",
+          "unit": "mm",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV(SCE))",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV(SCE)",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "magnitude of pitting potentials"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          1,
+          25,
+          530
+        ],
+        [
+          1,
+          70,
+          530
+        ],
+        [
+          1,
+          22,
+          517
+        ],
+        [
+          1,
+          17,
+          485
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "pH",
+          "interpreted_name": "ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          3,
+          382,
+          "NaBr"
+        ],
+        [
+          4,
+          408,
+          "NaBr"
+        ],
+        [
+          5,
+          452,
+          "NaBr"
+        ],
+        [
+          3,
+          296,
+          "NaCl"
+        ],
+        [
+          4,
+          350,
+          "NaCl"
+        ],
+        [
+          5,
+          367,
+          "NaCl"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0006_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "[Halide] (M)",
+          "interpreted_name": "halide_concentration",
+          "data_type": "numeric",
+          "unit": "M",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0.05,
+          778,
+          "NaCl"
+        ],
+        [
+          0.2,
+          712,
+          "NaCl"
+        ],
+        [
+          0.5,
+          635,
+          "NaCl"
+        ],
+        [
+          0.8,
+          575,
+          "NaCl"
+        ],
+        [
+          0.9,
+          552,
+          "NaCl"
+        ],
+        [
+          1,
+          555,
+          "NaCl"
+        ],
+        [
+          0.05,
+          550,
+          "NaBr"
+        ],
+        [
+          0.2,
+          465,
+          "NaBr"
+        ],
+        [
+          0.5,
+          390,
+          "NaBr"
+        ],
+        [
+          0.8,
+          380,
+          "NaBr"
+        ],
+        [
+          1,
+          380,
+          "NaBr"
+        ],
+        [
+          0,
+          550,
+          "NaBr + NaCl (concentration is NaBr)"
+        ],
+        [
+          0.2,
+          445,
+          "NaBr + NaCl (concentration is NaBr)"
+        ],
+        [
+          0.2,
+          380,
+          "NaBr + NaCl (concentration is NaBr)"
+        ],
+        [
+          0.5,
+          385,
+          "NaBr + NaCl (concentration is NaBr)"
+        ],
+        [
+          0.8,
+          380,
+          "NaBr + NaCl (concentration is NaBr)"
+        ],
+        [
+          1,
+          380,
+          "NaBr + NaCl (concentration is NaBr)"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0007_item_0001__panel_a",
+      "status": "needs_review",
+      "variables": [
+        {
+          "source_label": "I (µAcm⁻²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µAcm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V",
+          "interpreted_name": "applied_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "added_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": [
+        "The source catalog remains needs_review; its continuous current-time trace has no reliably assignable discrete rows."
+      ]
+    },
+    {
+      "catalog_id": "page_0007_item_0002__panel_b",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "Time (min)",
+          "interpreted_name": "time",
+          "data_type": "numeric",
+          "unit": "min",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "I (µAcm⁻²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µAcm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "V",
+          "interpreted_name": "applied_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "added_anion",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0007_item_0003",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "[Halide] (M) (balance Na₂SO₄ to 1 M)",
+          "interpreted_name": "halide_concentration",
+          "data_type": "numeric",
+          "unit": "M",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          0,
+          1200,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.1,
+          1200,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.2,
+          1200,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.3,
+          1200,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.4,
+          1180,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.5,
+          940,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.6,
+          920,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.7,
+          830,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.8,
+          740,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0.9,
+          740,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          1,
+          530,
+          "NaCl + Na₂SO₄"
+        ],
+        [
+          0,
+          1100,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.1,
+          1080,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.2,
+          1080,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.3,
+          1085,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.4,
+          1020,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.5,
+          850,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.6,
+          560,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.7,
+          450,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.8,
+          410,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          0.9,
+          350,
+          "NaBr + Na₂SO₄"
+        ],
+        [
+          1,
+          335,
+          "NaBr + Na₂SO₄"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0008_item_0001",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "Halide concentration",
+          "interpreted_name": "halide_concentration",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "Pre-treatment",
+          "interpreted_name": "pretreatment",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV(SCE))",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV(SCE)",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "Pitting potentials for chemically pre-treated samples"
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          "1.0 M NaCl",
+          null,
+          530
+        ],
+        [
+          "1.0 M NaCl",
+          "20% HNO₃ + 4% HF",
+          540
+        ],
+        [
+          "1.0 M NaCl",
+          "50% HNO₃",
+          670
+        ],
+        [
+          "1.0 M NaBr",
+          null,
+          330
+        ],
+        [
+          "1.0 M NaBr",
+          "20% HNO₃ + 4% HF",
+          350
+        ],
+        [
+          "1.0 M NaBr",
+          "50% HNO₃",
+          385
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0008_item_0002",
+      "status": "complete",
+      "variables": [
+        {
+          "source_label": "pH",
+          "interpreted_name": "ph",
+          "data_type": "numeric",
+          "unit": "",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E_p (mV)",
+          "interpreted_name": "pitting_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "markdown",
+          "interpretation_evidence": "pitting potential"
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "metal_or_alloy",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": null,
+          "interpreted_name": "halide_solution",
+          "data_type": "categorical",
+          "unit": null,
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        },
+        {
+          "variable_index": 3,
+          "component": "value"
+        }
+      ],
+      "rows": [
+        [
+          3,
+          220,
+          "Ni₈₀Cr₂₀",
+          "NaCl"
+        ],
+        [
+          4,
+          335,
+          "Ni₈₀Cr₂₀",
+          "NaCl"
+        ],
+        [
+          5,
+          350,
+          "Ni₈₀Cr₂₀",
+          "NaCl"
+        ],
+        [
+          7,
+          380,
+          "Ni₈₀Cr₂₀",
+          "NaCl"
+        ],
+        [
+          9,
+          370,
+          "Ni₈₀Cr₂₀",
+          "NaCl"
+        ],
+        [
+          3,
+          180,
+          "Ni₈₀Cr₂₀",
+          "NaBr"
+        ],
+        [
+          4,
+          280,
+          "Ni₈₀Cr₂₀",
+          "NaBr"
+        ],
+        [
+          5,
+          315,
+          "Ni₈₀Cr₂₀",
+          "NaBr"
+        ],
+        [
+          7,
+          320,
+          "Ni₈₀Cr₂₀",
+          "NaBr"
+        ],
+        [
+          9,
+          330,
+          "Ni₈₀Cr₂₀",
+          "NaBr"
+        ],
+        [
+          3,
+          0,
+          "Mo",
+          "NaCl"
+        ],
+        [
+          4,
+          -50,
+          "Mo",
+          "NaCl"
+        ],
+        [
+          5,
+          -50,
+          "Mo",
+          "NaCl"
+        ],
+        [
+          7,
+          -100,
+          "Mo",
+          "NaCl"
+        ],
+        [
+          9,
+          -110,
+          "Mo",
+          "NaCl"
+        ],
+        [
+          3,
+          10,
+          "Mo",
+          "NaBr"
+        ],
+        [
+          4,
+          -30,
+          "Mo",
+          "NaBr"
+        ],
+        [
+          5,
+          -50,
+          "Mo",
+          "NaBr"
+        ],
+        [
+          7,
+          -90,
+          "Mo",
+          "NaBr"
+        ],
+        [
+          9,
+          -100,
+          "Mo",
+          "NaBr"
+        ],
+        [
+          3,
+          -250,
+          "Ni",
+          "NaCl"
+        ],
+        [
+          4,
+          -140,
+          "Ni",
+          "NaCl"
+        ],
+        [
+          5,
+          -140,
+          "Ni",
+          "NaCl"
+        ],
+        [
+          7,
+          -40,
+          "Ni",
+          "NaCl"
+        ],
+        [
+          9,
+          0,
+          "Ni",
+          "NaCl"
+        ],
+        [
+          3,
+          -220,
+          "Ni",
+          "NaBr"
+        ],
+        [
+          4,
+          -100,
+          "Ni",
+          "NaBr"
+        ],
+        [
+          5,
+          -50,
+          "Ni",
+          "NaBr"
+        ],
+        [
+          7,
+          20,
+          "Ni",
+          "NaBr"
+        ],
+        [
+          9,
+          100,
+          "Ni",
+          "NaBr"
+        ],
+        [
+          3,
+          -650,
+          "Fe",
+          "NaCl"
+        ],
+        [
+          4,
+          -540,
+          "Fe",
+          "NaCl"
+        ],
+        [
+          5,
+          -460,
+          "Fe",
+          "NaCl"
+        ],
+        [
+          7,
+          -450,
+          "Fe",
+          "NaCl"
+        ],
+        [
+          9,
+          -440,
+          "Fe",
+          "NaCl"
+        ],
+        [
+          3,
+          -700,
+          "Fe",
+          "NaBr"
+        ],
+        [
+          4,
+          -420,
+          "Fe",
+          "NaBr"
+        ],
+        [
+          5,
+          -400,
+          "Fe",
+          "NaBr"
+        ],
+        [
+          7,
+          -390,
+          "Fe",
+          "NaBr"
+        ],
+        [
+          9,
+          -350,
+          "Fe",
+          "NaBr"
+        ]
+      ],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0009_item_0001__panel_a",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "Time (min)",
+          "interpreted_name": "time",
+          "data_type": "numeric",
+          "unit": "min",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "I (µAcm⁻²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µAcm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E",
+          "interpreted_name": "applied_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    },
+    {
+      "catalog_id": "page_0009_item_0001__panel_b",
+      "status": "no_discrete_values",
+      "variables": [
+        {
+          "source_label": "Time (min)",
+          "interpreted_name": "time",
+          "data_type": "numeric",
+          "unit": "min",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "I (µAcm⁻²)",
+          "interpreted_name": "current_density",
+          "data_type": "numeric",
+          "unit": "µAcm⁻²",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        },
+        {
+          "source_label": "E",
+          "interpreted_name": "applied_potential",
+          "data_type": "numeric",
+          "unit": "mV",
+          "interpretation_source": "visual",
+          "interpretation_evidence": null
+        }
+      ],
+      "layout": [
+        {
+          "variable_index": 0,
+          "component": "value"
+        },
+        {
+          "variable_index": 1,
+          "component": "value"
+        },
+        {
+          "variable_index": 2,
+          "component": "value"
+        }
+      ],
+      "rows": [],
+      "notes": []
+    }
+  ]
+}
